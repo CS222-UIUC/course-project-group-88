@@ -1,8 +1,9 @@
+from email.policy import default
 from optparse import IndentedHelpFormatter
 import os
 import requests
 
-import PDfplumber
+import csv
 from bs4 import BeautifulSoup
 from typing import List, Tuple
 
@@ -47,15 +48,30 @@ def get_course_info(courseURL : str) :
 
 
 if __name__ == '__main__' :
-    response = requests.get('https://courses.illinois.edu/pdf/schedule/2022/fall/ARTS/243', stream=True)
-    pdf = open('oi.pdf', 'wb')
-    pdf.write(response.content)
+    #response = requests.get('https://courses.illinois.edu/pdf/schedule/2022/fall/ARTS/243', stream=True)
+    # pdf = open('oi.pdf', 'wb')
+    # pdf.write(response.content)
+    default_url = 'https://courses.illinois.edu/schedule/DEFAULT/DEFAULT'
+    departments = get_departments(default_url)
+    all_courses = []
+    data = []
+    for code in departments:
+        all_courses.append(get_courses(default_url + "/" + code[0]))
+    with open('courses.csv', 'w', encoding='UTF8', newline='') as file:
+        writer = csv.writer(file)
 
-   # pdfReader = PyPDF2.PdfFileReader(pdf)
-    with PDfplumber.open('oi.pdf') as info:
-        firstPage = info.pages[0]
-        print(firstPage.extract_text())
-    pdf.close()
-    os.remove('oi.pdf')
+        writer.writerow(['DepartmentAbbreviation', 'CourseNumber', 'CourseName'])
+        for department_offerings in all_courses:
+            for course in department_offerings:
+                info = course[0].split()
+                info.append(course[1])
+                data.append(info)
+        writer.writerows(data)
 
-    #print(get_course_info('https://courses.illinois.edu/schedule/2022/fall/ARTS/243'))
+    #pdfReader = PyPDF2.PdfFileReader(pdf)
+    #with PDfplumber.open('oi.pdf') as info:
+    #   firstPage = info.pages[0]
+    #    print(firstPage.extract_text())
+    # pdf.close()
+    # os.remove('oi.pdf')
+    # print(get_course_info(''))
