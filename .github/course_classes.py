@@ -87,12 +87,15 @@ class Schedule:
     
     def SectionWorks(self, section):
         #weekdays = ["mon", "tues", "wed", "thurs", "fri"]
+        count = 0;
         for day in section.days:
             times = FindAvailableTimes(self, day)
             for time in FindAvailableTimes:
                 if time[0] < section.time[0]:
                     if time[1] > section.time[1]:
-                        return True
+                        count = count + 1
+        if count == section.days.len():
+            return True
         return False
 
     
