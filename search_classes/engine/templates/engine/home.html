@@ -1,0 +1,25 @@
+{% extends 'engine/base.html' %}
+{% load static %}
+{% block content %}
+<style>
+    div {
+        text-align: center;
+    }
+    .search-bar{
+        margin-top: 7%;
+    }
+</style>
+    <div class="home">
+        <h1>Classes Search</h1>
+        <img src="../static/images/bunny.png" alt="search engine"  width="150" height="150">
+        <div class="search-bar">
+            <form method="POST" action="results">
+                {% csrf_token %}
+                <input class="form-control form-control-lg" type="text" placeholder="which class are you looking for?" name="search">
+                <button type="submit" class="btn btn-dark">search</button>
+
+            </form>
+        </div>
+       
+    </div>
+{% endblock content %}
