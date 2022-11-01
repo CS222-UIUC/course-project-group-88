@@ -3,6 +3,8 @@ from optparse import IndentedHelpFormatter
 import os
 import requests
 
+
+import PyPDF2
 import csv
 from bs4 import BeautifulSoup
 from typing import List, Tuple
@@ -38,13 +40,6 @@ def get_courses(departmentURL : str) ->List[Tuple[str, str]] :
     together = [tuple(labels.split("\t")) for labels in long_string.split("\n")[:-1]]
     return together
 
-def get_course_info(courseURL : str) :
-    page = requests.get(courseURL)
-    soup = BeautifulSoup(page.content, "html.parser")
-    #print(soup.p)
-    infoTable = soup.findAll("tr")
-    courseInfo = infoTable #.findAll("td")
-    return courseInfo
 
 
 if __name__ == '__main__' :
