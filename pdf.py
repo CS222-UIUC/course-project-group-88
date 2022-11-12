@@ -2,6 +2,7 @@ import requests
 import tabula
 import os
 from typing import List
+import csv
 
 def split_at_num(phrase: str) -> List[str] :
     return_me = [""]
@@ -22,15 +23,15 @@ def split_at_num(phrase: str) -> List[str] :
 
 def course_info(department: str, course_num: str, year='2022', sem="fall"):
     url = 'https://courses.illinois.edu/pdf/schedule/' + year + '/' + sem + '/' + department + '/' + course_num
-    response = requests.get('https://courses.illinois.edu/pdf/schedule/2022/fall/ARTS/243', stream=True)
+    response = requests.get(url, stream=True)
     pdf = open('oi.pdf', 'wb')
     pdf.write(response.content)
     pdf.close()
     sections = []
     text = tabula.read_pdf("oi.pdf", pages="all")
     for frame in text:
-        for sec in frame['Section'].dropna() :
-            sections.insert(int(sec), [int(sec), 0, "", 0, ""])
+        for i, sec in enumerate(frame['Section'].dropna()) :
+            sections.insert(i, [sec, 0, "", 0, ""])
         for i, days in enumerate(frame['Days'].dropna()) :
             sections[i][1] = days
         for i, time in enumerate(frame["Time"].dropna()):
@@ -53,5 +54,13 @@ def course_info(department: str, course_num: str, year='2022', sem="fall"):
     
 
 if __name__ == '__main__':
-    course_info('ARTS', '243')
+    with open('courses.csv') as file:
+        reader = csv.reader(file)
+        first = True
+        for row in reader:
+            if first :
+                first = False
+                continue
+            course_info(row[0], row[1])
+            
     
