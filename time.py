@@ -2,13 +2,34 @@
 from typing import List
 import re
 
-def fits(times: List[str], add: str) -> bool:
+def fits(times: List[List[int]], add: str) -> bool:
     """
     Checks to see if added time fits into schedule
-    times (List[str]) - List of times in current schedule
+    times (ListList[[str]]) - List of times in current schedule
     add (str) - time to be added
     Returns (bool) - indication whether or not time was successfully added
     """
+    add_me = time_val(add)
+    if len(times) == 0:
+        times.append(add_me)
+        return True
+    elif add_me[1] < times[0][0] :
+        times.insert(0, add_me)
+        return True
+    elif add_me[0] > times[-1][1]:
+        times.append(add_me)
+        return True
+    else:
+        idx = 0
+        lower_bound = False
+        for pair in times:
+            if add_me[1] < pair[0] and lower_bound:
+                times.append(idx, add_me)
+                return True
+            if pair[1] < add_me[0]:
+                lower_bound = True
+            else :
+                lower_bound = False
     return False
 
 def time_val(time: str) -> List[int] :
