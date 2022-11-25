@@ -36,20 +36,22 @@ class Section(Course):
     def __init__(self, section_code, days, time, linked, location, professor, course_name, number, subject, subject_code):
         super().__init__(course_name, number, subject, subject_code)
         self.section_code = section_code
-        self.time = time
+        self.time = getTime(time)
         self.days = days
         self.linked = linked
         self.location = location
         self.professor = professor
 
     def __str__(self):
-        return self.subject + self.number + " Section " + self.section_code + ": \n" + self.location + "; taught by " + self.professor + "\nOn " + self.days[0] + self.days[1] + self.days[2] + " from " + str(self.time[0]) + " to " + str(self.time[1])
+        return self.subject + self.number + " Section " + self.section_code + ": \n" + self.location + "; taught by " + self.professor + "\nOn " + self.days + " from " + str(self.time)#[0]) + " to " + str(self.time[1]))
 
     def RateMyProfessorRating(URL):
         page = requests.get(URL)
         soup = BeautifulSoup(page.content, "html.parser")
         y = soup.find(class_="RatingValue__Numerator-qw8sqy-2 liyUjw")
         return y.text.strip()
+
+
         
 # classes: array of sections
 # unavailable_times: array of tuples of doubles representing times
@@ -103,6 +105,23 @@ class Schedule:
             return True
         return False
 
-    
-exec(open(".github/course_classes_tests.py").read())
 
+def getTime(time):
+    t = time.replace(" - ", ' ')
+    #t = t.replace(" am", ' ')
+    #t = t.replace(" pm", ' ')
+    t = t.replace(':', ' ')
+    tarr = t.split(' ')
+    t1 = 1.0 * int(tarr[0]) + (1.0*int(tarr[1])/60)
+    if tarr[2] == "pm":
+        t1 += 12
+    t2 = 1.0 * int(tarr[3])  + (1.0*int(tarr[4])/60)
+    if tarr[5] == "pm":
+        t2 += 12
+    return [t1, t2]  
+
+def getDays(days):
+    
+
+exec(open(".github/course_classes_tests.py").read())
+exec(open(".github/schedule_reader.py").read())
