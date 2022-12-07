@@ -6,6 +6,7 @@ from typing import List
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import pandas as pd
+from exception import exceptions
 
 def test(department: str, course: str) :
     url = 'https://courses.illinois.edu/pdf/schedule/' + '2023' + '/' + 'spring' + '/' + department + '/' + course
@@ -62,24 +63,25 @@ def clean(data) -> List[str] :
 
 if __name__ == '__main__':
     courses = pd.read_csv("courses.csv")
-    exceptions = []
-    department = courses.loc[courses['DepartmentAbbreviation'] == 'AAS']
-    for dat in range(len(department)):
-        print(department.iloc[dat, 2])
-    with open('courses_info.csv', 'w', encoding='UTF8', newline='') as file:
+    department = courses.loc[(courses['DepartmentAbbreviation'] < 'PATH') & (courses['DepartmentAbbreviation'] >= 'ME')]
+    #& (courses['DepartmentAbbreviation'] > 'ASST')
+    #for dat in range(len(department)):
+        #print(department.iloc[dat, 2])
+    with open('current.csv', 'w', encoding='UTF8', newline='') as file:
         writer = csv.writer(file)
 
-        writer.writerow(['DepartmentAbbreviation', 'CourseNumber', 'CourseName', 'Type', 'Section', 'Time', 'Day', 'Location', 'Instructor'])
+        #writer.writerow(['DepartmentAbbreviation', 'CourseNumber', 'CourseName', 'Type', 'Section', 'Time', 'Day', 'Location', 'Instructor'])
         for course_idx in range(len(department)):
             base = [str(department.iloc[course_idx, 0]), int(department.iloc[course_idx, 1])]
+            if base[0] == 'MUSC' or base in exceptions:
+                continue
             information = sel(base[0], str(base[1]))
-            print(information)
             base.append(str(department.iloc[course_idx, 2]))
             for i in range(len(information) // 6):
                 idx = i * 6
                 info = base.copy()
                 if information[idx+2] == information[idx+3] :
-                    exceptions.append(base)
+                    print(base)
                     break
                 else :
                     info.append(information[idx])
@@ -90,4 +92,4 @@ if __name__ == '__main__':
                     info.append(information[idx+5])
                     print(info)
                     writer.writerow(info)
-    print(exceptions)
+    print("done")
