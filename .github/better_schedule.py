@@ -1,5 +1,6 @@
 from typing import List, Tuple
 import csv
+import json
 
 days_arr = ['M', 'T', 'W', 'R', 'F']
 
@@ -13,7 +14,7 @@ def dayToIdx(day: chr) -> int:
     return -1
 
 def idxToDay(idx: int) -> chr:
-    return days_arr[i]  
+    return days_arr[idx]  
 
 """
 Functions for converting from time to idx in schedule array and vice versa
@@ -159,14 +160,14 @@ class Subject:
 #def strToTime(time: str) -> Tuple[float, float]:
     # takes time str and returns time represented as a tuple of floats
 
-def readFile(filename) -> Subject:
+def readFile(filename, abrev) -> Subject:
     with open(filename, mode = 'r') as file:
         urmom = csv.reader(file)
         curnum = -1
         curclass = Course(69, "urmomology")
-        subj = Subject("Asian American Studies", "AAS")
+        subj = Subject("temp", abrev)
         for lines in urmom:
-            if len(lines[5]) > 8 and lines[5][8] == '-':
+            if lines[0] == abrev and len(lines[5]) > 8 and lines[5][8] == '-':
                 if curnum != lines[1]:
                     curnum = lines[1]
                     curclass = Course(lines[1], lines[2])
@@ -176,17 +177,7 @@ def readFile(filename) -> Subject:
             #print(to_add)
     return subj
 
-"""
-checks if a class at class_time on days works in a schedule
-
-def classWorks(class_time: Tuple[float, float], days: str, schedule: Schedule):
-    for i in range(timeToIdx(class_time[0]), timeToIdx(class_time[1])):
-        for j in days:
-            if not schedule.sched[j][i]:
-                return false
-    return true
-"""
-def classWorks(course: Course, sched: Schedule) -> [[]]:
+def classWorks(course: Course, sched: Schedule): # outputs 2d array
     options = []
     options.append([course.nameString()])
     for class_type in course.sections:
@@ -196,18 +187,47 @@ def classWorks(course: Course, sched: Schedule) -> [[]]:
         for sec in class_type:
             if(sched.checkAvailable(sec.time, sec.days)):
                 cando.append(sec)
-        if(len(cando) == 0):
-            return [["NO VIABLE SECTIONS"]]
+        if(len(cando) <= 1):
+            return [[course.nameString()], ["NO VIABLE SECTIONS"]]
         options.append(cando)
         
     #print(options)
     return options
 
-'''def subjectOptions(subject: Subject, sched: Schedule):
+def subjectOptions(subject: Subject, sched: Schedule): # outputs 3D array
     output = []
     for course in subject.courses:
-        output.append(courseWorks(course, sched))
-    return output'''
+        #output.update({str(course): classWorks(course, sched)})
+        output.append(classWorks(course, sched))
+    return output
+
+def arrObjToStr(arr: []) -> []:
+    newarr = []
+    for x in arr:
+        newarr.append(str(x))
+    return newarr
+
+# Converts 3d array to nested dictionary to send to JSON file
+def makeDictForJSON(subj_options):
+    output = dict()
+    for a in subj_options:
+        if len(a[1]) == 1:
+            output.update({a[0][0] : a[1][0]})
+        else:
+            for b in a:
+                newdict = dict()
+                if len(b) >= 1 and b != a[0]:
+                    #for c in range(1, len(b)):
+                    newdict.update({str(b[0]) : arrObjToStr(b[1:len(b)])})
+            output.update({str(a[0][0]) : newdict})
+    return output
+
+'''def readUserInput(filename, subjAbrev):
+    userSched = Schedule()
+    with open(filename, mode = 'r') as file:
+        urmom = csv.reader(file)'''
+    
+            
     
 
 
@@ -215,3 +235,5 @@ def classWorks(course: Course, sched: Schedule) -> [[]]:
 
 # run test file
 exec(open(".github/better_schedule_TESTS.py").read())
+        
+        

@@ -54,7 +54,7 @@ print(urmom)
 print(str(urmom.checkAvailable((7.0, 9.0), "TR")))
 print(str(urmom.checkAvailable((7.0, 9.0), "MWF")))
 
-aas = readFile('.github/sample_section_data.csv')
+aas = readFile('.github/bigboi.csv', "CS")
 
 print(aas)
 
@@ -66,9 +66,41 @@ for i in aas.courses[0].sections:
 
 x = classWorks(aas.courses[0], urmom)
 
-for a in x:
+'''for a in x:
     for b in a:
-        print(str(b))
+        print(str(b))'''
 
+y = subjectOptions(aas, urmom)
 
+for a in y:
+    #print(key)
+    for b in a:
+        for c in b:
+            print(str(c))
+            
+print(y)
 
+print(makeDictForJSON(y))
+
+#with open("sample.json", "w") as outfile:
+urmom2 = json.dumps(makeDictForJSON(y), indent = 4)
+print(urmom2)
+
+with open("sample.json", "w") as outfile:
+    json.dump(makeDictForJSON(y), outfile)
+    
+atlasSched = Schedule()
+
+for i in range(22, 26):
+    i = i/2
+    atlasSched.setUnavailable("MWF", i)
+    
+for i in range(28, 32):
+    i = i/2
+    atlasSched.setUnavailable("MWF", i)
+    
+for i in range(22, 24):
+    i = i/2
+    atlasSched.setUnavailable("TR", i)
+    
+print(json.dumps(makeDictForJSON(subjectOptions(readFile(".github/bigboi.csv", "CS"), atlasSched)), indent = 4))
