@@ -1,0 +1,4440 @@
+DepartmentAbbreviation,CourseNumber,CourseName
+AAS,100,Intro Asian American Studies
+AAS,200,U.S. Race and Empire
+AAS,201,US Racial & Ethnic Politics
+AAS,215,US Citizenship Comparatively
+AAS,282,Feminist and Queer Activisms
+AAS,283,Asian American History
+AAS,286,Asian American Literature
+AAS,297,Asian Families in America
+AAS,299,Begin Topics Asian Am Studies
+AAS,310,Race and Cultural Diversity
+AAS,355,Race and Mixed Race
+AAS,357,Literatures of the Displaced
+AAS,464,Theories & Theologies of Liberation
+AAS,465,"Race, Sex, and Deviance"
+AAS,479,"Race, Medicine, and Society"
+AAS,539,"Youth, Culture and Society"
+ABE,141,ABE Principles: Biological
+ABE,152,Water in the Global Environment
+ABE,199,Undergraduate Open Seminar
+ABE,225,ABE Principles: Bioenvironment
+ABE,226,ABE Principles: Bioprocessing
+ABE,232,Context in International Interventions
+ABE,341,Transport Processes in ABE
+ABE,397,Independent Study
+ABE,398,Special Topics
+ABE,425,Engrg Measurement Systems
+ABE,452,Engineering for Disaster Resilience
+ABE,456,Land & Water Resources Engrg
+ABE,457,NPS Pollution Processes
+ABE,458,NPS Pollution Modeling
+ABE,469,Industry-Linked Design Project
+ABE,483,Engineering Properties of Food Materials
+ABE,497,Independent Study
+ABE,498,Special Topics
+ABE,526,Autonomous Systems and Robots
+ABE,594,Graduate Seminar
+ABE,597,Independent Study
+ABE,599,Thesis Research
+ACCY,199,Undergraduate Open Seminar
+ACCY,200,Fundamentals of Accounting
+ACCY,201,Accounting and Accountancy I
+ACCY,202,Accounting and Accountancy II
+ACCY,290,Prof Internship in Accountancy
+ACCY,301,Atg Measurement & Disclosure
+ACCY,302,Decision Making for Atg
+ACCY,303,Accounting Institutions and Regulation
+ACCY,304,Accounting Control Systems
+ACCY,312,Principles of Taxation
+ACCY,321,Principles of Public Policy
+ACCY,398,Practical Problems in Atg
+ACCY,405,Assurance and Attestation
+ACCY,410,Advanced Financial Reporting
+ACCY,451,Advanced Income Tax Problems
+ACCY,499,Senior Research
+ACCY,500,"Accounting Measurement, Reporting, and Control"
+ACCY,501,Accounting Analysis I
+ACCY,502,Accounting Analysis II
+ACCY,503,Managerial Accounting
+ACCY,506,Advanced Topics in Accounting
+ACCY,507,Taxation of Business Entities
+ACCY,510,Financial Reporting Standards
+ACCY,512,Data Analytics for Management Accounting
+ACCY,515,Auditing & Assurance Standards
+ACCY,516,Professional Responsibility and Ethics for Accountants
+ACCY,517,Financial Statement Analysis and Valuation
+ACCY,518,Financial Statement Fraud
+ACCY,550,Multistate Taxation
+ACCY,551,Corporate Income Taxation
+ACCY,552,Partnership Income Taxation
+ACCY,554,International Taxation
+ACCY,570,Data Analytics Foundations for Accountancy
+ACCY,574,Risk Management and Innovation
+ACCY,575,Data Analytics Applications in Accountancy
+ACCY,576,Data Preparation for Accounting
+ACCY,577,Machine Learning for Accounting
+ACCY,578,Accounting Analytics Applications
+ACCY,590,Adv Prof Internship in ACCY
+ACCY,593,Special Research Problems
+ACCY,594,Doctoral Research Seminar
+ACCY,599,Thesis Research
+ACE,100,Introduction to Applied Microeconomics
+ACE,161,Microcomputer Applications
+ACE,199,Undergraduate Open Seminar
+ACE,210,Environmental Economics
+ACE,231,Food and Agribusiness Mgt
+ACE,232,Farm Management
+ACE,240,Personal Financial Planning
+ACE,251,The World Food Economy
+ACE,255,Economics of Food and Environmental Justice
+ACE,262,Applied Statistical Methods and Data Analytics I
+ACE,264,Applied Statistical Methods & Data Analytics 2
+ACE,270,Consumer Economics
+ACE,293,Off-Campus Internship
+ACE,294,On-Campus Internship
+ACE,295,Independent Study
+ACE,300,Intermediate Applied Microeconomics
+ACE,306,Food Law
+ACE,310,Natural Resource Economics
+ACE,321,Principles of Public Policy
+ACE,335,Food Marketing and Behavior
+ACE,341,Issues&Careers in Applied Econ
+ACE,344,FinTech in Personal Finance and Financial Planning
+ACE,345,Finan Decision Indiv Sm Bus
+ACE,349,Risk Management and Financial Planning Across the Life Cycle
+ACE,360,Spreadsheet Models and Applications
+ACE,396,Honors Research or Thesis
+ACE,398,Seminar
+ACE,403,Agricultural Law
+ACE,427,Commodity Price Analysis
+ACE,428,Commodity Futures and Options
+ACE,430,Food Marketing
+ACE,432,Advanced Farm Management
+ACE,435,Global Agribusiness Management
+ACE,436,International Business Immersion
+ACE,440,Finan Plan for Professionals
+ACE,441,FINRA Professional Exam Review
+ACE,444,Financial Services & Investing Planning
+ACE,446,Modeling App's Finan Plan
+ACE,449,Retirement & Benefit Planning
+ACE,451,Agriculture in Intl Dev
+ACE,456,Agricultural and Food Policies
+ACE,474,Economics of Consumption
+ACE,476,Behavioral Economics and Financial Decision Making
+ACE,496,Practicum
+ACE,499,Seminar
+ACE,502,Demand/Supply/Firms/Households
+ACE,503,Equilibrium and Welfare Econ
+ACE,510,Adv Natural Resource Economics
+ACE,516,Environmental Economics
+ACE,530,Microeconometrics
+ACE,531,Impact Evaluation
+ACE,542,Advanced Agricultural Finance
+ACE,561,Adv Res and Scholarly Comm
+ACE,591,Independent Study
+ACE,592,Special Topics
+ACE,594,Seminars and Workshops
+ACE,599,Thesis Research
+ACES,102,Intro Sustainable Food Systems
+ACES,199,Undergraduate Open Seminar
+ACES,200,ACES Transfer Orientation
+ACES,293,International Internship
+ACES,295,Undergrad Research or Thesis
+ACES,299,ACES Study Abroad
+ACES,396,Honors Study Abroad Retrospect
+ADV,150,Introduction to Advertising
+ADV,175,Diversity in Advertising
+ADV,199,Undergraduate Seminar
+ADV,200,Data Literacy
+ADV,270,Principles of Sales
+ADV,281,Advertising Research Methods
+ADV,283,Advertising and Brand Strategy
+ADV,284,Consumer Insight
+ADV,290,Special Topics in Advertising
+ADV,301,Becoming an Influencer
+ADV,305,Advertising Technology and the Digital World
+ADV,310,Intro to Public Relations
+ADV,314,Sports Public Relations
+ADV,320,Sales Management
+ADV,350,Writing for Public Relations
+ADV,370,Sales and the Consumer
+ADV,390,Content Creation
+ADV,392,Advertising Immersion
+ADV,393,Advertising and Society
+ADV,396,Research Experience in Advertising
+ADV,400,Special Problems
+ADV,409,Media Entrepreneurship
+ADV,410,Public Relations Strategies
+ADV,454,Creative Concepts II
+ADV,460,Innovations in Advertising
+ADV,461,Computational Advertising
+ADV,462,Computational Advertising Infrastructure
+ADV,480,Social Media Analytics
+ADV,483,Audience Analysis
+ADV,490,Advanced Special Topics in Advertising
+ADV,492,Tech and Advertising Campaigns
+ADV,495,Internship Seminar
+ADV,498,The Sandage Project
+ADV,509,Media Entrepreneurship
+ADV,582,Qualitative Rsrch in Advert
+ADV,588,Graduate Seminar II
+ADV,590,Special Topics in Advertising
+ADV,598,Professional Project
+ADV,599,Thesis Research
+AE,140,Aerospace Computer-Aided Design
+AE,199,Undergraduate Open Seminar
+AE,202,Aerospace Flight Mechanics
+AE,298,Special Topics
+AE,311,Incompressible Flow
+AE,312,Compressible Flow
+AE,321,Mechs of Aerospace Structures
+AE,323,Applied Aerospace Structures
+AE,352,Aerospace Dynamical Systems
+AE,353,Aerospace Control Systems
+AE,370,Aerospace Numerical Methods
+AE,395,Honors Project
+AE,396,Honors Seminar
+AE,397,Independent Study
+AE,398,Special Topics
+AE,419,Aircraft Flight Mechanics
+AE,420,Finite Element Analysis
+AE,428,Mechanics of Composites
+AE,434,Rocket Propulsion
+AE,435,Electric Space Propulsion
+AE,443,Aerospace Systems Design II
+AE,461,Structures & Control Lab
+AE,482,Introduction to Robotics
+AE,484,"UAV Performance, Design, and Fabrication"
+AE,497,Independent Study
+AE,498,Special Topics
+AE,527,Multi-Scale Modeling of Materials
+AE,538,Combustion Fundamentals
+AE,543,Aerospace Syst Engineering II
+AE,551,Elastodynamics and Vibrations
+AE,590,Seminar
+AE,597,Independent Study
+AE,599,Thesis Research
+AFAS,102,Leadership Laboratory
+AFAS,112,Heritage and Values of the United States Air Force II
+AFAS,222,Team and Leadership Fundamentals II
+AFAS,332,Leading People and Effective Communication II
+AFAS,342,Nat Sec Afrs/Prep Actv Duty II
+AFRO,100,Intro to African American St
+AFRO,101,"Black America, 1619-Present"
+AFRO,132,African American Music
+AFRO,199,Undergraduate Open Seminar
+AFRO,201,US Racial & Ethnic Politics
+AFRO,215,US Citizenship Comparatively
+AFRO,220,Intro to Research Methods AfAm
+AFRO,221,History of the Prison
+AFRO,226,Black Women Contemp US Society
+AFRO,228,Hip Hop Music: History and Culture
+AFRO,259,Early African American Literature and Culture
+AFRO,260,Modern African American Literature and Culture
+AFRO,276,Afro-American Hist Since 1877
+AFRO,298,Spec Topics African-Am Studies
+AFRO,310,Race and Cultural Diversity
+AFRO,340,Dancing Black Popular Culture
+AFRO,342,Black Men and Masculinities
+AFRO,378,Race and Revolutions
+AFRO,380,Black Women Hist & Cultures
+AFRO,421,Racial and Ethnic Families
+AFRO,465,"Race, Sex, and Deviance"
+AFRO,482,Immersion Journalism
+AFRO,495,Senior Thesis Seminar
+AFRO,595,Directed Independent Readings
+AFRO,597,Problems in African-Am Studies
+AFRO,598,Res Sem in African-Am Studies
+AFST,112,History of Africa from 1800
+AFST,199,Undergraduate Open Seminar
+AFST,232,Elementary Swahili II
+AFST,242,Elementary Wolof II
+AFST,252,Elementary Zulu II
+AFST,406,Topics Swahili Lang & Lit II
+AFST,408,Adv Topics Swahili Lang&Lit II
+AFST,412,Lang in African Culture & Soc
+AFST,434,Intermediate Swahili II
+AFST,436,Advanced Swahili II
+AFST,444,Intermediate Wolof II
+AFST,446,Advanced Wolof II
+AFST,490,Independent Study
+AFST,515,Practicum in African Studies
+AFST,522,Development of African Studies
+AFST,550,Special Topics
+AFST,599,Thesis Research
+AGCM,220,Communicating Agriculture
+AGCM,310,Investigating Agricultural Communications
+AGCM,398,Undergraduate Seminar
+AGCM,420,Public Information Campaigns
+AGED,199,Undergraduate Open Seminar
+AGED,250,Observation and Program Analys
+AGED,410,Grad Early Field Experience
+AGED,420,Curr Design & Instruction
+AGED,450,Program Delivery and Eval
+AHS,199,Undergraduate Open Seminar
+AHS,292,AHS Study Abroad
+AHS,375,Comm Partners & Health
+AHS,399,Advanced Open Seminar
+AHS,494,Special Topics
+AIS,101,Intro to Amer Indian Studies
+AIS,275,Am Indian and Indigenous Film
+AIS,278,Native American History
+AIS,285,Indigenous Thinkers
+AIS,288,American Indians of Illinois
+AIS,295,US Citizenship Comparatively
+AIS,357,Literatures of the Displaced
+AIS,491,Readings in Am Ind Studies
+AIS,501,Indigenous Critical Theory
+ALEC,393,"Internship in Agricultural Leadership, Education and Communications"
+ALEC,410,"Program Planning, Implementation and Evaluation"
+ALEC,490,Foundations of Adult Training and Development
+ALEC,491,Getting 110% Effort – Principles of Adult Motivation
+ALEC,492,Digitizing Development – Teaching and Training Online
+ALEC,540,Volunteer Management
+ALEC,595,Capstone Curriculum Project
+ANSC,100,Intro to Animal Sciences
+ANSC,101,Contemporary Animal Issues
+ANSC,103,Working With Farm Animals
+ANSC,110,Life With Animals and Biotech
+ANSC,199,Undergraduate Open Seminar
+ANSC,201,Principles of Dairy Production
+ANSC,205,World Animal Resources
+ANSC,207,The Science of Pets and How to Care for Them
+ANSC,210,Grilling and BBQ Science
+ANSC,211,Breeding Animal Evaluation
+ANSC,215,Introduction to Animal Evaluation
+ANSC,223,Animal Nutrition
+ANSC,224,Animal Reproduction and Growth
+ANSC,250,Companion Animals in Society
+ANSC,255,Animal Ethics
+ANSC,256,Horse's Role in Human History
+ANSC,298,Animal Science Careers and Professional Development
+ANSC,305,Human Animal Interactions
+ANSC,306,Equine Science
+ANSC,360,Technology and Management: The Basics
+ANSC,363,Behavior of Domestic Animals
+ANSC,366,Animal Behavior
+ANSC,398,UG Experiential Learning
+ANSC,402,Sheep and Goat Production
+ANSC,403,Pork Production
+ANSC,404,Poultry Science
+ANSC,406,Zoo Animal Conservation Sci
+ANSC,407,Animal Shelter Management
+ANSC,409,Meat Science
+ANSC,438,Lactation Biology
+ANSC,442,Introduction to Data Analytics
+ANSC,446,Population Genetics
+ANSC,450,Comparative Immunobiology
+ANSC,454,Neuroimmunology
+ANSC,460,The Secret Life of Animals: How Technology Can Help You Observe It and Take Action
+ANSC,464,Physiology of Animal Stress & Disease
+ANSC,498,Integrating Animal Sciences
+ANSC,499,Seminar
+ANSC,520,Protein and Energy Nutrition
+ANSC,521,Regulation of Metabolism
+ANSC,525,Topics in Nutrition Research
+ANSC,526,Adv Companion Animal Nutrition
+ANSC,543,Bioinformatics
+ANSC,590,Animal Sciences Seminar
+ANSC,591,Grad Bioinformatics Seminar
+ANSC,593,Res Studies in Animal Sciences
+ANSC,599,Thesis Research
+ANTH,101,Introduction to Anthropology
+ANTH,103,Anthro in a Changing World
+ANTH,105,World Archaeology
+ANTH,109,Religion & Society in West II
+ANTH,110,Humanizing Science
+ANTH,199,Undergraduate Open Seminar
+ANTH,209,"Food, Culture, and Society"
+ANTH,210,Families in Global Perspective
+ANTH,221,Archaeology of South Asia
+ANTH,230,Sociocultural Anthropology
+ANTH,240,Biological Anthropology
+ANTH,246,Forensic Science
+ANTH,247,Forensic Science DNA Lab
+ANTH,249,Evolution and Human Disease
+ANTH,250,The World Through Museums
+ANTH,268,Images of the Other
+ANTH,270,Language in Culture
+ANTH,272,Language and Culture in Turkey
+ANTH,278,Climate Change & Civilization
+ANTH,285,Intro to Korea Through Film
+ANTH,288,American Indians of Illinois
+ANTH,339,Industrial Heritage and Communities
+ANTH,342,Animal Behavior
+ANTH,343,Behavior and Biology of Women
+ANTH,346,Forensic Anthropology
+ANTH,347,Human Osteology
+ANTH,350,Cultures of Law
+ANTH,351,Language and Race
+ANTH,358,People of the Ice Age
+ANTH,361,Ecology and Human Health
+ANTH,368,'America' in the World
+ANTH,375,The Culture of Nature
+ANTH,390,Individual Study
+ANTH,399,Special Topics
+ANTH,403,Women in Muslim Societies
+ANTH,408,Human Evolutionary Anatomy
+ANTH,420,Case Studies Global Heritage
+ANTH,432,Genes and Behavior
+ANTH,444,Methods in Bioanthropology
+ANTH,445,Research in Bioanthropology
+ANTH,447,Advanced Skeletal Biology
+ANTH,450,Zooarchaeology
+ANTH,451,Archaeological Surveying
+ANTH,454,Archaeological Field School
+ANTH,455,Lab Analysis in Archaeology
+ANTH,462,Museum Theory and Practice
+ANTH,464,Theories & Theologies of Liberation
+ANTH,471,Ethnography through Language
+ANTH,479,"Race, Medicine, and Society"
+ANTH,495,Honors Senior Thesis II
+ANTH,496,Individual Field Research
+ANTH,497,Individual Field Data Analysis
+ANTH,499,Topics in Anthropology
+ANTH,511,Research Proposal Seminar
+ANTH,515,Seminar in Anthropology
+ANTH,557,Social Construction of Space
+ANTH,560,Anthropology and Law
+ANTH,561,Archaeological Theory
+ANTH,589,Readings in Anthropology
+ANTH,590,Dissertation Readings
+ANTH,599,Thesis Research
+ARAB,150,Lang&Culture of Arab World
+ARAB,202,Elementary Standard Arabic II
+ARAB,211,Colloquial Arabic II
+ARAB,404,Intermediate Stand Arabic II
+ARAB,406,Advanced Standard Arabic II
+ARAB,408,Topics Stand Arabic LangLit II
+ARCH,172,Drawing and Modeling
+ARCH,199,Undergraduate Open Seminar
+ARCH,222,Islamic Gardens & Architecture
+ARCH,232,Structural Fundamentals
+ARCH,274,Representation
+ARCH,314,History of World Landscapes
+ARCH,372,Designing for Human Well-being
+ARCH,400,Senior Honors in Architecture
+ARCH,401,Independent Study
+ARCH,403,Special Topics in Architectural History
+ARCH,407,Rome: City of Visible History
+ARCH,409,Special Topics in Spanish Arch
+ARCH,416,"The Architecture of the United States, c.1650 to Present"
+ARCH,435,Structural Systems and Construction Methods
+ARCH,468,Overseas Architectural Studies
+ARCH,472,Arch Des in Landscape & Cities
+ARCH,474,Architectural Design and Making
+ARCH,482,Drawing and Modeling
+ARCH,484,Representation
+ARCH,490,Special Topics in Contemporary Architecture
+ARCH,491,Arch Professional Internship
+ARCH,499,Off-Campus Study
+ARCH,501,Architectural Practice
+ARCH,510,History of World Landscapes
+ARCH,517,"Modern Architectural History, 1850-Present"
+ARCH,522,"Advanced Research in Environment, Architecture & Global Health"
+ARCH,537,Environmental Control Systems II
+ARCH,554,Adv Steel Design
+ARCH,556,Advanced Structural Planning
+ARCH,571,Design: Detail and Architectonics
+ARCH,572,Design: Health and Well-being
+ARCH,573,Design: Technology and Performance
+ARCH,574,Design: Architecture and Urban Design
+ARCH,575,Integrative Architecture Design Studio
+ARCH,576,Architectural Design Seminar
+ARCH,590,Directed Research
+ARCH,591,Special Problems in Architectural History and Theory
+ARCH,592,Special Problems in Urbanism
+ARCH,593,Special Problems in Detail and Fabrication
+ARCH,594,Special Problems in Building Performance
+ARCH,595,Spec Prob Struct Theory & Des
+ARCH,597,Special Problems in Architectural Design
+ARCH,599,Thesis Research
+ART,102,Drawing for Non-Majors
+ART,103,Painting for Non-Majors
+ART,104,Sculpture for Non-Majors
+ART,140,Introduction to Art
+ART,150,Introduction to Drawing
+ART,151,Black & White Film Photography
+ART,156,Ceramics: Wheel Throwing
+ART,160,The Image World: Photography for Non-Majors
+ART,191,Unit One Studio/Seminar
+ART,199,Undergraduate Open Seminar
+ART,210,Special Topics for Non-Majors
+ART,499,Special Topics in Art
+ARTD,101,Introduction to Industrial Design
+ARTD,151,Introduction to Graphic Design
+ARTD,202,Industrial Design II
+ARTD,218,Interaction Design Foundation
+ARTD,228,Computer Applications
+ARTD,302,Industrial Design IV
+ARTD,326,Sustainability & Manufacturing
+ARTD,328,Human-Centered Product Design
+ARTD,333,Type & Image
+ARTD,391,Special Problems in Design
+ARTD,399,Internship in Design
+ARTD,402,Industrial Design VI
+ARTD,418,Advanced Interaction Design
+ARTD,420,Disability Design
+ARTD,426,Product Innovation
+ARTD,444,Typographic Systems
+ARTD,448,Professional Design Practice
+ARTD,471,Graphic Design Capstone
+ARTD,490,Senior Honors
+ARTD,499,Special Topics in Design
+ARTD,503,Industrial Design III
+ARTD,551,Design for Responsible Innovation Research Impact
+ARTD,591,Special Problems in Design
+ARTD,595,MFA Design for Responsible Innovation Studio
+ARTD,599,Thesis
+ARTE,101,"Art, Design, and Society"
+ARTE,301,"Curriculum, Assessment, and Art Education"
+ARTE,391,Independent Study
+ARTE,393,Teachers as Researchers
+ARTE,401,Teaching Seminar
+ARTE,480,Popular Visual Culture
+ARTE,490,Senior Honors
+ARTE,501,Issues in Art Education
+ARTE,505,Foundations of Art Education
+ARTE,591,Independent Graduate Studies
+ARTE,599,Thesis Research
+ARTF,104,Expressive Drawing
+ARTF,106,Visualization Drawing
+ARTF,199,Undergraduate Open Seminar
+ARTH,110,Introduction to the History of Art and Visual Culture
+ARTH,211,Design History Survey
+ARTH,214,Art in China
+ARTH,217,Development of Ancient Cities
+ARTH,219,Islamic Gardens & Architecture
+ARTH,242,Art Since 1940
+ARTH,299,Spec Topics in Art History
+ARTH,300,Art Criticism and Writing
+ARTH,391,Individual Art History Topics
+ARTH,403,Word and Image in Chinese Art
+ARTH,416,The Archaeology of Italy
+ARTH,447,France and Its Others
+ARTH,462,Museum Theory and Practice
+ARTH,489,Senior Art-History Honors-BA
+ARTH,490,Senior Art-History Honors-BFA
+ARTH,491,Topics in Art History
+ARTH,495,Senior Seminar in Art History
+ARTH,510,Seminar in African Art
+ARTH,540,Seminar in Art 1750 to 1900
+ARTH,591,Individual Readings
+ARTH,599,Thesis Research
+ARTJ,101,Introduction to Japanese Aesthetics
+ARTJ,209,Chado (The Way of Tea)
+ARTJ,299,Seminar in Japanese Aesthetics
+ARTJ,302,Intro to Japanese Animation
+ARTJ,391,Independent Study in Japanese Aesthetics
+ARTJ,397,"Zen, Tea, and Power"
+ARTJ,398,Designing Everyday Life in Modern Japan
+ARTS,205,Introduction to Printmaking
+ARTS,210,Ceramics Sculpture I
+ARTS,220,Introduction to Fashion
+ARTS,221,Fashion Illustration
+ARTS,241,Image Practice
+ARTS,243,Time Arts I
+ARTS,244,Interaction I
+ARTS,250,Life Drawing
+ARTS,251,Beginning Painting
+ARTS,252,Making and Meaning
+ARTS,264,Basic Photography
+ARTS,265,Photography II
+ARTS,266,View Camera
+ARTS,267,Digital Photographic Output
+ARTS,280,Beginning Sculpture
+ARTS,299,Special Topics in Studio Art
+ARTS,321,Sustainable Fashion Development and Branding
+ARTS,351,Intermediate Studio II
+ARTS,354,Intermediate Painting
+ARTS,365,Photography Workshop
+ARTS,391,Independent Study
+ARTS,392,Current Art Issues Seminar
+ARTS,405,Special Topics in Printmaking
+ARTS,420,Making Fashion: Apparel Design in Context
+ARTS,443,Time Arts II
+ARTS,445,Special Topics in New Media
+ARTS,451,Advanced Studio II
+ARTS,455,Advanced Painting
+ARTS,461,Advanced Photography
+ARTS,490,Senior Honors
+ARTS,499,Special Topics in Studio Art
+ARTS,591,Graduate Studio
+ARTS,595,Graduate Laboratory
+ASRM,210,Theory of Interest
+ASRM,390,Introduction to Actuarial Research
+ASRM,392,Actuarial Problem Solving
+ASRM,398,Actuarial Internship
+ASRM,401,Actuarial Statistics I
+ASRM,406,Linear Algebra with Financial Applications
+ASRM,409,Stochastic Processes for Finance and Insurance
+ASRM,450,Methods of Applied Statistics
+ASRM,451,Basics of Statistical Learning
+ASRM,453,Applied Bayesian Analysis
+ASRM,461,Loss Models
+ASRM,471,Life Contingencies I
+ASRM,472,Life Contingencies II
+ASRM,490,Actuarial Research
+ASRM,499,Topics in Actuarial Science
+ASRM,539,Risk Analytics and Decision Making
+ASRM,551,Statistical Learning
+ASRM,555,Advanced Predictive Analytics
+ASRM,575,Life Insurance and Pension Mathematics
+ASRM,593,Graduate Internship
+ASRM,598,Literature Seminar
+ASST,199,Undergraduate Open Seminar
+ASST,208,Cultures & Literatures of South Asia
+ASST,390,Individual Study
+ASST,590,Individual Study and Research
+ASTR,100,Introduction to Astronomy
+ASTR,121,Solar System and Worlds Beyond
+ASTR,122,Stars and Galaxies
+ASTR,210,Introduction to Astrophysics
+ASTR,310,Computing in Astronomy
+ASTR,330,Extraterrestrial Life
+ASTR,350,"The Big Bang, Black Holes, and the End of the Universe"
+ASTR,390,Individual Study
+ASTR,405,Planetary Systems
+ASTR,414,Astronomical Techniques
+ASTR,490,Senior Thesis
+ASTR,506,Galaxies
+ASTR,507,Physical Cosmology
+ASTR,515,General Relativity I
+ASTR,590,Individual Study
+ASTR,593,Astronomy Internship
+ASTR,596,Seminar in Special Topics
+ASTR,599,Thesis Research
+ATMS,100,Introduction to Meteorology
+ATMS,120,Severe and Hazardous Weather
+ATMS,140,Climate and Global Change
+ATMS,199,Undergraduate Open Seminar
+ATMS,201,General Physical Meteorology
+ATMS,304,Radiative Transfer-Remote Sens
+ATMS,306,Cloud Physics
+ATMS,307,Climate Processes
+ATMS,313,Synoptic Weather Forecasting
+ATMS,314,Mesoscale Dynamics
+ATMS,322,Soc Impacts Weather & Climate
+ATMS,391,Topics in Atmospheric Sciences
+ATMS,406,Tropical Meteorology
+ATMS,420,Atmospheric Chemistry
+ATMS,490,Individual Study
+ATMS,492,Capstone Undergraduate Research
+ATMS,502,Numerical Fluid Dynamics
+ATMS,505,Weather Systems
+ATMS,507,Climate Dynamics
+ATMS,514,Dynamics of Convective Clouds and Storms
+ATMS,517,Data Science for the Geosciences
+ATMS,521,"Climate Analysis, Variability, and Prediction"
+ATMS,526,Risk Analysis in the Geosciences
+ATMS,590,Individual Study
+ATMS,591,Atmospheric Sciences Seminar
+ATMS,596,Non-Thesis Research
+ATMS,597,Special Topics in Atmospheric Sciences
+ATMS,599,Thesis Research
+BADM,199,Undergraduate Open Seminar
+BADM,205,Business Location Decisions
+BADM,210,Business Analytics I
+BADM,211,Business Analytics II
+BADM,275,Fundamentals of Operations Management
+BADM,300,The Legal Environment of Bus
+BADM,303,Principles of Public Policy
+BADM,310,Mgmt and Organizational Beh
+BADM,311,Leading Individuals and Teams
+BADM,312,Designing and Managing Orgs
+BADM,313,Strategic Human Resource Management
+BADM,314,Leading Negotiations
+BADM,320,Principles of Marketing
+BADM,322,Marketing Research
+BADM,323,Marketing Communications
+BADM,324,Purchasing and Supply Mgmnt
+BADM,325,Consumer Behavior
+BADM,329,New Product Development
+BADM,330,Brand Management
+BADM,331,Making Things
+BADM,335,Supply Chain Management Basics
+BADM,337,Practicum in Supply Chain Mgt
+BADM,338,Global Supply Chain Management
+BADM,340,Ethical Dilemmas of Business
+BADM,341,Foundations of Strategic Management
+BADM,346,Introduction to Entrepreneurship
+BADM,350,IT for Networked Organizations
+BADM,351,Social Media Strategy
+BADM,352,Database Design and Management
+BADM,353,Info Sys Analysis and Design
+BADM,356,Data Science and Analytics
+BADM,358,Big Data Platforms
+BADM,359,Business Problem Formulation and Solution
+BADM,366,Product Design and Development
+BADM,370,Information Security Management
+BADM,374,Management Decision Models
+BADM,375,Operations Strategy
+BADM,378,Logistics Management
+BADM,379,Business Process Improvement
+BADM,380,International Business
+BADM,381,Multinational Management
+BADM,382,International Marketing
+BADM,383,Topics in International Business
+BADM,394,Senior Research I
+BADM,395,Special Topics
+BADM,403,Corporate & Commercial Law
+BADM,420,Advanced Marketing Management
+BADM,445,Small Business Consulting
+BADM,446,Entrepreneurship: New Venture Creation
+BADM,449,Business Policy and Strategy
+BADM,453,Business Intelligence
+BADM,458,IT Governance
+BADM,461,"Tech, Eng, & Mgt Final Project"
+BADM,464,iVenture Accelerator Seminar II: Topics in Entrepreneurship
+BADM,508,Leadership and Teams
+BADM,509,Managing Organizations
+BADM,510,Founds of Organizational Behav
+BADM,512,HR Management and Strategy
+BADM,520,Marketing Management
+BADM,541,Foundations of Strategic Management
+BADM,543,Technology Strategy
+BADM,544,Strategic Management
+BADM,546,Strategy Content Research
+BADM,549,Current Strategy Research
+BADM,550,Business Practicum
+BADM,554,Enterprise Database Management
+BADM,555,Info Sys Development and Mgt
+BADM,557,Business Intelligence
+BADM,558,Big Data Infrastructures
+BADM,561,Revenue Management
+BADM,565,Strategic Sourcing
+BADM,567,Process Management
+BADM,569,Res Topics in Operations Mgt
+BADM,572,Stat for Mgt Decision Making
+BADM,573,Decision Analytics
+BADM,575,Supply Chain Analytics
+BADM,576,Data Science and Analytics
+BADM,577,Predictive Data Analytics
+BADM,583,Current Topics in Intl Bus
+BADM,584,Global Marketing
+BADM,588,Business Practice Immersion
+BADM,589,Project Management
+BADM,590,Seminar in Business Admin
+BADM,591,Proseminar in Business Admin
+BADM,593,Research in Special Fields
+BADM,594,Independent Study and Research
+BADM,599,Dissertation Research
+BASQ,402,Readings in Basque Studies
+BCOG,200,Introduction to Programming for the Brain and Cognitive Sciences
+BCOG,301,Intelligence and the Brain
+BCS,102,First Year Bosnian-Croatian-Serbian II
+BCS,199,Undergraduate Open Seminar
+BCS,202,Second Year Bosnian-Croatian-Serbian II
+BCS,302,Third Year Bosnian-Croatian-Serbian II
+BDI,199,Undergraduate Open Seminar
+BDI,367,Data Visualization and Communication
+BDI,411,"Blockchain, Tokens, and Their Application in Business"
+BDI,475,Introduction to Data Analytics Applications in Business
+BDI,513,Data Storytelling
+BIOC,199,Undergraduate Open Seminar
+BIOC,290,Individual Topics
+BIOC,406,Gene Expression & Regulation
+BIOC,446,Physical Biochemistry
+BIOC,455,Technqs Biochem & Biotech
+BIOC,492,Senior Thesis
+BIOC,590,Individual Topics
+BIOC,595,Biochemistry Seminar
+BIOC,599,Thesis Research
+BIOE,120,Introduction to Bioengineering
+BIOE,200,Bioengineering Career Immersion
+BIOE,202,Cell & Tissue Engineering Lab
+BIOE,205,Signals & Systems in Bioengrg
+BIOE,210,Linear Algebra for Biomedical Data Science
+BIOE,297,Individual Study
+BIOE,303,Quantitative Physiology Lab
+BIOE,306,Biofabrication Lab
+BIOE,310,Computational Tools for Biological Data
+BIOE,360,Transport & Flow in Bioengrg
+BIOE,397,Individual Study
+BIOE,414,Biomedical Instrumentation
+BIOE,415,Biomedical Instrumentation Lab
+BIOE,416,Biosensors
+BIOE,420,Intro Bio Control Systems
+BIOE,435,Senior Design I
+BIOE,436,Senior Design II
+BIOE,479,Cancer Nanotechnology
+BIOE,481,Whole-Body Musculoskel Biomech
+BIOE,484,Statistical Analysis of Biomedical Images
+BIOE,486,Applied Deep Learning for Biomedical Imaging
+BIOE,487,Stem Cell Bioengineering
+BIOE,497,Individual Study
+BIOE,498,Special Topics
+BIOE,499,Senior Thesis
+BIOE,500,Graduate Seminar
+BIOE,570,Seminar Series
+BIOE,572,Biological Measurement II
+BIOE,574,Innovation and Introduction to Financial Decision Making
+BIOE,575,Capstone Project
+BIOE,580,Foundations of Imaging Science
+BIOE,588,Biomedical Image Computing Capstone Project Literature Review
+BIOE,597,Individual Study
+BIOE,598,Special Topics
+BIOE,599,Thesis Research
+BIOP,586,Special Topics in Biophysics
+BIOP,590,Individual Topics
+BIOP,595,Biophysics Seminars
+BIOP,599,Thesis Research
+BSE,601,Anatomy
+BSE,602,Public Health Clinical Applications
+BSE,634,Clinical Neuroscience
+BSE,635,Musculoskeletal and Integument
+BSE,636,"Digestion, Nutrition, & Metabolism"
+BSE,644,Multisystem Conditions
+BSE,645,Synthesis & Summary
+BSE,646,Synthesis & Summary - Phase 2
+BSE,655,Research Elective
+BSE,660,Self-Designed Study
+BSE,665,Special Topics
+BSE,666,Academic Progress I (Longitudinal)
+BSE,680,"Innovation, Design, Engineering and Analysis Projects (Longitudinal)"
+BSE,685,Medicine - Capstone Project (Longitudinal)
+BSE,686,Medicine - Data Science Project (Longitudinal)
+BSE,700,Innovations in Problem Based Learning
+BSE,701,Introduction to Telemedicine
+BSE,702,Medical Spanish
+BSE,703,Medical Informatics
+BSE,704,Medicine in Literature
+BSE,705,Race in Medicine
+BSE,706,Literature Review in Pathology
+BSE,707,Interreligious Perspectives on Health and Medicine
+BSE,708,Social Medicine and the Normative Body
+BSE,710,Computational Genomics
+BSE,711,"Climate Change, Planetary Health and Sustainability"
+BSE,720,Advanced Anatomy
+BSE,721,Neurocardiology
+BSE,730,Introduction to Deep Learning on Healthcare Data
+BSE,732,Healthcare Process Management
+BTW,250,Principles Bus Comm
+BTW,261,Principles Tech Comm
+BTW,263,Writing in the Disciplines
+BTW,271,Persuasive Writing
+BTW,280,Global Business Communication
+BTW,285,Writing a Web Presence
+BTW,290,Individual Study
+BTW,402,Descriptive English Grammar
+BUS,116,Intercultural Learning in Business
+BUS,199,Undergraduate Open Seminar
+BUS,201,Business Dynamics
+BUS,299,BUS Internship
+BUS,301,Business in Action
+BUS,302,Principles of Professional Responsibility
+BUS,399,Business Study Abroad
+BUS,401,Global Business Perspectives
+CB,290,Independent Research
+CB,514,Neurotoxicology
+CB,554,Systems Toxicology
+CB,590,Seminar
+CB,591,Biosciences Seminar Series
+CB,592,Special Problems
+CB,596,Interdisciplinary Tox Sem
+CB,599,Thesis Research
+CB,692,Special Problems
+CDB,590,Individual Topics
+CDB,595,Graduate Sem Cell Devel Biol
+CDB,599,Thesis Research
+CEE,201,Systems Engrg & Economics
+CEE,202,Engineering Risk & Uncertainty
+CEE,300,Behavior of Materials
+CEE,310,Transportation Engineering
+CEE,320,Construction Engineering
+CEE,330,Environmental Engineering
+CEE,350,Water Resources Engineering
+CEE,360,Structural Engineering
+CEE,380,Geotechnical Engineering
+CEE,398,Special Topics
+CEE,410,Railway Signaling & Control
+CEE,411,RR Project Design & Constr
+CEE,415,Geometric Design of Roads
+CEE,418,Public Transportation Systems
+CEE,420,Construction Productivity
+CEE,433,Water Technology and Policy
+CEE,437,Water Quality Engineering
+CEE,438,Science & Environmental Policy
+CEE,440,Fate Cleanup Environ Pollutant
+CEE,447,Atmospheric Chemistry
+CEE,449,Environmental Engineering Lab
+CEE,452,Hydraulic Analysis and Design
+CEE,453,Urban Hydrology and Hydraulics
+CEE,459,Ecohydraulics
+CEE,460,Steel Structures I
+CEE,461,Reinforced Concrete I
+CEE,462,Steel Structures II
+CEE,465,Design of Structural Systems
+CEE,470,Structural Analysis
+CEE,483,Soil Mechanics and Behavior
+CEE,484,Applied Soil Mechanics
+CEE,490,Computer Methods
+CEE,495,Professional Practice
+CEE,497,Independent Study
+CEE,498,Special Topics
+CEE,502,Advanced Cement Chemistry
+CEE,506,Pavement Design II
+CEE,509,Transportation Soils
+CEE,517,Traffic Signal Systems
+CEE,522,Visual Data Analytics
+CEE,528,Construction Data Modeling
+CEE,537,Water Quality Control Proc I
+CEE,538,Water Quality Control Proc II
+CEE,544,Advanced Surface Science
+CEE,552,River Basin Management
+CEE,553,River Morphodynamics
+CEE,559,Sediment Transport
+CEE,570,Finite Element Methods
+CEE,571,Computational Plates & Shells
+CEE,572,Earthquake Engineering
+CEE,573,Structural Dynamics II
+CEE,577,Computational Inelasticity
+CEE,583,Shear Strength of Soils
+CEE,585,Deep Foundations
+CEE,589,Computational Geomechanics
+CEE,591,Reliability Analysis
+CEE,592,Sustainable Urban Systems
+CEE,595,Seminar
+CEE,597,Independent Study
+CEE,598,Special Topics
+CEE,599,Thesis Research
+CHBE,121,CHBE Profession
+CHBE,199,Undergraduate Open Seminar
+CHBE,202,Cooperative Education Practice
+CHBE,210,CHBE Internship
+CHBE,221,Principles of CHE
+CHBE,297,Individual Study Sophomores
+CHBE,321,Thermodynamics
+CHBE,397,Individual Study for Juniors
+CHBE,421,Momentum and Heat Transfer
+CHBE,422,Mass Transfer Operations
+CHBE,424,Chemical Reaction Engineering
+CHBE,430,Unit Operations Laboratory
+CHBE,431,Process Design
+CHBE,440,Process Control and Dynamics
+CHBE,458,Synthetic Nanomaterials
+CHBE,471,Biochemical Engineering
+CHBE,473,Biomolecular Engineering
+CHBE,476,Biotransport
+CHBE,494,Special Topics
+CHBE,497,Individual Study for Seniors
+CHBE,499,Senior Thesis
+CHBE,510,Graduate CHBE Internship
+CHBE,513,Advanced Transport Phenomena
+CHBE,565,CHBE Seminar
+CHBE,571,Bioinformatics
+CHBE,593,Individual Study
+CHBE,594,Special Topics
+CHBE,597,Special Problems
+CHBE,598,Research Seminar
+CHBE,599,Thesis Research
+CHEM,101,Introductory Chemistry
+CHEM,102,General Chemistry I
+CHEM,103,General Chemistry Lab I
+CHEM,104,General Chemistry II
+CHEM,105,General Chemistry Lab II
+CHEM,108,"Chemistry, Everyday Phenomena"
+CHEM,197,Individual Study Freshman
+CHEM,199,Undergraduate Open Seminar
+CHEM,204,Accelerated Chemistry II
+CHEM,205,Accelerated Chemistry Lab II
+CHEM,232,Elementary Organic Chemistry I
+CHEM,233,Elementary Organic Chem Lab I
+CHEM,236,Fundamental Organic Chem I
+CHEM,237,Structure and Synthesis
+CHEM,293,Cooperative Education Practice
+CHEM,295,Chemistry Internship
+CHEM,297,Individual Study Sophomore
+CHEM,312,Inorganic Chemistry
+CHEM,315,Instrumental Chem Systems Lab
+CHEM,332,Elementary Organic Chem II
+CHEM,360,Chemistry of the Environment
+CHEM,397,Individual Study Junior
+CHEM,420,Instrumental Characterization
+CHEM,436,Fundamental Organic Chem II
+CHEM,437,Organic Chemistry Lab
+CHEM,440,Physical Chemistry Principles
+CHEM,442,Physical Chemistry I
+CHEM,444,Physical Chemistry II
+CHEM,445,Physical Principles Lab I
+CHEM,447,Physical Principles Lab II
+CHEM,472,Physical Biochemistry
+CHEM,474,Drug Discovery & Development
+CHEM,482,Polymer Physics
+CHEM,483,Solid State Structural Anlys
+CHEM,492,Special Topics in Chemistry
+CHEM,494,Lab Safety Fundamentals
+CHEM,497,Individual Study Senior
+CHEM,499,Senior Thesis
+CHEM,515,Inorganic Chemistry Seminar
+CHEM,516,Physical Inorganic Chemistry
+CHEM,524,Electrochemical Methods
+CHEM,525,Analytical Chemistry Seminar
+CHEM,530,Structure and Spectroscopy
+CHEM,535,Organic Chemistry Seminar
+CHEM,538,Topics in Organic Chemistry
+CHEM,542,Quantum Mech and Spectroscopy
+CHEM,545,Physical Chemistry Seminar
+CHEM,548,Molecular Electronic Structure
+CHEM,575,Chemical Biology Seminar
+CHEM,585,Materials Chemistry Seminar
+CHEM,588,Physical Methods Mat Chem
+CHEM,590,Special Topics in Chemistry
+CHEM,593,Advanced Professional Development for Chemists
+CHEM,599,Thesis Research
+CHIN,201,Elementary Chinese I
+CHIN,202,Elementary Chinese II
+CHIN,203,Intermediate Chinese I
+CHIN,204,Intermediate Chinese II
+CHIN,242,Chinese Reading and Writing
+CHIN,306,Advanced Chinese II
+CHIN,409,Social Science Rdgs Chinese
+CHIN,441,Fourth-Year Chinese II
+CHIN,490,Readings in Chinese Lit
+CHLH,100,Contemporary Health
+CHLH,101,Introduction to Public Health
+CHLH,125,Orientation KIN & Comm Health
+CHLH,126,Campus Acquaintance Rape Education
+CHLH,127,Peer Facilitation for Alcohol Prevention
+CHLH,199,Undergraduate Open Seminar
+CHLH,200,Mental Health Issues
+CHLH,201,Public Health Research Methods
+CHLH,203,Introduction to Health Technology
+CHLH,206,Human Sexuality
+CHLH,210,Community Health Organizations
+CHLH,243,Drug Use and Misuse
+CHLH,244,Health Statistics
+CHLH,250,Health Care Systems
+CHLH,260,Introduction to Medical Ethics
+CHLH,274,Introduction to Epidemiology
+CHLH,304,Foundations of Health Behavior
+CHLH,330,Disability in American Society
+CHLH,380,Orientation to Internship
+CHLH,393,Special Projects
+CHLH,402,Cancer Epidemiology
+CHLH,404,Gerontology
+CHLH,409,Women's Health
+CHLH,410,Public Health Practice
+CHLH,415,International Health
+CHLH,421,Health Data Analysis
+CHLH,441,Health Behavior and Technology
+CHLH,444,"LGBT Indiv, Fam & Community"
+CHLH,448,Exercise & Health Psychology
+CHLH,455,Health Services Financing
+CHLH,457,Health Planning
+CHLH,458,Health Administration
+CHLH,469,Environmental Health
+CHLH,485,Community Health Internship
+CHLH,494,Special Topics
+CHLH,541,Health Disparities Over the Life Course
+CHLH,550,Health Policy: United States
+CHLH,551,Health Administration Professionalism
+CHLH,553,Health Finance
+CHLH,554,Advanced Health Finance
+CHLH,555,Healthcare Quality
+CHLH,573,Biostatistics in Public Health
+CHLH,577,Health Program Evaluation
+CHLH,581,Professionalism in Public Health
+CHLH,582,Advanced Biostatistics
+CHLH,589,MPH Integrative Learning Experience
+CHLH,591,Seminar
+CHLH,593,Special Projects
+CHLH,599,Thesis Research
+CHP,199,Special Topics
+CHP,395,Interdisciplinary Seminar
+CHP,396,Interdisciplinary Seminar ACP
+CI,205,Undergraduate Honors Research
+CI,210,Introduction to Digital Learning Environments
+CI,395,Independent Study
+CI,401,Introductory Teaching in a Diverse Society
+CI,404,Teaching and Assessing Secondary School Students
+CI,407,Theory Practice in Elementary School Teaching II
+CI,415,"Language Varieties, Cultures and Learning"
+CI,420,Foundations of Early Childhood Education
+CI,422,"Families, Communities, Schools"
+CI,424,Child Development & Technology
+CI,425,"Early Childhood Education Instructional Planning, Assessment & Learning Environments"
+CI,431,Teaching Elementary Mathematics
+CI,432,Investigative Approach to Elementary Mathematics Instruction
+CI,435,Technology Applications for Teachers
+CI,438,Computer Programming and the Classroom
+CI,439,Critiques of Educational Technology
+CI,443,Mathematics in Early Childhood Education
+CI,444,ECE Social Studies Content and Methods
+CI,445,Science and Social Studies Inquiry
+CI,446,Culture in the Classroom
+CI,448,Teaching Elementary Social Studies
+CI,451,Teaching Elementary Science II
+CI,465,Language Literacy in Early Childhood Education I
+CI,466,Language Literacy in Early Childhood Education II
+CI,473,Disciplinary Literacy
+CI,475,Teaching Elementary Reading and Language Arts I
+CI,477,Bilingual/ESL Methods & Materials
+CI,487,Data Structures for Computer Science Teachers
+CI,488,Capstone Project for Computer Science Teachers
+CI,499,Issues and Development in Education
+CI,501,Curriculum Development for the 21st Century
+CI,509,Curriculum Research
+CI,517,Bilingual and English as a Second Language Assessment
+CI,537,Discourse in STEM Classrooms
+CI,542,Science Education and the Philosophy of Science
+CI,550,Methods of Educational Inquiry
+CI,552,Qualitative Writing
+CI,560,Trends & Issues in Language Arts
+CI,565,Topics Research and Writing
+CI,582,Reading and Writing Across the Curriculum
+CI,590,Seminar for Advanced Study of Education
+CI,591,Field Study & Thesis Seminar
+CI,595,Independent Study
+CI,599,Thesis Research
+CIC,500,CIC Traveling Scholar
+CLCV,100,Vocabulary Building from Greek and Latin Roots
+CLCV,102,Medical Terms-GRK & LAT Roots
+CLCV,111,Mythology of Greece and Rome
+CLCV,115,Mythology of Greece and Rome
+CLCV,116,Introduction to Ancient Roman Culture
+CLCV,120,The Classical Tradition
+CLCV,132,"Class Archaeology, Rome-Italy"
+CLCV,133,Archaeology of Israel
+CLCV,199,Undergraduate Open Seminar
+CLCV,203,Ancient Philosophy
+CLCV,220,Exploring the Greek and Roman World
+CLCV,222,Introduction to Greek and Roman Theater
+CLCV,224,American Race and Ethnicity in the Classical Tradition
+CLCV,231,Development of Ancient Cities
+CLCV,444,The Archaeology of Italy
+CLCV,492,Senior Thesis
+CLE,610,"Faith, Medicine, and End-of-Life Care"
+CLE,613,Introduction to Clinical Practice (Longitudinal)
+CLE,631,Clinical Elective
+CLE,645,Internal Medicine Clerkship
+CLE,650,Neurology Clerkship
+CLE,655,Psychiatry Clerkship
+CLE,660,Obstetrics & Gynecology Clerkship
+CLE,665,Pediatrics Clerkship
+CLE,670,Surgery Clerkship
+CLE,675,Adult Reconstruction - Hip and Knee
+CLE,680,Family Medicine Continuity Clinic
+CLE,681,General Surgery Sub-Internship
+CLE,683,Pediatrics Sub-Internship
+CLE,684,Internal Medicine Sub-Internship
+CLE,685,Anesthesiology Sub-Internship
+CLE,686,Neurology Sub-Internship
+CLE,687,Obstetrics and Gynecology Sub-Internship
+CLE,688,Urology Sub-Internship
+CLE,689,Family Medicine Sub-Internship
+CLE,690,Clinical Research
+CLE,691,Translational Research
+CLE,692,Advanced Clinical and Professional Identity
+CLE,693,Self-designed Clinical Elective
+CLE,694,Career Boot Camp
+CLE,695,Inpatient Psychiatry Sub-Internship
+CLE,702,Anesthesiology
+CLE,704,Dermatology
+CLE,706,Emergency Medicine
+CLE,707,Emergency Medical Services
+CLE,713,Palliative Care – Introduction
+CLE,714,Ambulatory Cardiology
+CLE,715,Adult Intensive Care
+CLE,716,Hematology/Oncology
+CLE,717,Infectious Disease
+CLE,718,Introduction to the HIV Epidemic: A Clinical and Social Medicine Elective
+CLE,719,Inpatient Cardiology
+CLE,720,Gastroenterology
+CLE,721,Introduction to Ambulatory Cardiology
+CLE,730,Clinical Genetics
+CLE,731,Health Systems Leadership
+CLE,732,Neurosurgery I
+CLE,733,Neurosurgery II
+CLE,736,Urogynecology
+CLE,737,Gynecologic Oncology
+CLE,738,Reproductive Medicine
+CLE,739,Advanced Obstetrics
+CLE,740,Introduction to Ophthalmology
+CLE,741,Advanced Ophthalmology
+CLE,742,Plastic and Reconstructive Surgery
+CLE,743,Orthopedic Trauma
+CLE,744,Oral & Maxillofacial Surgery I
+CLE,745,Oral & Maxillofacial Surgery II
+CLE,746,Otolaryngology - ENT
+CLE,748,Surgical Pathophysiology
+CLE,750,Developmental Pediatrics
+CLE,751,Neonatal Intensive Care
+CLE,752,Pediatric Pulmonology & Sleep Medicine
+CLE,753,Pediatric Hematology
+CLE,764,Physical Medicine and Rehabilitation
+CLE,765,Orthopedic Sports Medicine
+CLE,771,Addiction Medicine
+CLE,772,Outpatient Psychiatry
+CLE,773,Radiation Oncology
+CLE,774,Simulated Clinical Ultrasound
+CLE,775,Point of Care Ultrasound
+CLE,776,Diagnostic Radiology and Non-Cardiac Nuclear Medicine
+CLE,777,Vascular and Interventional Radiology
+CLE,778,Imaging in Critical Care
+CLE,779,Bariatric Surgery
+CLE,780,Hand Surgery
+CLE,781,Vascular Surgery
+CLE,782,Rural Surgery
+CLE,783,Colon and Rectal Surgery
+CLE,784,Pediatric Surgery
+CLE,786,Introduction to Urology
+CLE,788,Introduction to Anatomic Pathology
+CLE,789,Introduction to Clinical Pathology
+CLE,790,Advanced Focus in Clinical Pathology
+CLE,793,Quality Improvement & Patient Safety
+CLE,794,Values in the Physician-Patient Relationship
+CLE,795,Consultation-Liaison Psychiatry
+CLE,796,Consultation-Liaison with Outpatient Psychiatry
+CLE,799,Advanced Clinical Electives
+CMN,101,Public Speaking
+CMN,102,Introduction to Communication
+CMN,112,Oral & Written Comm II
+CMN,204,Internship in Teaching Comm
+CMN,210,Public Comm in Everyday Life
+CMN,211,Business and Professional Communication
+CMN,212,Intro to Organizational Comm
+CMN,213,Small Group Communication
+CMN,214,Organizational Communication & Diversity
+CMN,215,Interviewing: The Art and Science of Effective Questioning
+CMN,220,Communicating Public Policy
+CMN,230,Intro to Interpersonal Comm
+CMN,232,Intro to Intercultural Comm
+CMN,250,Social Movement Communication
+CMN,260,Intro to Health Communication
+CMN,277,Introduction to Mediated Communication
+CMN,280,Comm Technology & Society
+CMN,304,Communication Internship
+CMN,321,Strategies of Persuasion
+CMN,323,Argumentation
+CMN,326,Mass Media and the Audience
+CMN,336,Family Communication
+CMN,340,Visual Politics
+CMN,345,Visual Media Effects
+CMN,361,Storytelling as Oral Communication
+CMN,368,Sexual Communication
+CMN,390,Individual Study
+CMN,396,Special Topics in Comm
+CMN,424,Campaigning to Win
+CMN,432,Gender Communication
+CMN,450,Topics in Public Communication
+CMN,462,Interpersonal Health Comm
+CMN,464,Health Communication Campaigns
+CMN,491,Honors Individual Study
+CMN,493,Honors Senior Thesis
+CMN,496,Adv Topics in Communication
+CMN,508,Health Marketing
+CMN,529,Seminar Communication Theory
+CMN,538,Seminar Rhetorical Theory
+CMN,575,Capstone Individual Study
+CMN,595,Special Problems
+CMN,599,Thesis Research
+CPSC,113,"Environment, Agriculture, and Society"
+CPSC,116,The Global Food Production Web
+CPSC,117,Agriculture and Science of Coffee
+CPSC,180,Medicinal Plants and Herbology
+CPSC,212,Introduction to Plant Protection
+CPSC,241,Intro to Applied Statistics
+CPSC,261,Biotechnology in Agriculture
+CPSC,265,Genetic Engineering Lab
+CPSC,393,Crop Sciences Internship
+CPSC,395,Undergrad Research or Thesis
+CPSC,396,Undergrad Honors Res or Thesis
+CPSC,418,Crop Growth and Management
+CPSC,436,Conservation Biology
+CPSC,453,Principles of Plant Breeding
+CPSC,462,Plant Molecular Biology
+CPSC,467,Plant Genomics
+CPSC,480,Cannabis Classification and Management
+CPSC,484,Plant Physiology
+CPSC,488,Soil Fertility and Fertilizers
+CPSC,491,Ugrad Bioinformatics Seminar
+CPSC,499,Advanced Special Topics
+CPSC,505,Research Methods in Crop Sciences
+CPSC,518,Crop Growth and Development
+CPSC,527,Weed Science and Management
+CPSC,540,Applied Statistical Methods II
+CPSC,567,Bioinformatics & Systems Biol
+CPSC,575,"Scientific Writing: Proposals, Manuscripts, and Peer Review"
+CPSC,591,Grad Bioinformatics Seminar
+CPSC,598,Seminar
+CPSC,599,Thesis Research
+CS,101,Intro Computing: Engrg & Sci
+CS,102,Little Bits to Big Ideas
+CS,105,Intro Computing: Non-Tech
+CS,107,Data Science Discovery
+CS,124,Introduction to Computer Science I
+CS,128,Introduction to Computer Science II
+CS,173,Discrete Structures
+CS,199,Undergraduate Open Seminar in Computer Science
+CS,210,Ethical & Professional Issues
+CS,211,Ethical and Professional Conduct
+CS,222,Software Design Lab
+CS,225,Data Structures
+CS,233,Computer Architecture
+CS,277,Algorithms and Data Structures for Data Science
+CS,340,Introduction to Computer Systems
+CS,341,System Programming
+CS,357,Numerical Methods I
+CS,361,Probability & Statistics for Computer Science
+CS,374,Introduction to Algorithms & Models of Computation
+CS,397,Individual Study
+CS,402,Accelerated Fundamentals of Computing II
+CS,403,Accelerated Fundamentals of Algorithms II
+CS,411,Database Systems
+CS,412,Introduction to Data Mining
+CS,413,Intro to Combinatorics
+CS,415,Game Development
+CS,418,Interactive Computer Graphics
+CS,420,Parallel Progrmg: Sci & Engrg
+CS,421,Programming Languages & Compilers
+CS,425,Distributed Systems
+CS,431,Embedded Systems
+CS,433,Computer System Organization
+CS,434,Mobile Computing & Application
+CS,437,Topics in Internet of Things
+CS,438,Communication Networks
+CS,440,Artificial Intelligence
+CS,441,Applied Machine Learning
+CS,442,Trustworthy Machine Learning
+CS,443,Reinforcement Learning
+CS,444,Deep Learning for Computer Vision
+CS,445,Computational Photography
+CS,446,Machine Learning
+CS,447,Natural Language Processing
+CS,448,Audio Computing Laboratory
+CS,450,Numerical Analysis
+CS,461,Computer Security I
+CS,463,Computer Security II
+CS,464,Topics in Societal and Ethical Impacts of Computer Technology
+CS,468,Tech and Advertising Campaigns
+CS,469,Computational Advertising Infrastructure
+CS,473,Algorithms
+CS,474,Logic in Computer Science
+CS,475,Formal Models of Computation
+CS,477,Formal Software Development Methods
+CS,483,Applied Parallel Programming
+CS,484,Parallel Programming
+CS,491,Seminar
+CS,493,"Senior Project II, ACP"
+CS,494,Senior Project II
+CS,497,CS Team Project
+CS,498,Special Topics
+CS,499,Senior Thesis
+CS,500,Current Topics in Computing Education Research
+CS,507,Topics in Cryptography
+CS,508,Manycore Parallel Algorithms
+CS,510,Advanced Information Retrieval
+CS,523,Advanced Operating Systems
+CS,524,Concurrent Progrmg Languages
+CS,525,Advanced Distributed Systems
+CS,526,Advanced Compiler Construction
+CS,533,Parallel Computer Architecture
+CS,534,Advanced Topics in Computer Architecture
+CS,537,Advanced Topics in Internet of Things (IoT)
+CS,538,Advanced Computer Networks
+CS,539,Distributed Algorithms
+CS,543,Computer Vision
+CS,555,Numerical Methods for PDEs
+CS,565,Human-Computer Interaction
+CS,568,User-Centered Machine Learning
+CS,588,Autonomous Vehicle System Engineering
+CS,591,Advanced Seminar
+CS,597,Individual Study
+CS,598,Special Topics
+CS,599,Thesis Research
+CSE,401,Numerical Analysis
+CSE,402,Parallel Progrmg: Sci & Engrg
+CSE,408,Applied Parallel Programming
+CSE,412,Numerical Thermo-Fluid Mechs
+CSE,414,Algorithms
+CSE,422,Computer System Organization
+CSE,427,Interactive Computer Graphics
+CSE,428,Statistical Computing
+CSE,440,Statistical Data Management
+CSE,441,Introduction to Optimization
+CSE,448,Advanced Data Analysis
+CSE,451,Finite Element Analysis
+CSE,498,Special Topics
+CSE,510,Numerical Methods for PDEs
+CSE,517,Adv Finite Element Methods
+CSE,522,Parallel Computer Architecture
+CSE,525,Computational Statistics
+CSE,530,Computational Electromagnetics
+CSE,542,Statistical Learning
+CSE,551,Finite Element Methods
+CSE,553,Computational Inelasticity
+CSE,566,Numerical Fluid Dynamics
+CW,100,Intro to Creative Writing
+CW,104,Fiction Workshop I
+CW,106,Poetry Workshop I
+CW,200,Reading for Writers
+CW,202,Topics in Creative Writing
+CW,204,Fiction Workshop II
+CW,206,Poetry Workshop II
+CW,243,"The Craft Essay: Creative Reading, Reflection, and Revision"
+CW,404,Fiction Workshop III
+CW,406,Poetry Workshop III
+CW,455,Creative Writing Tutorial
+CW,460,Intro to Literary Editing
+CW,504,Writing Workshop in Fiction
+CW,506,Writing Workshop in Poetry
+CW,560,Literary Publishing &Promotion
+CW,563,Special Topics
+CW,591,Independent Study
+CW,595,Final Project
+CWL,111,Bible as Literature
+CWL,119,Literature of Fantasy
+CWL,122,Russia and Black America
+CWL,190,Modern Asian and African Literatures
+CWL,191,Freshman Honors Tutorial
+CWL,199,Undergraduate Open Seminar
+CWL,202,Literature and Ideas
+CWL,207,Indian Cinema in Context
+CWL,208,Cultures & Literatures of South Asia
+CWL,220,Exploring the Greek and Roman World
+CWL,223,The Qur'an (Koran)
+CWL,230,Popular Cultures of Contemporary East Asia
+CWL,242,Modern Masterpieces of Western Culture
+CWL,249,Russian Lit and Revolution
+CWL,252,Viking Sagas in Translation
+CWL,253,Medieval Literature and Culture
+CWL,254,Grimm's Fairy Tales in Context
+CWL,255,Renaissance Literature and Culture
+CWL,259,Early African American Literature and Culture
+CWL,260,Modern African American Literature and Culture
+CWL,264,Introduction to Greek and Roman Theater
+CWL,267,The Short Story
+CWL,273,The Holocaust in Context
+CWL,317,Francophone Worlds
+CWL,440,Russian Culture Studies
+CWL,493,Senior Thesis and Honors
+CWL,496,Special Topics in Comp Lit II
+CWL,502,Methods of Comparative Lit
+CWL,504,Theories of Cinema
+CWL,512,Applied LiteraryTranslation II
+CWL,562,Sem Spanish-American Lit
+CWL,571,Seminar in Literary Relations
+CWL,581,Seminar Lit Themes
+CWL,582,Proseminar
+CWL,593,Special Studies
+CWL,599,Thesis Research
+CZCH,202,Second-year Czech II
+DANC,100,Intro to Contemporary Dance
+DANC,116,Dance I
+DANC,131,Production Practicum I
+DANC,150,The Green Room
+DANC,160,Dancing Techniques I
+DANC,162,Viewing Dance
+DANC,200,Explore Music through Dance
+DANC,201,Yoga Practicum
+DANC,216,Dance II
+DANC,220,Undergraduate Performance Practice
+DANC,231,Production Practicum II
+DANC,232,Repertory Company
+DANC,245,Mindful Movement
+DANC,256,Choreographic Laboratory I
+DANC,260,Dancing Techniques II
+DANC,270,Dancing in Community I & II
+DANC,290,Undergraduate Process Project
+DANC,301,Yoga Fundamentals
+DANC,316,Dancing Techniques Elective
+DANC,330,Dance Documentation
+DANC,331,Production Practicum III
+DANC,340,Dancing Black Popular Culture
+DANC,350,Teaching Dance
+DANC,360,Dancing Techniques III
+DANC,362,Choreographic Process II
+DANC,375,Thesis Think Tank
+DANC,405,Social Impact through Motion/Media Arts + Technology
+DANC,420,Graduate Performance Practice
+DANC,425,Dance Internship
+DANC,426,Special Topics in Dance
+DANC,431,Production Practicum IV
+DANC,455,Supervised Teaching
+DANC,456,Choreographic Laboratory II
+DANC,460,Dancing Techniques IV
+DANC,462,Composition Workshop
+DANC,465,Screendance
+DANC,470,Dancing in Community III & IV
+DANC,475,Dance Research Methods
+DANC,490,Graduate Process Project
+DANC,495,Senior Career Seminar
+DANC,497,BA Senior Thesis Symposium
+DANC,498,BFA Thesis Production
+DANC,499,BFA Thesis Project
+DANC,516,Dancing Techniques Graduate Elective
+DANC,530,Somatics in Dance Training
+DANC,531,MFA Prof Practice Seminar
+DANC,542,Contemporary Directions II
+DANC,550,Advanced Research in Dance
+DANC,560,Advanced Physical Practice
+DANC,562,Graduate Composition II
+DANC,598,Creative Thesis Project
+DTX,180,Exercising Empathy
+DTX,251,Introduction to Design Thinking
+DTX,455,Design for Social Impact
+DTX,495,Special Topics in Design Thinking
+EALC,120,East Asian Civilizations
+EALC,132,Zen
+EALC,199,Undergraduate Open Seminar
+EALC,221,Modern China
+EALC,230,Popular Cultures of Contemporary East Asia
+EALC,250,Intro to Japanese Culture
+EALC,285,Intro to Korea Through Film
+EALC,320,Sacred Sites in Japan
+EALC,344,Government and Politics of Japan
+EALC,360,Seminar in Korean Studies
+EALC,365,Contemporary Korean Society
+EALC,390,Individual Study
+EALC,398,Colloquium in EALC
+EALC,403,Word and Image in Chinese Art
+EALC,420,China Under the Qing Dynasty
+EALC,430,Intro to East Asian Ling
+EALC,490,Individual Study
+EALC,512,Applied LiteraryTranslation II
+EALC,550,Seminar in EALC
+EALC,588,Sem Second Lang Learn
+EALC,590,Individual Study and Research
+EALC,599,Thesis Research
+ECE,110,Introduction to Electronics
+ECE,120,Introduction to Computing
+ECE,199,Undergraduate Open Seminar
+ECE,200,Seminar
+ECE,205,Electrical and Electronic Circuits
+ECE,206,Electrical and Electronic Circuits Lab
+ECE,210,Analog Signal Processing
+ECE,211,Analog Circuits & Systems
+ECE,220,Computer Systems & Programming
+ECE,297,Individual Study
+ECE,298,Special Topics
+ECE,310,Digital Signal Processing
+ECE,311,Digital Signal Processing Lab
+ECE,313,Probability with Engrg Applic
+ECE,314,Probability in Engineering Lab
+ECE,316,Ethics and Engineering
+ECE,317,ECE Technology & Management
+ECE,329,Fields and Waves I
+ECE,330,Power Ckts & Electromechanics
+ECE,333,Green Electric Energy
+ECE,340,Semiconductor Electronics
+ECE,342,Electronic Circuits
+ECE,343,Electronic Circuits Laboratory
+ECE,350,Fields and Waves II
+ECE,374,Introduction to Algorithms & Models of Computation
+ECE,385,Digital Systems Laboratory
+ECE,391,Computer Systems Engineering
+ECE,395,Advanced Digital Projects Lab
+ECE,396,Honors Project
+ECE,397,Individual Study in ECE
+ECE,398,Special Topics in ECE
+ECE,402,Electronic Music Synthesis
+ECE,408,Applied Parallel Programming
+ECE,411,Computer Organization & Design
+ECE,414,Biomedical Instrumentation
+ECE,415,Biomedical Instrumentation Lab
+ECE,416,Biosensors
+ECE,418,Image & Video Processing
+ECE,420,Embedded DSP Laboratory
+ECE,421,Neural Interface Engineering
+ECE,422,Computer Security I
+ECE,424,Computer Security II
+ECE,425,Intro to VLSI System Design
+ECE,428,Distributed Systems
+ECE,431,Electric Machinery
+ECE,434,Mobile Computing & Application
+ECE,438,Communication Networks
+ECE,441,Physcs & Modeling Semicond Dev
+ECE,443,LEDs and Solar Cells
+ECE,444,IC Device Theory & Fabrication
+ECE,445,Senior Design Project Lab
+ECE,448,Artificial Intelligence
+ECE,449,Machine Learning
+ECE,451,Adv Microwave Measurements
+ECE,455,Optical Electronics
+ECE,458,Applic of Radio Wave Propag
+ECE,461,Digital Communications
+ECE,465,Optical Communications Systems
+ECE,466,Optical Communications Lab
+ECE,470,Introduction to Robotics
+ECE,478,Formal Software Development Methods
+ECE,479,IoT and Cognitive Computing
+ECE,483,Analog IC Design
+ECE,486,Control Systems
+ECE,489,Robot Dynamics and Control
+ECE,490,Introduction to Optimization
+ECE,491,Numerical Analysis
+ECE,492,Parallel Progrmg: Sci & Engrg
+ECE,496,Senior Research Project
+ECE,498,Special Topics in ECE
+ECE,499,Senior Thesis
+ECE,500,ECE Colloquium
+ECE,508,Manycore Parallel Algorithms
+ECE,515,Control System Theory & Design
+ECE,522,Emerging Memory and Storage Systems
+ECE,526,Distributed Algorithms
+ECE,528,Analysis of Nonlinear Systems
+ECE,534,Random Processes
+ECE,536,Integ Optics & Optoelectronics
+ECE,538,2D Material Electronics and Photonics
+ECE,539,Adv Theory Semicond & Devices
+ECE,540,Computational Electromagnetics
+ECE,543,Statistical Learning Theory
+ECE,549,Computer Vision
+ECE,553,Optimum Control Systems
+ECE,557,Geometric Control Theory
+ECE,558,Digital Imaging
+ECE,561,Statistical Inference for Engineers and Data Scientists
+ECE,570,Nonlinear Optics
+ECE,572,Quantum Opto-Electronics
+ECE,586,Topics in Decision and Control
+ECE,590,Graduate Seminar in Special Topics
+ECE,596,Master's Project
+ECE,597,Individual Study in ECE
+ECE,598,Special Topics in ECE
+ECE,599,Thesis Research
+ECON,102,Microeconomic Principles
+ECON,103,Macroeconomic Principles
+ECON,198,Economics at Illinois
+ECON,199,Undergraduate Open Seminar
+ECON,202,Economic Statistics I
+ECON,203,Economic Statistics II
+ECON,210,Environmental Economics
+ECON,298,Professional Economics Internship
+ECON,302,Inter Microeconomic Theory
+ECON,303,Inter Macroeconomic Theory
+ECON,399,Advanced Undergraduate Open Seminar
+ECON,402,American Economic History
+ECON,411,Public Sector Economics
+ECON,414,Urban Economics
+ECON,418,Health Economics
+ECON,425,Macroeconomic Policy
+ECON,426,Monetary Economics and Policy
+ECON,436,Economics of Coordination
+ECON,437,Game Theory
+ECON,440,Economics of Labor Markets
+ECON,447,Economics of the Workplace
+ECON,448,Employee Compensation and Incentives
+ECON,450,Development Economics
+ECON,460,Financial Economics
+ECON,471,Intro to Applied Econometrics
+ECON,472,Financial Econometrics
+ECON,474,Econometrics of Policy Evaluation
+ECON,475,Economic Forecasting
+ECON,480,Industrial Comp and Monopoly
+ECON,484,Law and Economics
+ECON,490,Topics in Economics
+ECON,491,Topics in Econometrics
+ECON,501,Macroeconomics
+ECON,503,Econometrics
+ECON,511,Public Goods Theory
+ECON,514,International Financial
+ECON,517,Monetary Policy
+ECON,533,Microeconomic Theory II
+ECON,534,Macroeconomic Theory II
+ECON,535,Econometric Analysis II
+ECON,543,Workplace Dispute Resolution
+ECON,549,Environmental Economics
+ECON,553,Demand/Supply/Firms/Households
+ECON,575,Econometrics II
+ECON,578,Large Sample Theory
+ECON,582,Empirical Ind Organization
+ECON,590,Individual Study and Research
+ECON,598,Workshop and Research Seminar
+ECON,599,Thesis Research
+EDPR,199,Undergraduate Open Seminar
+EDPR,250,School & Community Experiences
+EDPR,420,School Access & Supports
+EDPR,432,Ed Prac in EC & ELED
+EDPR,438,Educational Practice in Special Fields
+EDPR,442,Educational Practice in Secondary Education
+EDPR,550,School and Community Experience
+EDUC,199,Undergraduate Open Seminar
+EDUC,201,Identity and Difference in Education
+EDUC,202,"Social Justice, School and Society"
+EDUC,299,Education Study Abroad
+EDUC,499,Education Abroad
+EIL,199,Undergraduate Open Seminar
+EIL,214,TESL in the Elementary School
+EIL,215,TESL in the Secondary School
+EIL,411,Intro to TESL Methodology
+EIL,445,Second Lang Reading & Writing
+EIL,460,Principles of Language Testing
+EIL,488,Phonology for Second Language Teachers
+EIL,512,Practicum in Teaching ESL
+EIL,591,Research in Special Topics
+EIL,599,Thesis Research
+ENG,100,Grainger Engineering Orientation Seminar
+ENG,101,Engineering at Illinois
+ENG,110,Communicating and Presenting in Engineering
+ENG,111,MEP Mentoring
+ENG,177,Engineering First-Year Experience Seminars
+ENG,198,Special Topics
+ENG,199,Undergraduate Open Seminar
+ENG,298,Special Topics
+ENG,299,Engineering Study Abroad
+ENG,310,Engineering Internship
+ENG,377,Pedagogy and Mentoring for Engineering Learning Assistants
+ENG,398,Special Topics
+ENG,411,Engineering Ambassadors Leadership Training
+ENG,471,Seminar Energy & Sustain Engrg
+ENG,491,Interdisciplinary Design Proj
+ENG,498,Special Topics
+ENG,510,Engineering Practice
+ENG,571,Theory Energy & Sustain Engrg
+ENG,572,Professional Practicum
+ENG,573,Capstone Project
+ENG,591,Engineering Advanced Seminar
+ENG,598,Special Topics
+ENGL,101,Intro to Poetry
+ENGL,104,Introduction to Film
+ENGL,109,Intro to Fiction-ACP
+ENGL,114,Bible as Literature
+ENGL,115,Intro to British Literature
+ENGL,116,Introduction to American Literature
+ENGL,119,Literature of Fantasy
+ENGL,120,Science Fiction
+ENGL,199,Undergraduate Open Seminar
+ENGL,200,Introduction to the Study of Literature and Culture
+ENGL,202,Medieval Literature and Culture
+ENGL,204,Renaissance Literature and Culture
+ENGL,209,Early British Literature and Culture
+ENGL,210,Modern British Literature and Culture
+ENGL,218,Introduction to Shakespeare
+ENGL,224,Latina/o Popular Culture
+ENGL,241,Modern Poetry
+ENGL,245,The Short Story
+ENGL,250,Nineteenth-Century American Fiction
+ENGL,255,Early American Literature and Culture
+ENGL,259,Early African American Literature and Culture
+ENGL,260,Modern African American Literature and Culture
+ENGL,261,Topics in Literature and Culture
+ENGL,266,Grimm's Fairy Tales in Context
+ENGL,269,The Holocaust in Context
+ENGL,270,American Film Genres
+ENGL,273,"American Cinema, 1950-2000"
+ENGL,275,Am Indian and Indigenous Film
+ENGL,280,Women Writers
+ENGL,285,Postcolonial Literature in English
+ENGL,286,Asian American Literature
+ENGL,290,Individual Study
+ENGL,301,Introduction to Critical Theory
+ENGL,350,"Writing about Literature, Text, and Culture"
+ENGL,357,Literatures of the Displaced
+ENGL,360,Environmental Writing
+ENGL,373,Special Topics in Film Studies
+ENGL,380,Topics in Writing Studies
+ENGL,390,Advanced Individual Study
+ENGL,391,Honors Individual Study
+ENGL,396,English Honors Seminar
+ENGL,402,Descriptive English Grammar
+ENGL,411,Chaucer
+ENGL,449,American Romanticism
+ENGL,451,American Literature in the Age of Modernism
+ENGL,455,Major Authors
+ENGL,460,Literature of American Minorities
+ENGL,461,Advanced Topics in Literature and Culture
+ENGL,475,Literature and Other Disciplines
+ENGL,476,Topics in Literature and the Environment
+ENGL,481,Composition Theory and Practice
+ENGL,498,Environmental Writing for Publication
+ENGL,504,Theories of Cinema
+ENGL,514,Seminar in Medieval Literature
+ENGL,537,Seminar Victorian Lit
+ENGL,563,Seminar Themes and Movements
+ENGL,564,Seminar Lit Modes and Genres
+ENGL,578,Seminar Lit &Other Disciplines
+ENGL,581,Seminar Literary Theory
+ENGL,582,Topics Research and Writing
+ENGL,591,Research in Special Topics
+ENGL,593,Professional Seminar in College Teaching
+ENGL,599,Thesis Research
+ENSU,301,Soc Impacts Weather & Climate
+ENSU,410,Sustainable Organizations
+ENT,599,Thesis Research
+ENVS,101,Introduction to Energy Sources
+ENVS,210,Environmental Economics
+ENVS,220,Communicating Agriculture
+ENVS,299,Ind Studies of Env. Topics
+ENVS,301,Tools for Sustainability
+ENVS,310,Natural Resource Economics
+ENVS,380,Environmental Geology
+ENVS,420,Conservation Biology
+ENVS,469,Environmental Health
+ENVS,491,Sustainability Experience
+ENVS,510,Adv Natural Resource Economics
+ENVS,514,Neurotoxicology
+ENVS,596,Interdisciplinary Tox Sem
+EPOL,201,Foundations of Education
+EPOL,202,Foundations of Education-ACP
+EPOL,310,Race and Cultural Diversity
+EPOL,395,Independent Study
+EPOL,403,Historical and Social Barriers
+EPOL,406,Professional Ethics in Education
+EPOL,407,Critical Thinking in Education
+EPOL,409,Sociology of Education
+EPOL,410,Racial and Ethnic Families
+EPOL,412,Politics of Education
+EPOL,420,Global Migration and Education
+EPOL,421,Education for Global Environmental Sustainability
+EPOL,471,Business Principles for Human Resource Development
+EPOL,472,Instructional and Training System Design
+EPOL,473,Facilitation Skills
+EPOL,474,Diversity in the Workplace
+EPOL,483,Learning Technologies
+EPOL,490,Special Study and Investigation
+EPOL,501,History of U.S. Educational Thought
+EPOL,515,Introduction to Diversity & Equity
+EPOL,517,"Race, Gender and Sexuality Issues"
+EPOL,523,Global Issues in Learning
+EPOL,524,Education and Human Rights
+EPOL,525,Global Youth and Citizenship
+EPOL,526,Education and Power in Middle East
+EPOL,528,Researching Global Education
+EPOL,531,"Diversity, Leadership & Policy"
+EPOL,534,Assessment for Learning
+EPOL,535,Introduction to Educational Leadership
+EPOL,536,Leading School Improvement
+EPOL,540,Leading Learning-Centered Schools
+EPOL,541,Leading Improvement and Innovation
+EPOL,542,Public School Finance
+EPOL,546,Law and School District Leader
+EPOL,548,Human Resource Management at the School District Level
+EPOL,552,Foundation of Higher Education
+EPOL,557,Education and Stratification
+EPOL,559,Higher Education Law
+EPOL,560,Student Affairs Administration
+EPOL,562,Diversity in Higher Education
+EPOL,565,Critical Issues in Higher Education
+EPOL,570,Organization Development
+EPOL,576,Consulting in Human Resource Development
+EPOL,579,Adult and Professional Education
+EPOL,582,New Media and Literacies
+EPOL,583,eLearning Ecologies
+EPOL,586,General Field Research Seminar
+EPOL,587,Special Field Research Seminar
+EPOL,588,Methodology Research Seminar
+EPOL,590,Advanced Graduate Seminar
+EPOL,591,Thesis Seminar
+EPOL,595,Independent Study
+EPOL,597,Clinical Experience Administration
+EPOL,599,Thesis Research
+EPS,539,"Youth, Culture and Society"
+EPSY,199,Undergraduate Open Seminar
+EPSY,201,Educational Psychology
+EPSY,202,Exploring Cultural Diversity
+EPSY,220,Career Theory and Practice
+EPSY,222,Language & Culture of Deaf Communities
+EPSY,395,Independent Study
+EPSY,398,Thesis
+EPSY,401,Child Language and Education
+EPSY,405,Personality and Soc Dev
+EPSY,419,Counseling Psychology Pre-Practicum
+EPSY,420,Theories of Psychotherapy
+EPSY,471,Introduction to Evaluation Methods
+EPSY,480,Educational Statistics
+EPSY,487,Principles of Language Testing
+EPSY,490,Developments in Educational Psychology
+EPSY,491,Educational Psychology Field Instruction
+EPSY,511,Vocational Psychology Theories and Assessment
+EPSY,515,Multicultural Counseling
+EPSY,520,Counseling Psychology Practicum
+EPSY,550,Methods of Educational Inquiry
+EPSY,553,Global Issues in Learning
+EPSY,567,Personality Assessment
+EPSY,575,Mixed Method Inquiry
+EPSY,579,Structural Equation Modeling
+EPSY,581,Applied Regression Analysis
+EPSY,586,Theories of Measurement II
+EPSY,587,Hierarchical Linear Models
+EPSY,590,Advanced Seminar in Educational Psychology
+EPSY,591,Field Study and Thesis Seminar
+EPSY,595,Independent Study
+EPSY,599,Thesis Research
+ERAM,550,Methods of Educational Inquiry
+ERAM,554,Postcolonial Theory and Methodology
+ERAM,556,Program Evaluation
+ERAM,557,Meaning Patterns: Semiotics and the Interpretation of Meanings in Education and the Social Sciences
+ERAM,572,Case Studies in Educational Ethics
+ERAM,581,Evaluation with Applied Survey Design I
+ESE,103,Earth's Physical Systems
+ESE,111,Emergence of Life
+ESE,117,The Oceans
+ESE,118,Natural Disasters
+ESE,120,Severe and Hazardous Weather
+ESE,140,Climate and Global Change
+ESE,208,History of the Earth System
+ESE,210,Social & Environmental Issues
+ESE,254,"American People, Places, & Environments"
+ESE,287,Environment and Society
+ESE,311,Environmental Issues Today
+ESE,320,"Water Planet, Water Crisis"
+ESE,350,Sustainability and the City
+ESE,360,Environmental Writing
+ESE,379,Introduction to Geographic Information Systems
+ESE,380,Spatial Problem Solving
+ESE,389,Environment and Sustainability Field Expedition
+ESE,401,ESE Capstone
+ESE,445,Earth Resources Sustainability
+ESE,482,Challenges of Sustainability
+ESE,497,Special Topics in ESE
+ESE,498,Environmental Writing for Publication
+ESL,110,English Pronunciation & Oral Fluency
+ESL,111,Intro to Academic Writing I
+ESL,112,Intro to Academic Writing II
+ESL,115,Principles of Academic Writing
+ESL,504,English Pronunciation for ITAs
+ESL,506,Oral Communication for ITAs
+ESL,508,Seminar for Intl TAs
+ESL,510,English Pronunciation & Oral Fluency
+ESL,511,Written and Oral Communication
+ESL,512,Introduction to Academic Writing
+ESL,515,Introduction to Academic Writing
+ESL,521,Written and Oral Business Communication
+ESL,522,Introduction to Business Writing
+ESL,525,Elements of Business Writing
+ESL,592,Advanced Academic Writing
+ESL,593,Academic Presentation Skills
+ETMA,100,Technical Systems in Agr
+ETMA,132,Basics of Project Management
+ETMA,199,Undergraduate Open Seminar
+ETMA,234,"Wiring, Motors and Control Sys"
+ETMA,262,Agricultural Machine Systems Management
+ETMA,293,Off-Campus Internship
+ETMA,295,Undergrad Research or Thesis
+ETMA,311,Humanity in the Food Web
+ETMA,339,Optimization in Engineering Technology and Management
+ETMA,363,Fluid Power Systems
+ETMA,381,Grain Drying & Storage Systems
+ETMA,396,UG Honors Research or Thesis
+ETMA,421,Industrial and Agricultural Safety-Injury Prevention
+ETMA,425,Managing Industrial and Agricultural Safety Risks
+ETMA,439,Capstone Experience
+ETMA,464,Engine and Tractor Power
+ETMA,496,Independent Study
+ETMA,594,Graduate Seminar
+ETMA,598,Special Topics
+ETMA,599,Thesis Research
+EURO,418,Language & Minorities in Europe
+EURO,490,Special Topics in EU Studies
+EURO,500,Dialogue on Europe
+EURO,502,The EU in a Global Context
+EURO,590,Directed Ind Study
+EURO,599,Thesis Research
+FAA,110,Exploring Arts and Creativity
+FAA,199,Undergraduate Open Seminar
+FAA,201,Black Arts Today
+FAA,202,Artsful Teaching through Integ
+FAA,299,FAA Study Abroad
+FAA,330,Making Sustainable Design
+FAA,398,Sustainable Design Internship
+FAA,431,Capstone Studio
+FAA,491,Special Problems in Sustainable Design
+FAA,499,Special Topics
+FAA,598,Graduate Special Topics
+FIN,199,Undergraduate Open Seminar
+FIN,221,Corporate Finance
+FIN,230,Introduction to Insurance
+FIN,241,Fundamentals of Real Estate
+FIN,300,Financial Markets
+FIN,321,Advanced Corporate Finance
+FIN,380,Entrepreneurship through Acquisition
+FIN,390,Finance Academy
+FIN,391,Investment Banking Academy
+FIN,392,Investment Management Academy
+FIN,393,Risk Management Academy
+FIN,394,Women in Finance Academy
+FIN,411,Investment & Portfolio Mngt
+FIN,412,Options and Futures Markets
+FIN,418,Financial Modeling
+FIN,419,Real Client Managed Portfolios
+FIN,423,Entrepreneurial Finance
+FIN,428,Cases in Financial Derivatives
+FIN,432,Managing Market Risks for Financial Institutions
+FIN,434,Employee Benefit Plans
+FIN,435,Personal Wealth Management
+FIN,443,Legal Issues in Real Estate
+FIN,446,Real Estate Financial Markets
+FIN,463,Investment Banking
+FIN,464,Applied Financial Analysis
+FIN,490,Special Topics in Finance
+FIN,494,Senior Research
+FIN,495,Senior Research
+FIN,500,Introduction to Finance
+FIN,501,Financial Economics
+FIN,502,Quantitative Finance
+FIN,503,Quantitative Finance II
+FIN,504,Accounting for Financial Analysis
+FIN,511,Investments
+FIN,512,Financial Derivatives
+FIN,513,Applications of Financial Engineering
+FIN,514,Valuation of Complex Derivative Securities
+FIN,518,Financial Modeling
+FIN,521,Advanced Corporate Finance
+FIN,526,Investment Banking
+FIN,527,Mergers & Acquisitions Topics
+FIN,528,Cases in Financial Derivatives
+FIN,529,Applied Financial Analysis
+FIN,532,Managing Market Risks for Financial Institutions
+FIN,537,Financial Risk Management
+FIN,543,Legal Issues in Real Estate
+FIN,550,Big Data Analytics in Finance for Predictive and Causal Analysis
+FIN,551,International Finance
+FIN,554,Algorithmic Trading Systems Design and Testing
+FIN,557,Financial Data Management and Analysis
+FIN,570,Corporate Finance
+FIN,571,Money and Banking
+FIN,573,Applications of Investment Banking Concepts
+FIN,574,Microeconomics for Business
+FIN,580,Special Topics in Finance
+FIN,589,Applied Portfolio Management
+FIN,590,Individual Study and Research
+FIN,592,Empirical Analysis in Finance
+FIN,593,Seminar in Investments
+FIN,599,Thesis Research
+FLTE,471,Introduction to Second Language Teaching
+FLTE,478,Secondary World Language Teaching
+FR,101,Elementary French I
+FR,102,Elementary French II
+FR,103,Intermediate French I
+FR,104,Intermediate French II
+FR,156,Exploring Paris
+FR,179,Migration and French National Identity
+FR,199,Undergraduate Open Seminar
+FR,205,French in Conversation
+FR,207,Writing and Grammar Workshop
+FR,211,Introduction to Literary Studies
+FR,212,Introduction to Cultural Analysis: French Identities
+FR,313,Worldwide Spoken French
+FR,319,Francophone Worlds
+FR,335,French Cultural History to 1789
+FR,390,Indiv Study Major Tutorial
+FR,418,Language & Minorities in Europe
+FR,460,Principles of Language Testing
+FR,481,Theoretical Foundations of SLA
+FR,492,Senior Thesis
+FR,501,Reading French Grads
+FR,543,French Studies
+FR,559,Sem Romance Ling
+FR,579,Seminar in French Literature
+FR,588,Sem Second Lang Learn
+FR,591,Individual Topics
+FR,599,Thesis Research
+FSHN,101,The Science of Food and How it Relates to You
+FSHN,120,Contemporary Nutrition
+FSHN,145,Intro Hospitality Management
+FSHN,175,Science of Fermented Foods
+FSHN,193,Edible Entrepreneurialism - Feeding Ideas for the Future
+FSHN,199,Undergraduate Open Seminar
+FSHN,201,Math for Food Science
+FSHN,232,Science of Food Preparation
+FSHN,249,Food Service Sanitation
+FSHN,251,Nutritional Physiology II
+FSHN,260,Raw Materials for Processing
+FSHN,292,Hospitality Management: Professional Issues
+FSHN,293,Off Campus Internship
+FSHN,294,On Campus Internship
+FSHN,295,UG Research or Thesis
+FSHN,322,Nutrition and the Life Cycle
+FSHN,329,Communication in Nutrition
+FSHN,340,Food Production and Service
+FSHN,346,Foundations of Hotel Management
+FSHN,396,UG Honors Research or Thesis
+FSHN,398,Undergraduate Seminar
+FSHN,418,Food Analysis
+FSHN,423,Advances in Foods & Nutrition
+FSHN,424,Biopsychology of Ingestive Behavior
+FSHN,425,Food Marketing
+FSHN,426,Biochemical Nutrition I
+FSHN,427,Biochemical Nutrition II
+FSHN,429,Nutrition Assessment & Therapy
+FSHN,442,Hospitality Management & Leadership Skills
+FSHN,443,Management of Fine Dining
+FSHN,459,Nutrition Focused Physical Assessment
+FSHN,466,Food Product Development
+FSHN,471,Food & Industrial Microbiology
+FSHN,472,Applied Food Microbiology
+FSHN,481,Food Processing Unit Operations I
+FSHN,482,Food Processing Unit Operations I Lab
+FSHN,499,Cur Topics in FS & Human Nutr
+FSHN,510,Topics in Nutrition Research
+FSHN,511,Regulation of Metabolism
+FSHN,522,Dietary Prevention of Cardiovascular and Other Chronic Diseases
+FSHN,573,Advanced Food Microbiology
+FSHN,591,Dietetic Internship II
+FSHN,592,Graduate Internship Experience
+FSHN,593,Seminar in Foods and Nutrition
+FSHN,595,Advanced Topics in Food Science and Human Nutrition
+FSHN,597,Graduate Seminar
+FSHN,598,Advanced Special Problems
+FSHN,599,Thesis Research
+GC,295,URAP Research Apprenticeship
+GC,498,Graduate Domestic Study Away
+GC,500,URAP Graduate Mentor Practicum
+GC,599,Thesis Research
+GEOL,107,Physical Geology
+GEOL,111,Emergence of Life
+GEOL,117,The Oceans
+GEOL,118,Natural Disasters
+GEOL,199,Undergraduate Open Seminar
+GEOL,208,History of the Earth System
+GEOL,370,"Water Planet, Water Crisis"
+GEOL,380,Environmental Geology
+GEOL,390,Individual Study
+GEOL,391,Individual Honors Study
+GEOL,415,Field Geology
+GEOL,436,Petrology and Petrography
+GEOL,440,Sedimentology and Stratigraphy
+GEOL,450,Investigating the Earth’s Interior
+GEOL,452,Introduction to Geophysics
+GEOL,483,Challenges of Sustainability
+GEOL,490,Undergraduate Research
+GEOL,491,Honors Undergraduate Research
+GEOL,492,Senior Thesis
+GEOL,493,Honors Senior Thesis
+GEOL,507,GIS for Geology
+GEOL,515,Advanced Field Geology
+GEOL,517,Data Science for the Geosciences
+GEOL,561,Geomicrobiology & Geochemistry
+GEOL,564,Geochronology
+GEOL,573,River Morphodynamics
+GEOL,591,Current Research in Geoscience
+GEOL,593,Advanced Studies in Geology
+GEOL,599,Thesis Research
+GER,101,Beginning German I
+GER,102,Beginning German II
+GER,103,Intermediate German I
+GER,104,Intermediate German II
+GER,191,Freshman Honors Tutorial
+GER,199,Undergraduate Open Seminar
+GER,201,German Popular Culture
+GER,211,Conversation and Writing I
+GER,212,Conversation and Writing II
+GER,251,Grimm's Fairy Tales in Context
+GER,261,The Holocaust in Context
+GER,299,Study Abroad
+GER,321,German for Economics
+GER,331,Intro to German Literature
+GER,418,Language & Minorities in Europe
+GER,420,German Cultural History
+GER,460,Principles of Language Testing
+GER,465,German Linguistics
+GER,470,Middle Ages to Baroque
+GER,473,1920s to Today
+GER,489,Theoretical Foundations of SLA
+GER,491,Honors Senior Thesis
+GER,494,German Cinema II
+GER,496,Special Topics German Studies
+GER,512,Applied LiteraryTranslation II
+GER,573,18thC German Studies
+GER,576,Open Seminar in German Studies
+GER,588,Sem Second Lang Learn
+GER,593,Research in Special Topics
+GER,599,Thesis Research
+GGIS,100,Introduction to Meteorology
+GGIS,101,Global Development & Environment
+GGIS,103,Earth's Physical Systems
+GGIS,204,Cities of the World
+GGIS,205,Business Location Decisions
+GGIS,210,Social & Environmental Issues
+GGIS,221,Geographies of Global Conflict
+GGIS,224,Environmental Data Science
+GGIS,254,"American People, Places, & Environments"
+GGIS,280,Intro to Social Statistics
+GGIS,287,Environment and Society
+GGIS,350,Sustainability and the City
+GGIS,370,"Water Planet, Water Crisis"
+GGIS,379,Introduction to Geographic Information Systems
+GGIS,380,Spatial Problem Solving
+GGIS,390,Independent Study
+GGIS,391,Honors Independent Study
+GGIS,392,Geography & GIS Internship
+GGIS,403,Geographic Information Science and Systems
+GGIS,407,Foundations of CyberGIS & Geospatial Data Science
+GGIS,455,Geography of Sub-Saharan Africa
+GGIS,459,Ecohydraulics
+GGIS,460,Aerial Photo Analysis
+GGIS,480,Principles of Geographic Information Science
+GGIS,483,Urban Geography
+GGIS,489,Programming for GIS
+GGIS,491,Research in Geography
+GGIS,495,Advanced Topics in Geography
+GGIS,507,High-Performance Geospatial Computing
+GGIS,517,Geospatial Visualization & Visual Analytics
+GGIS,570,Advanced Spatial Analysis
+GGIS,590,Graduate Independent Study
+GGIS,593,Geography & GIS Colloquium
+GGIS,595,Graduate Seminar
+GGIS,598,Graduate Capstone Project
+GGIS,599,Thesis Research
+GLBL,100,Intro to Global Studies
+GLBL,118,Natural Disasters
+GLBL,199,Undergraduate Open Seminar
+GLBL,200,Foundations of Research
+GLBL,221,Geographies of Global Conflict
+GLBL,225,Career Development:Internships
+GLBL,240,Global Health
+GLBL,250,Development
+GLBL,251,Warfare Milit Insts & Soc
+GLBL,260,Global Human Rights
+GLBL,270,Introduction to Global Markets and Society
+GLBL,272,Language and Culture in Turkey
+GLBL,280,Nuclear Weapons & Arms Control
+GLBL,296,Global St Foundation Seminar
+GLBL,298,Global Studies Seminar Abroad
+GLBL,340,Global Health: Policy & Governance
+GLBL,357,Ethnic Conflict
+GLBL,392,Int Diplomacy and Negotiation
+GLBL,403,Women in Muslim Societies
+GLBL,450,Poverty Interventions and Evaluation
+GLBL,480,Energy and Security
+GLBL,483,Seminar on Security
+GLBL,495,Research Methods II
+GLBL,499,Special Topics
+GLBL,501,Perspectives on Global Studies
+GMC,199,Undergraduate Open Seminar
+GRK,102,Elementary Greek II
+GRK,199,Undergraduate Open Seminar
+GRK,202,Classical & Koine Greek II
+GRK,401,Survey of Greek Literature
+GRK,492,Senior Thesis
+GRK,493,Independent Reading
+GRK,520,Proseminar
+GRK,599,Thesis Research
+GRKM,202,Elementary Modern Greek II
+GRKM,404,Intermediate Modern Greek II
+GS,101,Exploring General Studies
+GS,102,Preparation for 21st Century Challenges
+GS,198,DGS Honors Seminar
+GS,299,DGS Study Abroad
+GSD,101,Introduction to Game Studies and Design
+GSD,103,The Basics of Game Design
+GSD,190,Explorations in Games
+GSD,199,Individual Study
+GSD,390,Special Topics in Game Studies & Design
+GSD,399,Advanced Individual Study
+GSD,405,Introduction to the Video Game Development Process
+GSD,411,Interactive Fiction with Twine
+GSD,490,Advanced Special Topics in Game Studies & Design
+GSD,504,Seminar in Game Studies
+GWS,100,Intro Gender & Women's Studies
+GWS,199,Undergraduate Open Seminar
+GWS,201,"Race, Gender & Power"
+GWS,202,Sexualities
+GWS,215,US Citizenship Comparatively
+GWS,218,Intro to Social Issues Theatre
+GWS,230,Latina/o Genders & Sexualities
+GWS,263,History of Medicine in the United States
+GWS,280,Women Writers
+GWS,282,Feminist and Queer Activisms
+GWS,295,Beginning Topics GWS
+GWS,316,Global Histories of Gender
+GWS,335,"Film, TV, and Gender"
+GWS,350,Feminist & Gender Theory
+GWS,356,Sex & Gender in Popular Media
+GWS,357,Literatures of the Displaced
+GWS,380,Black Women Hist & Cultures
+GWS,390,Individual Study
+GWS,392,Chicanas&Latinas: Self&Society
+GWS,403,Women in Muslim Societies
+GWS,409,Women's Health
+GWS,417,Leading Post-Perform Dialog
+GWS,418,Devising Social Issues Theatre
+GWS,432,Gender Communication
+GWS,442,"Body, Culture & Society"
+GWS,454,Social Work with Women
+GWS,464,Theories & Theologies of Liberation
+GWS,465,"Race, Sex, and Deviance"
+GWS,478,"Sex, Power and Politics"
+GWS,490,Individual Study
+GWS,498,Senior Seminar
+GWS,501,Prob in Comp Women's Hist
+GWS,512,Gender Relations & Intl Dev
+GWS,580,Queer Theories & Methods
+GWS,590,Topics in GWS
+HDFS,105,Intro to Human Development
+HDFS,120,Intro to Family Studies
+HDFS,140,Intro Gender & Women's Studies
+HDFS,199,Undergraduate Open Seminar
+HDFS,206,Early Childhood Curriculum Dev
+HDFS,207,Self in Context
+HDFS,208,"Child and Family Inclusion: Disability, Health, and Diversity"
+HDFS,220,Families in Global Perspective
+HDFS,221,Asian Families in America
+HDFS,225,Close Relationships
+HDFS,259,Motor Development and Control
+HDFS,262,"Motor Develop, Growth & Form"
+HDFS,263,"Diversity in Recreation, Sport, and Tourism"
+HDFS,290,Intro to Research Methods
+HDFS,291,HDFS Career Planning & Preparation
+HDFS,294,Research Internship
+HDFS,295,Independent Study or Research
+HDFS,301,Infancy & Early Childhood
+HDFS,305,Middle Childhood
+HDFS,310,Adult Development
+HDFS,322,US Latina and Latino Families
+HDFS,335,"Food, Identity, & Family Life"
+HDFS,379,HDFS Study Abroad Experience
+HDFS,396,Honors Research or Thesis
+HDFS,398,Undergraduate Seminar
+HDFS,404,Gerontology
+HDFS,405,Adolescent Development
+HDFS,408,Hospitalized Children
+HDFS,420,"Inequality, Public Policy, and U.S. Families"
+HDFS,424,Racial and Ethnic Families
+HDFS,426,Family Conflict Management
+HDFS,444,"LGBT Indiv, Fam & Community"
+HDFS,499,Seminar
+HDFS,505,Advanced Adolescence
+HDFS,521,Family Theories
+HDFS,523,Ethnic Families
+HDFS,539,"Youth, Culture and Society"
+HDFS,550,Advanced Practicum in HDFS
+HDFS,582,Discourse Analysis in the Social Sciences
+HDFS,591,Qualitative Methods
+HDFS,594,Intermed Statistical Analysis
+HDFS,595,Seminar
+HDFS,596,Advanced Studies in HDFS
+HDFS,598,Special Problems in HDFS
+HDFS,599,Thesis Research
+HEBR,199,Undergraduate Open Seminar
+HEBR,202,Elementary Modern Hebrew II
+HEBR,404,Intermediate Modern Hebrew II
+HIST,100,Global History
+HIST,112,History of Africa from 1800
+HIST,120,East Asian Civilizations
+HIST,142,Modern Europe and the World
+HIST,143,Modern Europe and the World - ACP
+HIST,170,US History to 1877-ACP
+HIST,171,US History to 1877
+HIST,172,US History Since 1877
+HIST,173,US History Since 1877-ACP
+HIST,174,"Black America, 1619-Present"
+HIST,191,Freshman Honors Tutorial
+HIST,199,Undergraduate Open Seminar
+HIST,200,Intro Hist Interpretation
+HIST,211,History of Southern Africa
+HIST,219,History of the Prison
+HIST,221,Modern China
+HIST,247,Medieval Europe
+HIST,251,Warfare Milit Insts & Soc
+HIST,253,Enlightenment to Existentialsm
+HIST,260,History of Russia
+HIST,263,History of Medicine in the United States
+HIST,264,Technology in Western Society
+HIST,276,Afro-American Hist Since 1877
+HIST,278,Native American History
+HIST,279,Mexican-American History
+HIST,283,Asian American History
+HIST,288,American Indians of Illinois
+HIST,289,History of Religion in America
+HIST,292,Latina/o Social Movements
+HIST,300,Topics in Film and History
+HIST,312,Immigrant America
+HIST,316,Global Histories of Gender
+HIST,357,Modern France
+HIST,358,History Harvest: Collaborative Digital Public History
+HIST,364,The Science of Human Nature
+HIST,365,Fict & Historical Imagination
+HIST,370,Colonial America
+HIST,389,Race and Revolutions
+HIST,395,Topics in Law and Society
+HIST,398,Internship in Public History
+HIST,399,Independent Study
+HIST,405,History of Brazil from 1808
+HIST,420,China Under the Qing Dynasty
+HIST,434,Women in Muslim Societies
+HIST,441,The Roman Empire
+HIST,456,Twentieth-Century Germany
+HIST,488,The American Political Divide
+HIST,490,Honors Independent Study
+HIST,492,Historiography and Methodology
+HIST,493,Honors Senior Thesis
+HIST,498,Research and Writing Seminar
+HIST,499,Thesis Seminar
+HIST,502,Prob in Comparative History
+HIST,503,Prob in Comp Women's Hist
+HIST,542,Problems in Medieval History
+HIST,572,Prob in US Hist Since 1815
+HIST,594,Intro Historical Writing
+HIST,596,Individual Research Project
+HIST,597,Reading Course
+HIST,598,Teaching of College History
+HIST,599,Thesis Research
+HNDI,115,Language and Culture in India
+HNDI,202,Elementary Hindi-Urdu II
+HNDI,404,Intermediate Hindi II
+HNDI,406,Advanced Hindi II
+HORT,100,Introduction to Horticulture
+HORT,105,Vegetable Gardening
+HORT,199,Special Topics
+HORT,223,The Intelligent Behavior of Plants
+HORT,341,Greenhouse Mgmt and Production
+HORT,361,Small Fruit Production
+HORT,393,Horticulture Internship
+HORT,395,Undergrad Research or Thesis
+HORT,396,Ug Honors Research or Thesis
+HORT,430,Children and Nature
+HT,504,Software Engineering for Health Technology
+HT,511,Health Technology Capstone Development
+HUM,191,Freshman Honors Tutorial
+HUM,199,Undergraduate Open Seminar
+HUM,275,Careers for Humanities Majors
+HUM,390,Individual Study
+HUM,397,Special Topics Junior
+HUM,492,Senior Thesis
+HUM,495,Special Advanced Topics
+HUM,498,Special Topics Senior
+IB,100,Biology in Today's World
+IB,103,Introduction to Plant Biology
+IB,108,The Biology of Dinosaurs
+IB,150,Organismal & Evolutionary Biol
+IB,151,Organismal & Evol Biol Lab
+IB,199,Undergraduate Open Seminar
+IB,202,Physiology
+IB,271,Organismal Biology
+IB,292,Translating Your IB Degree Into Career Success
+IB,299,Undergraduate Special Course
+IB,302,Evolution
+IB,329,Animal Behavior
+IB,335,Plant Systematics
+IB,361,Ecology and Human Health
+IB,390,Undergraduate Research Experience
+IB,405,Evolution of Traits and Genomes
+IB,416,Population Genetics
+IB,420,Plant Physiology
+IB,432,Genes and Behavior
+IB,434,Physical Principles in Biology
+IB,435,Critical Evaluation of Herbal Remedies
+IB,442,Evolution of Infectious Disease
+IB,451,Conservation Biology
+IB,461,Ornithology
+IB,464,Herpetology
+IB,472,Plant Molecular Biology
+IB,473,Plant Genomics
+IB,490,Independent Study
+IB,496,Special Courses
+IB,505,Bioinformatics & Systems Biol
+IB,513,Disc in Plant Physiology
+IB,516,Ecosystem Biogeochemistry
+IB,526,Seminar in Entomology
+IB,532,Sustainability & Global Change
+IB,536,Evolutionary Biology
+IB,546,Topics in Ecology & Evolution
+IE,199,Undergraduate Open Seminar
+IE,300,Analysis of Data
+IE,310,Deterministic Models in Optimization
+IE,330,Industrial Quality Control
+IE,340,Human Factors
+IE,361,Production Planning & Control
+IE,370,Stochastic Processes and Applications
+IE,371,Simulation Modeling with Applications for Industrial Engineering
+IE,397,Independent Study
+IE,420,Financial Engineering
+IE,421,High Frequency Trading Technology
+IE,497,Independent Study
+IE,511,Integer Programming
+IE,514,"Optimization Methods for Large-Scale, Network-Based Systems"
+IE,517,Machine Learning in Finance Lab
+IE,525,Stochastic Calculus & Numerical Models in Finance
+IE,531,Algorithms for Data Analytics
+IE,533,Big Graphs and Social Networks
+IE,590,Seminar
+IE,597,Independent Study
+IE,598,Special Topics
+IE,599,Thesis Research
+IHLT,102,Survey of Interdisc Health
+IHLT,232,Health Disparities in the U.S.
+IHLT,375,Interdis Collab in Health Serv
+IHLT,385,Experience in Interdisciplinary Health Research
+IHLT,391,Special Project-Problems
+IHLT,474,Pre-Field Experience in Health
+IHLT,475,Field Experience in i-Health
+IHLT,498,Interdisciplinary Health Study Abroad
+INFO,102,Little Bits to Big Ideas
+INFO,199,Undergraduate Open Seminar
+INFO,202,Social Aspects Info Tech
+INFO,303,Writing Across Media
+INFO,310,Computing in the Humanities
+INFO,390,Special Topics
+INFO,399,Individual Study
+INFO,416,Makerspace: Game Studies
+INFO,418,Makerspace: Escape Rooms
+INFO,490,Special Topics
+INFO,491,Ugrad Bioinformatics Seminar
+INFO,500,Orientation Seminar
+INFO,510,Research Practicum
+INFO,591,Grad Bioinformatics Seminar
+INFO,597,Individual Study
+INFO,599,Thesis Research
+IS,100,Exploring the iSchool with a Human-Centered Lens
+IS,101,Introduction to Information Sciences
+IS,107,Data Science Discovery
+IS,142,Social History of Games and Gaming
+IS,189,Independent Study
+IS,199,Undergraduate Open Seminar
+IS,202,Social Aspects Info Tech
+IS,203,Analytical Foundations for Information Problems
+IS,204,Research Design for Information Sciences
+IS,205,Programming for Information Problems
+IS,206,Introduction to Database Concepts & Applications
+IS,226,Introduction to HCI
+IS,249,BSIS Practicum
+IS,266,Community Innovation
+IS,269,BSIS Internship
+IS,299,Information Science Study Abroad
+IS,304,Advanced Research Design
+IS,305,Programming for Information Problems II
+IS,308,"Race, Gender, and Information Technology"
+IS,309,Computers and Culture
+IS,310,Computing in the Humanities
+IS,312,Reading and Writing Data
+IS,316,The Design of Usable Information Interfaces
+IS,327,Concepts of Machine Learning
+IS,340,Project Management
+IS,357,Introduction to Data Storytelling
+IS,364,Privacy and Information Technology
+IS,380,Consulting for Information Professionals
+IS,389,Independent Study
+IS,401,Introduction to Network Information Systems
+IS,403,Children's Materials
+IS,407,Introduction to Data Science
+IS,410,Storytelling
+IS,413,Teen Materials
+IS,418,Community Engagement
+IS,419,Entrepreneurial Information Technology Design
+IS,423,Early Literacy
+IS,429,Web Content Strategy and Management
+IS,430,Foundations of Information Processing
+IS,439,Web Development Using Application Framework
+IS,445,Data Visualization
+IS,451,Bibliography of Africa
+IS,453,Information Books and Resources for Youth
+IS,455,Database Design and Prototyping
+IS,457,Data Storytelling
+IS,461,"Russian, East European, and Eurasian Bibliography & Research Methods"
+IS,464,Information Assurance
+IS,467,Ethics and Policy for Data Science
+IS,471,Instructional Strategies and Techniques for Information Professionals
+IS,477,"Data Management, Curation & Reproducibility"
+IS,490,Topics in Info Foundations
+IS,491,Topics in Information Services
+IS,494,"Topics in Management, Ethics & Policy"
+IS,496,Topics in Human-Centered Design & Systems
+IS,497,Topics in Data Analytics & Data Science
+IS,501,Reference and Information Services
+IS,504,Sociotechnical Information Systems
+IS,505,Information Organization and Access
+IS,507,"Data, Statistical Models and Information"
+IS,510,"Libraries, Information and Society"
+IS,511,Scholarly Communications
+IS,514,Applied Business Research
+IS,515,Information Modeling
+IS,517,Methods of Data Science
+IS,519,Research Design in Information Science
+IS,525,Data Warehousing and Business Intelligence
+IS,527,Network Analysis
+IS,529,Doctoral ProSeminar
+IS,530,Collection Development
+IS,532,School Library Management
+IS,534,Information Consulting
+IS,537,Theory & Practice of Data Cleaning
+IS,541,Copyright for Information Professions
+IS,542,Research and Inquiry for Youth
+IS,544,Administration & Management of Libraries and Information Centers
+IS,549,Practicum
+IS,551,Youth Services Librarianship
+IS,556,Internet of Things
+IS,557,Applied Machine Learning: Team Projects
+IS,559,CAS Project
+IS,560,Social Science Research in Library and Information Science
+IS,562,Administration and Use of Archival Materials
+IS,563,"Advanced Topics in Literature, Media and Materials"
+IS,565,Cataloging for School Libraries
+IS,569,Internship
+IS,571,Advanced Topics in Use and Users of Information
+IS,573,Advanced Topics in Collections
+IS,575,Metadata in Theory & Practice
+IS,577,Data Mining
+IS,580,Information History
+IS,581,Advanced Topics in Youth Services
+IS,582,Advanced Topics in Librarianship
+IS,583,Advanced Topics in Book History
+IS,585,Bibliographic Metadata
+IS,586,Usability Engineering
+IS,589,Independent Study
+IS,591,Advanced Topics in Information Services
+IS,592,Advanced Topics In Information Organizations
+IS,593,Advanced Topics in Preservation & Tech Services
+IS,594,Advanced Topics in Management and Policy
+IS,595,Advanced Topics in Organization & Representation
+IS,597,Advanced Topics in Data Analytics & Data Science
+IS,599,Thesis Research
+ITAL,101,Elementary Italian I
+ITAL,102,Elementary Italian II
+ITAL,103,Intermediate Italian I
+ITAL,104,Intermediate Italian II
+ITAL,199,Undergraduate Open Seminar
+ITAL,310,Advanced Grammar
+ITAL,390,Spec Topics Italian Studies
+ITAL,406,Italian Culture and Globalization
+ITAL,413,Dante
+ITAL,418,Language & Minorities in Europe
+ITAL,460,Principles of Language Testing
+ITAL,489,Theoretical Foundations of SLA
+ITAL,491,Honors Senior Thesis
+ITAL,559,Sem Romance Ling
+ITAL,588,Sem Second Lang Learn
+ITAL,595,Spec Topics in Italian
+ITAL,599,Thesis Research
+JAPN,202,Elementary Japanese II
+JAPN,204,Intermediate Japanese II
+JAPN,306,Advanced Japanese II
+JAPN,410,Advanced Readings in Japanese
+JAPN,441,Fourth Year Japanese II
+JOUR,200,Introduction to Journalism
+JOUR,205,History of American Journalism
+JOUR,210,Newsgathering Across Platforms
+JOUR,215,Multimedia Reporting
+JOUR,217,Content Producing for UI7
+JOUR,220,News Editing
+JOUR,250,Journalism Ethics & Diversity
+JOUR,280,Specialized Skills and Practices
+JOUR,311,Media Law
+JOUR,317,On-Camera Performance for UI7
+JOUR,335,Audio Journalism
+JOUR,340,Video Reporting & Storytelling
+JOUR,360,Working with the Press
+JOUR,400,Newsroom Experience
+JOUR,417,Producing for UI7 Programming
+JOUR,425,Multimedia Editing and Design
+JOUR,430,Augmented and Virtual Reality
+JOUR,440,Advanced Documentary Storytelling & Production
+JOUR,445,Video Storytelling 2-Producing
+JOUR,451,Research Methods in Journalism
+JOUR,452,Great Books of Journalism
+JOUR,453,Crisis Communications
+JOUR,454,Propaganda & the News Media
+JOUR,460,Special Topics
+JOUR,472,Business Reporting
+JOUR,480,Advanced Reporting Topics
+JOUR,482,Immersion Journalism
+JOUR,483,Investigative Journalism
+JOUR,490,Professional Project
+JOUR,495,Internship Seminar
+JOUR,500,Current Issues in Journalism
+JOUR,515,Master's Project
+JOUR,590,Advanced Topics in Journalism
+JS,212,Israeli Cinema and Television
+JS,231,Development of Ancient Cities
+JS,261,The Holocaust in Context
+JS,495,Independent Study
+KIN,100,Development Activities
+KIN,101,Dance Activities
+KIN,102,Individual and Dual Activities
+KIN,103,Indoor Court Activities
+KIN,104,Skating Activities
+KIN,107,Aquatic Sport Activities
+KIN,108,Stress Management
+KIN,109,Team Sport Activities
+KIN,111,Prescribed Exercise
+KIN,122,Physical Activity and Health
+KIN,125,Orientation KIN & Comm Health
+KIN,140,Social Sci of Human Movement
+KIN,142,Contemporary Issues in Sport
+KIN,150,Bioscience of Human Movement
+KIN,199,Undergraduate Open Seminar
+KIN,201,Physical Activity Research Methods
+KIN,210,Applied Medical Terminology for the Health Professional
+KIN,230,"Diversity in Recreation, Sport, and Tourism"
+KIN,247,Intro to Sport Psychology
+KIN,249,Sport & Modern Society
+KIN,259,Motor Development and Control
+KIN,261,Teaching Activities II
+KIN,262,"Motor Develop, Growth & Form"
+KIN,268,Children's Movement
+KIN,340,Social & Psychological Aspects of Physical Activity
+KIN,342,Health Behaviors and Cognition
+KIN,352,Bioenergetics of Movement
+KIN,355,Biomechanics of Human Movement
+KIN,362,Curriculum in Grades 7-12
+KIN,363,Instructional Strategies in PE
+KIN,369,Coaching Strategies
+KIN,375,Comm Partners & Health
+KIN,385,Exper in Kinesiology Research
+KIN,386,Exercise Instruction & Elderly
+KIN,387,Exper in the Agency Setting
+KIN,391,Special Project-Problems
+KIN,393,Honors Thesis
+KIN,420,Physiological Basis of Strength & Conditioning
+KIN,442,"Body, Culture & Society"
+KIN,443,Psychophysiology in Ex & Sport
+KIN,444,Physical Activity and Chronic Diseases
+KIN,448,Exercise & Health Psychology
+KIN,449,Rehabilitation Biomechanics
+KIN,460,Technology & Pedagogical KINES
+KIN,470,Exercise Endocrinology
+KIN,485,Clin Exper in Sports Medicine
+KIN,494,Special Topics
+KIN,501,Kinesiology Research Methods
+KIN,551,Sci Basis of Phys Performance
+KIN,564,Qualitative Research Methods
+KIN,590,Independent Study
+KIN,591,Seminar
+KIN,594,Special Topics
+KIN,599,Thesis Research
+KOR,202,Elementary Korean II
+KOR,204,Intermediate Korean II
+KOR,222,Korean Reading and Writing II
+KOR,242,Korean Reading and Writing IV
+KOR,306,Advanced Korean II
+KOR,441,Fourth Year Korean II
+LA,199,First-Year Seminar
+LA,221,History of the Prison
+LA,222,Islamic Gardens & Architecture
+LA,234,Site Design Studio
+LA,242,Nature and American Culture
+LA,250,Environmental Site Analysis
+LA,281,Design Communications II
+LA,301,Senior Honors
+LA,314,History of World Landscapes
+LA,336,Design Workshop Studio I
+LA,343,Landscape Construction
+LA,345,Professional Internship
+LA,387,Undergraduate Seminar
+LA,390,Independent Study I
+LA,430,Children and Nature
+LA,434,Graduate Site Design Studio
+LA,438,Design Workshop Studio II
+LA,446,Sustainable Planning Seminar
+LA,466,Energy & the Built Environment
+LA,472,Museum Theory and Practice
+LA,480,Sustainable Design Principles
+LA,513,History of World Landscapes
+LA,534,Design Workshop G-I
+LA,538,Urban Design Research Studio
+LA,539,Design Workshop G-II
+LA,562,Social Construction of Space
+LA,587,Graduate Seminar
+LA,590,Directed Research
+LA,597,Research Design & Methods
+LA,598,Master's Project
+LA,599,Thesis Research
+LAS,102,Transfer Advantage
+LAS,199,Undergraduate Open Seminar
+LAS,291,Global Perspectives for Intercultural Learning
+LAS,292,Global Perspectives in Cross-Cultural Contexts
+LAS,299,LAS Study Abroad
+LAS,399,Leadership & Professional Development
+LAS,494,Senior Project
+LAST,170,Introduction to Latin America
+LAST,210,Life in the Andes
+LAST,395,Special Topics
+LAST,490,Individual Study
+LAST,550,Interdisc Seminar Latin Am St
+LAST,597,M.A. Research
+LAT,101,Elementary Latin I
+LAT,102,Elementary Latin II
+LAT,199,Undergraduate Open Seminar
+LAT,201,Intermediate Latin
+LAT,202,Intro to Latin Literature
+LAT,411,Intermediate Prose Composition
+LAT,492,Senior Thesis
+LAT,493,Independent Reading
+LAT,511,Advanced Prose Composition
+LAT,520,Proseminar
+LAT,599,Thesis Research
+LAW,199,Undergraduate Open Seminar
+LAW,302,Transitional Justice
+LAW,303,Living the Law
+LAW,305,Art and Cultural Property Law
+LAW,499,LAW Study Abroad
+LAW,500,LLM Legal Writing and Research
+LAW,501,Professional Responsibility
+LAW,599,Thesis Research
+LAW,600,Pro Bono Service
+LAW,601,Contracts
+LAW,602,Property
+LAW,604,Criminal Law
+LAW,606,Constitutional Law I
+LAW,607,Civil Procedure
+LAW,610,Introduction to Advocacy
+LAW,615,Administrative Law
+LAW,616,Environmental Law and Pol I
+LAW,624,Real Estate Finance
+LAW,625,State and Local Government
+LAW,631,Secured Transactions
+LAW,633,Business Associations I
+LAW,634,Securities Regulation
+LAW,638,White Collar Crime
+LAW,642,Antitrust Law
+LAW,643,Trademark & Unfair Competition
+LAW,645,Patent Law
+LAW,648,Corporate Taxation
+LAW,653,International Business Trans
+LAW,657,International Human Rights Law
+LAW,664,Employment Discrimination
+LAW,670,Elder Law
+LAW,678,Anthropology and Law
+LAW,679,Criminal Proc: Adjudication
+LAW,680,Professional Responsibility
+LAW,682,Evidence
+LAW,685,Dispute Resolution
+LAW,686,Remedies
+LAW,687,Jurisprudence
+LAW,692,Field Placements
+LAW,693,Clinical Training
+LAW,694,Trial Advocacy
+LAW,696,Legal Problems
+LAW,697,Moot Court
+LAW,699,Independent Study
+LAW,701,Leadership Project
+LAW,792,Current Legal Problems
+LAW,793,Advanced Litigation Topics
+LAW,794,Adv Topics in Business Law
+LAW,795,Adv Topics in Criminal Law
+LAW,796,Comparative Law Topics
+LAW,797,Intellectual Property Topics
+LAW,798,Seminars
+LCTL,101,Elementary Course in a Less Commonly Taught Language I
+LCTL,102,Elementary Course in a Less Commonly Taught Language II
+LEAD,140,Harnessing Your Interpersonal Intelligence
+LEAD,260,Foundations of Leadership
+LEAD,321,Training and Development
+LEAD,339,Social Justice Leadership
+LEAD,380,Leadership in Groups and Teams
+LEAD,460,Critical Approaches to Leadership Practice
+LEAD,470,Leading Professional Organizations and Communities
+LER,100,Introduction to Labor Studies
+LER,110,Labor and Social Movements
+LER,120,Contemporary Labor Problems
+LER,130,Intro Labr Wrkng Class History
+LER,199,Undergraduate Open Seminar
+LER,200,Globalization and Workers
+LER,300,"Workers, Unions, and Politics"
+LER,440,Economics of Labor Markets
+LER,521,"Employment Law for HR Managers: Separations, Worker’s Compensation, and Safety"
+LER,523,Org Fundamentals for HR
+LER,530,Found of Ind Org Psych
+LER,532,Successful Change Management for HR Professionals
+LER,535,Negotiation Principles in HR Context
+LER,543,Workplace Dispute Resolution
+LER,544,Workforce Policies and Partnerships
+LER,550,Game Theory and HR Strategy
+LER,556,Industrial Relations Theory
+LER,558,Faculty-Student Workshop
+LER,561,Compensation Systems
+LER,562,HR Planning and Staffing
+LER,565,HR Management and Strategy
+LER,567,Negotiation in HR Decisions
+LER,568,Firm Performance and HR
+LER,569,Power & Influence in HRM
+LER,580,Internship
+LER,590,Individual Topics
+LER,591,Employment Relations Systems
+LER,593,Quantitative Methods in LER
+LER,595,Managing Diversity Globally
+LER,597,Employee Motivation & Perfmnce
+LER,598,Impl High Perf Work Systems
+LER,599,Thesis Seminar
+LING,100,Intro to Language Science
+LING,115,Language and Culture in India
+LING,191,Freshman Honors Tutorial
+LING,199,Undergraduate Open Seminar
+LING,210,Language History
+LING,221,American Sign Language II
+LING,222,Language in Globalization
+LING,225,"Language, Mind, and Brain"
+LING,250,American Voices: Linguistic Diversity in the US
+LING,270,"Language, Technology & Society"
+LING,290,Individual Study
+LING,291,Linguistics Laboratory Research Experience
+LING,301,Elements of Syntax
+LING,302,Elements of Phonology
+LING,303,General Speech Science
+LING,304,Elements of Morphology
+LING,307,Elmnts Semantics & Pragmatics
+LING,321,American Sign Language III
+LING,391,Honors Individual Study
+LING,400,Intro to Linguistic Structure
+LING,404,Tutorials in Non-Western Lang
+LING,406,Introduction to Computational Linguistics
+LING,412,Lang in African Culture & Soc
+LING,413,Corpus Linguistics
+LING,418,Language & Minorities in Europe
+LING,426,Child & Adult Lang Acquisition
+LING,427,Language and the Brain
+LING,430,Intro to East Asian Ling
+LING,446,Fundamentals for Speech Signal Processing and Analysis
+LING,489,Theoretical Foundations of SLA
+LING,490,Special Topics in Linguistics
+LING,502,Phonology I
+LING,506,Topics in Computational Ling
+LING,514,Design and Methodology in Linguistic Research
+LING,551,Pragmatics
+LING,559,Sem Romance Ling
+LING,588,Sem Second Lang Learn
+LING,590,Special Topics in Linguistics
+LING,599,Thesis Research
+LLS,100,Intro Latina/Latino Studies
+LLS,200,U.S. Race and Empire
+LLS,201,US Racial & Ethnic Politics
+LLS,215,US Citizenship Comparatively
+LLS,220,Latina/o Migration
+LLS,230,Latina/o Genders & Sexualities
+LLS,238,Latina/o Social Movements
+LLS,240,Latina/o Popular Culture
+LLS,248,"Latin American Diaspora through Film: Beyond Braceros, Narcos, and Latin Lovers"
+LLS,250,Latina/os on the Bronze Screen
+LLS,278,Mapping Latina/o Inequalities
+LLS,279,Mexican-American History
+LLS,282,Feminist and Queer Activisms
+LLS,296,Topics Latina/o Studies
+LLS,308,Spanish in the United States
+LLS,310,Race and Cultural Diversity
+LLS,316,Latina/Latino Politics
+LLS,322,US Latina and Latino Families
+LLS,355,Race and Mixed Race
+LLS,357,Literatures of the Displaced
+LLS,360,Contemporary US Latina/o Lit
+LLS,365,"Chicana/Latina Autobiography, Memoir, Testimonio"
+LLS,387,"Race, Gender and the Body"
+LLS,390,Independent Study
+LLS,392,Chicanas&Latinas: Self&Society
+LLS,465,"Race, Sex, and Deviance"
+LLS,479,"Race, Medicine, and Society"
+LLS,490,Research and Writing Seminar
+LLS,495,Senior Honors Thesis
+LLS,590,Independent Study
+LLS,596,Graduate Seminar in LLS
+MACS,100,Intro to Popular TV & Movies
+MACS,101,Introduction to the Media
+MACS,104,Introduction to Film
+MACS,199,Undergraduate Open Seminar
+MACS,202,Social Aspects Info Tech
+MACS,203,Contemporary Movies
+MACS,207,Indian Cinema in Context
+MACS,224,Sportsmedia Technology & Culture
+MACS,250,Latina/os on the Bronze Screen
+MACS,260,Film Production
+MACS,262,Survey of World Cinema II
+MACS,264,Creative and Information Economies
+MACS,266,Community Innovation
+MACS,273,"American Cinema, 1950-2000"
+MACS,275,Am Indian and Indigenous Film
+MACS,282,A World of Death and Blood: The Horror Movie
+MACS,295,Intro Media/Cinema Topics
+MACS,300,Topics in Film and History
+MACS,320,Popular Culture
+MACS,335,"Film, TV, and Gender"
+MACS,351,Social Aspects of Media
+MACS,356,Sex & Gender in Popular Media
+MACS,361,Film Theory and Criticism
+MACS,366,Film Festivals
+MACS,372,Screenwriting
+MACS,373,Special Topics in Film Studies
+MACS,391,Individual Study
+MACS,395,Special Media/Cinema Topics
+MACS,480,Advanced Filmmaking
+MACS,481,Advanced Filmmaking Studio
+MACS,494,German Cinema II
+MACS,495,Internship Seminar
+MACS,496,Advanced Media/Cinema Topics
+MACS,504,Theories of Cinema
+MATH,103,Theory of Arithmetic
+MATH,112,Algebra
+MATH,115,Preparation for Calculus
+MATH,119,Ideas in Geometry
+MATH,124,Finite Mathematics
+MATH,181,A Mathematical World
+MATH,199,Undergraduate Open Seminar
+MATH,213,Basic Discrete Mathematics
+MATH,220,Calculus
+MATH,225,Introductory Matrix Theory
+MATH,227,Linear Algebra for Data Science
+MATH,231,Calculus II
+MATH,234,Calculus for Business I
+MATH,241,Calculus III
+MATH,257,Linear Algebra with Computational Applications
+MATH,285,Intro Differential Equations
+MATH,347,Fundamental Mathematics
+MATH,357,Numerical Methods I
+MATH,362,Probability with Engrg Applic
+MATH,390,Individual Study
+MATH,399,Math/Actuarial Internship
+MATH,402,Non Euclidean Geometry
+MATH,403,Euclidean Geometry
+MATH,412,Graph Theory
+MATH,413,Intro to Combinatorics
+MATH,414,Mathematical Logic
+MATH,415,Applied Linear Algebra
+MATH,416,Abstract Linear Algebra
+MATH,417,Intro to Abstract Algebra
+MATH,418,Intro to Abstract Algebra II
+MATH,432,Set Theory and Topology
+MATH,439,Philosophy of Mathematics
+MATH,441,Differential Equations
+MATH,442,Intro Partial Diff Equations
+MATH,444,Elementary Real Analysis
+MATH,446,Applied Complex Variables
+MATH,447,Real Variables
+MATH,448,Complex Variables
+MATH,450,Numerical Analysis
+MATH,453,Number Theory
+MATH,461,Probability Theory
+MATH,463,Statistics and Probability I
+MATH,464,Statistics and Probability II
+MATH,466,Applied Random Processes
+MATH,473,Algorithms
+MATH,475,Formal Models of Computation
+MATH,481,Vector and Tensor Analysis
+MATH,482,Linear Programming
+MATH,484,Nonlinear Programming
+MATH,490,Advanced Topics in Mathematics
+MATH,492,Undergraduate Research in Math
+MATH,496,Honors Seminar
+MATH,499,Introduction Graduate Research
+MATH,500,Abstract Algebra I
+MATH,501,Abstract Algebra II
+MATH,511,Intro to Algebraic Geometry
+MATH,519,Differentiable Manifolds II
+MATH,522,Lie Groups and Lie Algebras I
+MATH,525,Algebraic Topology I
+MATH,527,Homotopy Theory
+MATH,530,Algebraic Number Theory
+MATH,540,Real Analysis
+MATH,541,Functional Analysis
+MATH,545,Harmonic Analysis
+MATH,552,Numerical Methods for PDEs
+MATH,553,Partial Differential Equations
+MATH,561,Theory of Probability I
+MATH,563,Risk Modeling and Analysis
+MATH,564,Applied Stochastic Processes
+MATH,583,Partial Orders and Comb Optim
+MATH,586,Algebraic Combinatorics
+MATH,593,Mathematical Internship
+MATH,595,Advanced Topics in Mathematics
+MATH,597,Reading Course
+MATH,599,Thesis Research
+MBA,530,Internship
+MBA,531,Special Projects
+MBA,545,Marketing in Our New Digital World
+MBA,548,Global Strategy
+MBA,551,Strategic Innovation
+MBA,564,Data Analytics Applications in Business
+MBA,590,Specialization Capstone
+MBA,591,Program Capstone
+MCB,100,Introductory Microbiology
+MCB,101,Intro Microbiology Laboratory
+MCB,150,Molec & Cellular Basis of Life
+MCB,151,Molec & Cellular Laboratory
+MCB,198,Internship
+MCB,199,Undergraduate Open Seminar
+MCB,246,Human Anatomy & Physiology II
+MCB,247,Human Anat & Physiol Lab II
+MCB,250,Molecular Genetics
+MCB,251,Exp Techniqs in Molecular Biol
+MCB,252,"Cells, Tissues & Development"
+MCB,253,Exp Techniqs in Cellular Biol
+MCB,290,Undergraduate Research
+MCB,292,Experiential Learning in MCB
+MCB,297,MCB Honors Discussion
+MCB,298,MCB Honors Lab Discussion
+MCB,299,MCB Merit Program Discussion
+MCB,300,Microbiology
+MCB,301,Experimental Microbiology
+MCB,317,Genetics and Genomics
+MCB,354,Biochem & Phys Basis of Life
+MCB,364,Eukaryotic Cell Biology Laboratory
+MCB,402,Sys & Integrative Physiology
+MCB,406,Gene Expression & Regulation
+MCB,410,"Developmental Biology, Stem Cells and Regenerative Medicine"
+MCB,424,Microbial Biochemistry
+MCB,426,Bacterial Pathogenesis
+MCB,430,Molecular Microbiology
+MCB,434,Food & Industrial Microbiology
+MCB,435,Evolution of Infectious Disease
+MCB,442,Comparative Immunobiology
+MCB,446,Physical Biochemistry
+MCB,450,Introductory Biochemistry
+MCB,460,Neuroanatomy Laboratory
+MCB,462,Integrative Neuroscience
+MCB,466,Neuro & Molecular Pharmacology
+MCB,480,Eukaryotic Cell Signaling
+MCB,492,Senior Thesis
+MCB,493,Special Topics Mol Cell Biol
+MCB,529,Special Topics in Cell and Developmental Biology
+MCB,530,Reproductive Physiol Seminar
+MCB,534,Advanced Microbial Metabolism
+MCB,543,Interdisciplinary Approaches to Neuroscience II
+MCB,545,Functional Genomics in Principle and Practice
+MCB,571,Bioinformatics
+MCB,581,Laboratory Rotation I
+MCB,582,Laboratory Rotation II
+MCB,583,Laboratory Rotation III
+MCB,585,Current Topics in Microbiology
+MDIA,223,Watching the Environment
+MDIA,299,Media Study Abroad
+MDIA,572,Proseminar II
+MDIA,590,Special Topics
+MDIA,599,Thesis Research
+MDVL,201,Medieval Literature and Culture
+MDVL,247,Medieval Europe
+MDVL,252,Viking Sagas in Translation
+MDVL,411,Chaucer
+MDVL,500,Seminar in Medieval Studies
+MDVL,514,Seminar in Medieval Literature
+MDVL,542,Problems in Medieval History
+ME,170,Computer-Aided Design
+ME,199,Undergraduate Open Seminar
+ME,200,Thermodynamics
+ME,270,Design for Manufacturability
+ME,297,Introductory Independent Study
+ME,310,Fundamentals of Fluid Dynamics
+ME,320,Heat Transfer
+ME,330,Engineering Materials
+ME,340,Dynamics of Mechanical Systems
+ME,360,Signal Processing
+ME,370,Mechanical Design I
+ME,371,Mechanical Design II
+ME,400,Energy Conversion Systems
+ME,403,Internal Combustion Engines
+ME,404,Intermediate Thermodynamics
+ME,410,Intermediate Gas Dynamics
+ME,412,Numerical Thermo-Fluid Mechs
+ME,445,Introduction to Robotics
+ME,446,Robot Dynamics and Control
+ME,452,Num Control of Mfg Processes
+ME,460,Industrial Control Systems
+ME,470,Senior Design Project
+ME,471,Finite Element Analysis
+ME,472,Introduction to Tribology
+ME,481,Whole-Body Musculoskel Biomech
+ME,483,Mechanobiology
+ME,487,MEMS-NEMS Theory & Fabrication
+ME,496,Honors Project
+ME,497,Independent Study
+ME,498,Special Topics
+ME,501,Combustion Fundamentals
+ME,502,Thermal Systems
+ME,540,Control System Theory & Design
+ME,546,Analysis of Nonlinear Systems
+ME,561,Convex Methods in Control
+ME,590,Seminar
+ME,597,Independent Study
+ME,598,Special Topics
+ME,599,Thesis Research
+MICR,590,Individual Topics
+MICR,595,Microbiology Graduate Seminar
+MICR,599,Thesis Research
+MILS,102,Introduction to the Profession of Arms
+MILS,114,Leadership Laboratory
+MILS,202,Leadership and Teamwork
+MILS,214,Leadership Laboratory
+MILS,302,Leadership and Ethics
+MILS,314,Leadership Laboratory
+MILS,324,Leadership Laboratory
+MILS,325,Independent Study
+MILS,342,Officership
+MIP,590,Individual Topics
+MIP,595,Seminars in Physiology
+MIP,599,Thesis Research
+MSE,183,Introductory Materials Science and Engineering Laboratory
+MSE,199,Undergraduate Open Seminar
+MSE,206,Mechanics for MatSE
+MSE,280,Engineering Materials
+MSE,304,Electronic Properties of Matls
+MSE,308,Materials Laboratory II
+MSE,395,Materials Design
+MSE,396,Introduction to Research
+MSE,397,Independent Study
+MSE,402,Kinetic Processes in Materials
+MSE,404,Laboratory Studies in Materials Science and Engineering
+MSE,405,Microstructure Determination
+MSE,420,Ceramic Materials & Properties
+MSE,422,Electrical Ceramics
+MSE,441,Metals Processing
+MSE,450,Polymer Science & Engineering
+MSE,455,Macromolecular Solids
+MSE,456,Mechanics of Composites
+MSE,458,Polymer Physics
+MSE,460,Electronic Materials I
+MSE,466,Materials in Electrochem Syst
+MSE,473,Biomolecular Materials Science
+MSE,474,Biomaterials and Nanomedicine
+MSE,487,Materials for Nanotechnology
+MSE,492,Lab Safety Fundamentals
+MSE,497,Independent Study
+MSE,498,Special Topics
+MSE,499,Senior Thesis
+MSE,529,Hard Materials Seminar
+MSE,559,Soft Materials Seminar
+MSE,581,Advanced Electron Microscopy
+MSE,583,Dynamics of Complex Fluids
+MSE,590,Research Seminars
+MSE,595,Materials Colloquium
+MSE,597,Independent Study
+MSE,598,Special Topics
+MSE,599,Thesis Research
+MUS,090,Seminar in Music Education
+MUS,102,Music Theory and Practice II
+MUS,105,Computation and Music I
+MUS,106,Beginning Composition
+MUS,108,Musicianship II
+MUS,110,Introd Art Mus: Intl Perspect
+MUS,120,English Diction
+MUS,122,German Diction
+MUS,125,English Diction and Dialects
+MUS,132,Popular Music Studies
+MUS,133,Introduction to World Music
+MUS,140,String Instrument Class
+MUS,144,Supp WW Inst: Clarinet
+MUS,146,Supp WW Inst: Flute
+MUS,147,Supp WW Inst: Oboe
+MUS,148,Supp WW Inst: Saxophone
+MUS,149,Supp WW Inst: Bassoon
+MUS,151,Supp Brass Inst: Trumpet
+MUS,153,Supp Brass Inst: Horn
+MUS,154,Supp Brass Inst: Trombone
+MUS,155,Supp Brass Inst: Euph/Tuba
+MUS,158,Supp Percussion Instruments
+MUS,164,Jazz Keyboard Studies II
+MUS,169,Unit One Sem Instruct in Music
+MUS,172,Grp Instr Pno for Mus Major I
+MUS,173,Grp Instr Pno for Mus Maj II
+MUS,174,Grp Instr Pno for Mus Maj III
+MUS,175,Grp Instr Pno for Mus Maj IV
+MUS,199,Undergraduate Open Seminar
+MUS,202,Music Theory and Practice IV
+MUS,206,Intermediate Composition
+MUS,208,Musicianship IV
+MUS,209,"Music, Sound, Technology"
+MUS,222,Singing in Musical Theatre
+MUS,240,Orientation Mus Tchg Lrng K-HS
+MUS,242,Elements of Conducting
+MUS,299,Thesis/Adv UG Honors in Music
+MUS,305,Computation and Music III
+MUS,314,The History of Music II
+MUS,331,Advanced Choral Conducting II
+MUS,332,Advanced Wind Band Conducting and Rehearsal Strategies
+MUS,336,Service Learning in Music Education
+MUS,342,Music in Childhood
+MUS,344,Instrumental Methods for Secondary Ensembles
+MUS,346,Choral Methods for Secondary Ensembles
+MUS,361,Jazz Improv:Theory and Prac II
+MUS,363,Jazz Arranging II
+MUS,365,Jazz Composition II
+MUS,369,Jazz Improvisation Styles II
+MUS,406,Advanced Composition
+MUS,408,Analysis of Musical Form
+MUS,413,Music and Performance
+MUS,414,Music and Society
+MUS,418,Regional Studies in Musicology
+MUS,419,Sr Seminar in Musicology
+MUS,421,The Music of America
+MUS,422,Musical Theatre Repertoire
+MUS,430,Applied Music Pedagogy
+MUS,432,Piano Pedagogy II
+MUS,434,Assessment and Evaluation in Music Education
+MUS,436,Jazz Aural Skills II
+MUS,437,Popular Music Pedagogy
+MUS,440,Marching Band Procedures
+MUS,442,Band Arranging
+MUS,444,Healthy Music Practices
+MUS,451,Basso Continuo
+MUS,452,Special Topics in Harpsichord
+MUS,455,Advanced Keyboard Skills II
+MUS,459,Professional Internship
+MUS,465,Jazz History II
+MUS,469,Lyric Theatre Production
+MUS,472,Senior Project Showcase
+MUS,475,Vocal Repertoire II
+MUS,499,Proseminar in Music
+MUS,500,Artist Diploma Recital
+MUS,505,Individ Topics in Music Theory
+MUS,506,Graduate Level Composition
+MUS,507,Sem in Music Comp and Theory
+MUS,508,Grad. Jazz Improv. II
+MUS,509,"Graduate Seminar in Band Conducting, History, and Literature"
+MUS,512,Fdns/Methods of Musicology II
+MUS,514,Musicology and Pedagogy
+MUS,517,Topics in Instrumental Music
+MUS,518,Regional Studies in Musicology
+MUS,523,Seminar in Musicology
+MUS,525,Rdgs in Musicol and Mus Theory
+MUS,526,Baroque Performance Practice
+MUS,528,Res & Bibliography in Music
+MUS,535,Philosophic Inquiry in Mus Ed
+MUS,540,Graduate Wind Band Conducting
+MUS,544,Doctoral Seminar in Music Education
+MUS,547,Orchestral Literature II
+MUS,549,Advanced Jazz Harmony II
+MUS,553,Graduate Orchestral Conducting
+MUS,555,Advanced Choral Conducting
+MUS,556,Choral Studies
+MUS,557,Piano Literature
+MUS,558,Vocal Literature
+MUS,560,String Instrument Literature
+MUS,561,Wind Instrument Literature
+MUS,562,Percussion Instruments Lit
+MUS,563,Topics in Choral Repertoire
+MUS,564,Choral Conducting Project
+MUS,565,Doctoral Choral Conducting
+MUS,572,Doctoral Orchestral Conducting
+MUS,573,Doctoral Wind Band Conducting
+MUS,575,Jazz Arranging IV
+MUS,576,Doctoral Projects
+MUS,599,Thesis Research
+MUSC,101,Piano
+MUSC,102,Harpsichord
+MUSC,103,Organ
+MUSC,105,Voice
+MUSC,110,Violin
+MUSC,111,Viola
+MUSC,112,Cello
+MUSC,113,Double Bass
+MUSC,114,Harp
+MUSC,115,Guitar
+MUSC,116,Electric Violin
+MUSC,117,Electric Viola
+MUSC,120,Flute
+MUSC,121,Oboe
+MUSC,122,Bassoon
+MUSC,123,Clarinet
+MUSC,124,Saxophone
+MUSC,125,Trumpet
+MUSC,126,Horn
+MUSC,127,Trombone
+MUSC,128,Euphonium
+MUSC,129,Tuba
+MUSC,130,Percussion
+MUSC,131,Jazz Voice
+MUSC,132,Jazz Saxophone
+MUSC,133,Jazz Trumpet
+MUSC,134,Jazz Trombone
+MUSC,135,Jazz Piano
+MUSC,136,Jazz Double Bass
+MUSC,137,Jazz Guitar
+MUSC,138,Jazz Percussion
+MUSC,300,Junior Recital
+MUSC,400,Senior Recital
+MUSC,401,Advanced Piano
+MUSC,402,Advanced Harpsichord
+MUSC,403,Advanced Organ
+MUSC,404,Collaborative Piano
+MUSC,405,Advanced Voice
+MUSC,406,Lyric Theatre Voice
+MUSC,407,Vocal Coaching
+MUSC,410,Advanced Violin
+MUSC,411,Advanced Viola
+MUSC,412,Advanced Cello
+MUSC,413,Advanced Double Bass
+MUSC,414,Advanced Harp
+MUSC,415,Advanced Guitar
+MUSC,416,Advanced Electric Violin
+MUSC,417,Advanced Electric Viola
+MUSC,420,Advanced Flute
+MUSC,421,Advanced Oboe
+MUSC,422,Advanced Bassoon
+MUSC,423,Advanced Clarinet
+MUSC,424,Advanced Saxophone
+MUSC,425,Advanced Trumpet
+MUSC,426,Advanced Horn
+MUSC,427,Advanced Trombone
+MUSC,428,Advanced Euphonium
+MUSC,429,Advanced Tuba
+MUSC,430,Advanced Percussion
+MUSC,431,Advanced Jazz Voice
+MUSC,432,Advanced Jazz Saxophone
+MUSC,433,Advanced Jazz Trumpet
+MUSC,434,Advanced Jazz Trombone
+MUSC,435,Advanced Jazz Piano
+MUSC,436,Advanced Jazz Double Bass
+MUSC,437,Advanced Jazz Guitar
+MUSC,438,Advanced Jazz Percussion
+MUSC,448,Concerto Urbano Baroque Orchestra
+MUSC,449,Ethnomusicology Performance Ensembles
+MUSC,450,Chamber Music
+MUSC,452,Guitar Ensemble
+MUSC,453,Saxophone Ensemble
+MUSC,454,Brass Ensemble
+MUSC,455,Percussion Ensemble
+MUSC,456,Steel Band
+MUSC,457,Hip-Hop Collective
+MUSC,458,Electric Strings Ensemble
+MUSC,460,Chamber Singers
+MUSC,462,University Chorus
+MUSC,463,Black Chorus
+MUSC,464,Women's Glee Club
+MUSC,465,Men's Glee Club
+MUSC,466,Oratorio Society
+MUSC,468,LTI Studio
+MUSC,469,LTI Main Stage
+MUSC,470,LTI Opera Scenes
+MUSC,473,Illinois Modern Ensemble
+MUSC,474,Improvisors Exchange Ensemble
+MUSC,475,Symphony Orchestra
+MUSC,476,Philharmonia Orchestra
+MUSC,478,Illini Strings
+MUSC,480,Wind Symphony
+MUSC,481,Wind Orchestra
+MUSC,482,Hindsley Symphonic Band
+MUSC,484,Concert Band
+MUSC,488,Basketball Band
+MUSC,490,Concert Jazz Band
+MUSC,491,Repertory Jazz Orchestra
+MUSC,492,Jazz Ensemble
+MUSC,493,Latin Jazz Ensemble
+MUSC,495,Jazz Trombone Ensemble
+MUSC,496,Jazz Guitar Ensemble
+MUSC,497,Jazz Vocal Ensemble
+MUSC,498,Jazz Combo
+MUSC,501,Graduate Level Piano
+MUSC,502,Graduate Level Harpsichord
+MUSC,503,Graduate Level Organ
+MUSC,504,Graduate Level Collaborative Piano
+MUSC,505,Graduate Level Voice
+MUSC,506,Graduate Level Lyric Theatre Voice
+MUSC,507,Graduate Level Vocal Coaching
+MUSC,510,Graduate Level Violin
+MUSC,511,Graduate Level Viola
+MUSC,512,Graduate Level Cello
+MUSC,513,Graduate Level Double Bass
+MUSC,514,Graduate Level Harp
+MUSC,515,Graduate Level Guitar
+MUSC,516,Graduate Electric Violin
+MUSC,517,Graduate Electric Viola
+MUSC,520,Graduate Level Flute
+MUSC,521,Graduate Level Oboe
+MUSC,522,Graduate Level Bassoon
+MUSC,523,Graduate Level Clarinet
+MUSC,524,Graduate Level Saxophone
+MUSC,525,Graduate Level Trumpet
+MUSC,526,Graduate Level Horn
+MUSC,527,Graduate Level Trombone
+MUSC,528,Graduate Level Euphonium
+MUSC,529,Graduate Level Tuba
+MUSC,530,Graduate Level Percussion
+MUSC,531,Graduate Jazz Voice
+MUSC,532,Graduate Jazz Saxophone
+MUSC,533,Graduate Jazz Trumpet
+MUSC,534,Graduate Jazz Trombone
+MUSC,535,Graduate Jazz Piano
+MUSC,536,Graduate Jazz Double Bass
+MUSC,537,Graduate Jazz Guitar
+MUSC,538,Graduate Jazz Percussion
+MUSE,250,The World Through Museums
+MUSE,390,Museum Internship
+NE,330,Neuroscience for Engineers
+NE,420,Neural Interface Engineering
+NEUR,302,Applied Neuroscience
+NEUR,405,Cognitive Neuroscience
+NEUR,413,Advanced Neuropsychopharmacology
+NEUR,414,"Brain, Learning, and Memory"
+NEUR,432,Genes and Behavior
+NEUR,445,Cognitive Neuroscience Lab
+NEUR,462,Integrative Neuroscience
+NEUR,520,Advanced Topics in Neuroscience
+NEUR,543,Interdisciplinary Approaches to Neuroscience II
+NEUR,590,Indiv Topics Neuroscience
+NEUR,598,Proseminar in Psychology
+NEUR,599,Thesis Research
+NPRE,101,Introduction to Energy Sources
+NPRE,199,Undergraduate Open Seminar
+NPRE,247,Modeling Nuclear Energy System
+NPRE,349,Introduction to NPRE Heat Transfer
+NPRE,397,Independent Study
+NPRE,402,Nuclear Power Engineering
+NPRE,421,Plasma and Fusion Science
+NPRE,429,Plasma Engineering
+NPRE,441,Radiation Protection
+NPRE,442,Radioactive Waste Management
+NPRE,451,NPRE Laboratory
+NPRE,455,Neutron Diffusion & Transport
+NPRE,458,Design in NPRE
+NPRE,470,Fuel Cells & Hydrogen Sources
+NPRE,475,Wind Power Systems
+NPRE,480,Energy and Security
+NPRE,483,Seminar on Security
+NPRE,498,Special Topics
+NPRE,521,Interact of Radiation w/Matter
+NPRE,522,Controlled Fusion Systems
+NPRE,526,Plasma-Material Interactions
+NPRE,554,Independent Lab Investigations
+NPRE,558,Advanced Design in NPRE
+NPRE,561,Advanced Risk Analysis for Technological Systems
+NPRE,595,Student Research Seminar
+NPRE,596,Seminar in Nuclear Sci & Engrg
+NPRE,597,Independent Study
+NPRE,599,Thesis Research
+NRES,100,Fundamentals of Env Sci
+NRES,101,Wildlife Conservation in the 21st Century
+NRES,105,Climate Change Impacts on Ecological Systems
+NRES,108,Env Sc & Nat Resource Careers
+NRES,201,Introductory Soils
+NRES,210,Environmental Economics
+NRES,220,Communicating Agriculture
+NRES,223,Watching the Environment
+NRES,242,Nature and American Culture
+NRES,285,Field Experience
+NRES,287,Environment and Society
+NRES,293,Professional Internship
+NRES,294,Resident Internship
+NRES,295,Undergrad Research or Thesis
+NRES,310,Natural Resource Economics
+NRES,325,Natural Resource Policy Mgmt
+NRES,340,Environ Social Sci Res Meth
+NRES,396,UG Honors Research or Thesis
+NRES,407,Wildlife Population Ecology
+NRES,419,Env and Plant Ecosystems
+NRES,420,Restoration Ecology
+NRES,421,Quantitative Methods in NRES
+NRES,427,Modeling Natural Resources
+NRES,429,Aquatic Ecosystem Conservation
+NRES,446,Sustainable Planning Seminar
+NRES,455,Adv GIS for Nat Res Planning
+NRES,456,Integrative Ecosystem Management
+NRES,460,Aerial Photo Analysis
+NRES,461,Ornithology
+NRES,464,Herpetology
+NRES,474,Soil and Water Conservation
+NRES,475,Environmental Microbiology
+NRES,480,Human-Wildlife Interactions
+NRES,488,Soil Fertility and Fertilizers
+NRES,499,Special Topics
+NRES,500,Graduate Seminar
+NRES,501,Special Problems
+NRES,502,Research Methods in NRES
+NRES,503,Capstone Research Project
+NRES,505,Capstone Internship Experience
+NRES,507,Capstone Group Research Project
+NRES,510,Adv Natural Resource Economics
+NRES,511,Principles of Applied Ecology
+NRES,512,Discussions in NRES
+NRES,516,Ecosystem Biogeochemistry
+NRES,592,Sustainable Urban Systems
+NRES,594,NRES Professional Orientation
+NRES,598,Experimental Graduate Courses
+NRES,599,Thesis Research
+NS,100,Leadership Laboratory
+NS,102,Sea Power and Maritime Affairs
+NS,204,Navigation/Naval Operations I
+NS,306,Naval Weapons Systems
+NS,308,Leadership and Ethics
+NUTR,426,Biochemical Nutrition I
+NUTR,427,Biochemical Nutrition II
+NUTR,500,Nutritional Sciences Seminar
+NUTR,510,Topics in Nutrition Research
+NUTR,511,Regulation of Metabolism
+NUTR,520,Protein and Energy Nutrition
+NUTR,522,Dietary Prevention of Cardiovascular and Other Chronic Diseases
+NUTR,526,Adv Companion Animal Nutrition
+NUTR,590,Disciplinary Seminar
+NUTR,591,Animal Sciences Seminar
+NUTR,593,Individual Topics in Nutrition
+NUTR,599,Thesis Research
+PATH,290,Undergraduate Research
+PATH,410,Comparative Immunobiology
+PATH,494,Pathobiology
+PATH,527,Parasitology/Epidemiology Sem
+PATH,542,Ocular Pathology
+PATH,545,Vet Diagnostic Path 1
+PATH,546,Vet Diagnostic Path 2
+PATH,547,Pathology Seminar
+PATH,551,Interpretive Cytopathology
+PATH,552,Diagnostic Cytology
+PATH,556,Exotic/Wild Animal Diag Path 1
+PATH,557,Exotic/Wild Animal Diag Path 2
+PATH,558,Exotic/Wild Animal Path Sem
+PATH,559,Surgical Pathology
+PATH,575,Vet Info Tech/Computer App
+PATH,576,Communication Vet Consultation
+PATH,578,Veterinary Business Management
+PATH,590,Seminar
+PATH,592,Special Problems
+PATH,596,Interdisciplinary Tox Sem
+PATH,598,Non-Thesis Research
+PATH,599,Thesis Research
+PATH,692,Special Problems
+PERS,202,Elementary Persian II
+PERS,404,Intermediate Persian II
+PHIL,100,Intro to Philosophy-ACP
+PHIL,101,Introduction to Philosophy
+PHIL,102,Logic and Reasoning
+PHIL,103,Logic and Reasoning QR II
+PHIL,104,Intro to Ethics-ACP
+PHIL,105,Introduction to Ethics
+PHIL,106,Ethics and Social Policy
+PHIL,107,Intro to Political Philosophy
+PHIL,109,Religion & Society in West II
+PHIL,110,World Religions
+PHIL,199,Undergraduate Open Seminar
+PHIL,203,Ancient Philosophy
+PHIL,206,Early Modern Philosophy
+PHIL,223,Minds & Machines
+PHIL,231,Religion and Philosophy
+PHIL,270,Philosophy of Science
+PHIL,307,Elmnts Semantics & Pragmatics
+PHIL,316,Ethics and Engineering
+PHIL,390,Individual Study
+PHIL,419,"Space, Time, and Matter-ACP"
+PHIL,420,"Space, Time, and Matter"
+PHIL,422,Recent Developments in Ethics
+PHIL,425,Philosophy of Mind
+PHIL,426,Metaphysics
+PHIL,429,Value Theory
+PHIL,439,Philosophy of Mathematics
+PHIL,454,Advanced Symbolic Logic
+PHIL,492,Thesis
+PHIL,499,Capstone Seminar
+PHIL,501,Seminar on the History of Philosophy
+PHIL,517,Seminar Philosophy of Science
+PHIL,521,Seminar Contemporary Problems
+PHIL,551,Pragmatics
+PHIL,583,Individual Topics
+PHIL,590,Directed Research
+PHYS,101,College Physics: Mech & Heat
+PHYS,102,College Physics: E&M & Modern
+PHYS,199,Undergraduate Open Seminar
+PHYS,211,University Physics: Mechanics
+PHYS,212,University Physics: Elec & Mag
+PHYS,213,Univ Physics: Thermal Physics
+PHYS,214,Univ Physics: Quantum Physics
+PHYS,221,Enrichment Mechanics
+PHYS,225,Relativity & Math Applications
+PHYS,280,Nuclear Weapons & Arms Control
+PHYS,325,Classical Mechanics I
+PHYS,326,Classical Mechanics II
+PHYS,370,Introduction to Quantum Information and Computing
+PHYS,371,Project Design and Execution in a Physics Context
+PHYS,394,Pedagogy and Teaching Physics for Learning Assistants
+PHYS,395,Studies on the Pedagogy and Structure of the Physics Learning Assistant Program
+PHYS,401,Classical Physics Lab
+PHYS,403,Modern Experimental Physics
+PHYS,404,Electronic Circuits
+PHYS,419,"Space, Time, and Matter-ACP"
+PHYS,420,"Space, Time, and Matter"
+PHYS,427,Thermal & Statistical Physics
+PHYS,435,Electromagnetic Fields I
+PHYS,436,Electromagnetic Fields II
+PHYS,446,Modern Computational Physics
+PHYS,460,Condensed Matter Physics
+PHYS,470,Subatomic Physics
+PHYS,486,Quantum Physics I
+PHYS,487,Quantum Physics II
+PHYS,496,Communicating in Physics—Writing Papers and Giving Talks
+PHYS,497,Individual Study
+PHYS,498,Special Topics in Physics
+PHYS,504,Statistical Physics
+PHYS,509,Mathematical Physics II
+PHYS,515,General Relativity I
+PHYS,560,Condensed Matter Physics I
+PHYS,576,Particle Physics II
+PHYS,581,Quantum Mechanics II
+PHYS,583,Advanced Field Theory
+PHYS,595,Communicating Scientific Research
+PHYS,597,Individual Study
+PHYS,598,Special Topics in Physics
+PHYS,599,Thesis Research
+PLPA,200,"Plants, Pathogens, and People"
+PLPA,395,Undergrad Research or Thesis
+PLPA,403,Advanced Plant Pathology
+POL,102,Elementary Polish II
+POL,115,Intro to Polish Culture
+POL,199,Undergraduate Open Seminar
+POL,202,Second Yr Polish II
+PORT,150,Writing Brazilians into the U.S.
+PORT,199,Undergraduate Open Seminar
+PORT,400,Intensive Beginning Portuguese
+PORT,401,Intensive Intermediate Portuguese
+PORT,402,Advanced Grammar
+PORT,404,Studies in Luso-Brazilian Culture
+PORT,460,Principles of Language Testing
+PORT,489,Theoretical Foundations of SLA
+PORT,559,Sem Romance Ling
+PORT,588,Sem Second Lang Learn
+PORT,595,Special Topics Port & Braz Lit
+PORT,599,Thesis Research
+PS,100,Intro to Political Science
+PS,101,Intro to US Gov & Pol
+PS,125,Washington Experience
+PS,199,Undergraduate Open Seminar
+PS,201,US Racial & Ethnic Politics
+PS,220,Intro to Public Policy
+PS,224,Politics of the National Parks
+PS,225,Environmental Politics & Policy
+PS,230,Intro to Pol Research
+PS,241,Comp Politics in Dev Nations
+PS,270,Intro to Political Theory
+PS,273,Environment and Society
+PS,280,Intro to Intl Relations
+PS,300,Special Topics
+PS,301,The US Constitution I
+PS,302,The US Constitution II
+PS,305,The US Supreme Court
+PS,316,Latina/Latino Politics
+PS,320,Public Opinion
+PS,321,Principles of Public Policy
+PS,323,Law and Representation
+PS,344,Government and Politics of Japan
+PS,355,Democratization
+PS,357,Ethnic Conflict
+PS,358,Comparative Political Behavior
+PS,370,Justice in the Law
+PS,376,American Political Theory
+PS,377,Topics Contemp Pol Theory
+PS,381,International Relations of East Asia
+PS,392,Intl Organizations&Regionalism
+PS,398,Strategic Interntl Relations
+PS,411,Campaigning to Win
+PS,413,"Sex, Power and Politics"
+PS,418,Language & Minorities in Europe
+PS,480,Energy and Security
+PS,490,Individual Study
+PS,491,Internship
+PS,494,Junior Honors Seminar
+PS,496,Senior Honors Thesis
+PS,511,Proseminar Pol Behavior I
+PS,514,Founds of Organizational Behav
+PS,522,Research Design and Techniques
+PS,531,Quant Pol Analysis II
+PS,534,Modeling Heterogeneity
+PS,549,Topics in Comparative Politics
+PS,572,History of Pol Theories II
+PS,582,Intl Political Economy
+PS,590,Research in Selected Topics
+PS,596,Evaluating New Research
+PS,597,Preparing Future Faculty
+PS,598,Dissertation Design Seminar
+PS,599,Thesis Research
+PSM,501,PSM Industry Seminar I
+PSM,502,PSM Industry Seminar II
+PSM,503,PSM Industry Seminar III
+PSM,520,Special Topics-Sci & Business
+PSM,555,PSM Internship
+PSYC,100,Intro Psych
+PSYC,144,"Stereotypes, Prejudice & Discrimination"
+PSYC,201,Intro to Social Psych
+PSYC,210,Behavioral Neuroscience
+PSYC,216,Child Psych
+PSYC,224,Cognitive Psych
+PSYC,225,"Language, Mind, and Brain"
+PSYC,230,Perception & Sensory Processes
+PSYC,235,Intro to Statistics
+PSYC,238,Psychopathology and Problems in Living
+PSYC,239,Community Psych
+PSYC,245,Industrial Org Psych
+PSYC,248,Learning and Memory
+PSYC,250,Psych of Personality
+PSYC,290,Research Experience in Psych
+PSYC,296,Introduction to Current Topics in Psychology
+PSYC,301,Psychological Statistics
+PSYC,302,Applied Neuroscience
+PSYC,311,Behavioral Neuroscience Lab
+PSYC,318,Psych of the Infant
+PSYC,320,The Teenage Years
+PSYC,322,Introduction to Intellectual Disability
+PSYC,328,Psychology of Gender
+PSYC,329,Animal Behavior
+PSYC,331,Cognitive Psych Lab
+PSYC,333,Social Psych in Society Lab
+PSYC,336,Topics in Clin/Comm Psych
+PSYC,339,Restorative Justice: Principles and Methods
+PSYC,341,Advanced Community Projects
+PSYC,355,The Attentive Mind
+PSYC,358,Human Factors
+PSYC,363,Developmental Child Psych Lab
+PSYC,379,Clinical/Abnormal Psych Lab
+PSYC,383,Adv Prac in Mental Hlth I
+PSYC,385,Adv Prac in Mental Hlth II
+PSYC,396,Intermediate Current Topics in Psychology
+PSYC,398,Junior Honors Seminar
+PSYC,402,Intro Clin Neuropsych
+PSYC,404,Cognitive Neuroscience
+PSYC,413,Advanced Neuropsychopharmacology
+PSYC,414,"Brain, Learning, and Memory"
+PSYC,420,Theories of Psychotherapy
+PSYC,427,Language and the Brain
+PSYC,432,Genes and Behavior
+PSYC,443,Psychophysiology in Ex & Sport
+PSYC,445,Cognitive Neuroscience Lab
+PSYC,455,Organizational Psych
+PSYC,465,Personality and Soc Dev
+PSYC,468,Psych and Law
+PSYC,489,Neural Network Modeling Lab
+PSYC,492,Capstone Undergrad Research
+PSYC,494,Advanced Research in Psych
+PSYC,496,Adv Current Topics in Psych
+PSYC,499,Senior Honors Seminar II
+PSYC,500,Professional Develop for Psych
+PSYC,501,Best Psych Research Practices
+PSYC,507,Statistical Methods II
+PSYC,515,Neurotoxicology
+PSYC,530,Found of Ind Org Psych
+PSYC,537,Development & Psychopathology
+PSYC,543,Interdisciplinary Approaches to Neuroscience II
+PSYC,546,Intervention & Assessment
+PSYC,548,Modeling Heterogeneity
+PSYC,553,Founds of Organizational Behav
+PSYC,563,Research Methods: Clinical/Community Psychology
+PSYC,567,Personality Assessment
+PSYC,570,Principles and Methods of Teaching Psychology
+PSYC,576,Clinical/Community: Biological
+PSYC,577,Clinical/Community:Cog/Affect
+PSYC,581,Applied Regression Analysis
+PSYC,587,Hierarchical Linear Models
+PSYC,590,Individual Research
+PSYC,593,Seminar
+PSYC,596,Theories of Measurement II
+PSYC,598,Proseminar in Psychology
+PSYC,599,Thesis Research
+QUEC,411,Beginning Quechua II
+QUEC,421,Intermediate Quechua II
+REES,115,Intro to Polish Culture
+REES,201,Introduction to Eastern Europe
+REES,390,Individual Study or Research
+REES,493,Honors Senior Thesis
+REES,496,Topics in REEE Studies
+REES,590,Individual Study or Research
+REES,596,Topics in REEE Studies
+REES,599,Thesis Research
+REHB,199,Undergraduate Open Seminar
+REHB,322,Introduction to Intellectual Disability
+REHB,330,Disability in American Society
+REHB,419,Counseling Psychology Pre-Practicum
+REHB,435,Work and Disability
+REL,101,Bible as Literature
+REL,109,Religion & Society in West II
+REL,110,World Religions
+REL,112,Elementary Greek II
+REL,115,Language and Culture in India
+REL,132,Zen
+REL,199,Undergraduate Open Seminar
+REL,208,Cultures & Literatures of South Asia
+REL,214,Introduction to Islam
+REL,223,The Qur'an (Koran)
+REL,231,Religion and Philosophy
+REL,235,History of Religion in America
+REL,403,Women in Muslim Societies
+REL,437,Religion in American Cinema
+REL,464,Theories & Theologies of Liberation
+REL,494,Topics in Religious Thought
+REL,511,Seminar in Study of Religion
+REL,567,Mahayana Buddhism
+REL,590,Independent Study
+RHET,102,Principles of Research
+RHET,105,Writing and Research
+RHET,199,Undergraduate Open Seminar
+RHET,233,Adv Rhetoric & Composition
+RMLG,559,Sem Romance Ling
+RST,100,"Recreation, Sport, and Tourism in Modern Society"
+RST,101,"Orientation to Recreation, Sport and Tourism"
+RST,120,"Parks, Recreation, and Environments"
+RST,130,Foundations of Sport Mgt
+RST,180,Professional Applications
+RST,185,Professional Field Experiences
+RST,199,Undergraduate Open Seminar
+RST,200,"Leadership in Recreation, Sport and Tourism"
+RST,205,Issues in Intercollegiate Athletics: The Big Ten Conference
+RST,210,"Management in Recreation, Sport and Tourism"
+RST,216,"Technology in Recreation, Sport and Tourism"
+RST,224,Politics of the National Parks
+RST,225,Environmental Politics & Policy
+RST,230,"Diversity in Recreation, Sport, and Tourism"
+RST,240,"Financial Resource Management in Recreation, Sport and Tourism"
+RST,242,Nature and American Culture
+RST,255,"Ethical Issues in Recreation, Sport and Tourism"
+RST,260,"Disability in Recreation, Sport and Tourism"
+RST,280,"Practicum in Recreation, Sport and Tourism"
+RST,316,"Human Development and Recreation, Sport and Tourism"
+RST,325,"Marketing in Recreation, Sport and Tourism"
+RST,335,Leisure and Consumer Culture
+RST,340,"Facility Management in Recreation, Sport and Tourism"
+RST,350,Tourism and Culture
+RST,354,Legal Aspects of Sport
+RST,370,Research Methods & Analysis
+RST,393,Special Problems
+RST,407,Sport Analytics: Data-Driven Decision Making
+RST,410,"Strategic Thinking in Recreation, Sport and Tourism"
+RST,429,"Contemporary Issues in Recreation, Sport and Tourism"
+RST,430,Sport & Development
+RST,441,Community Planning and Engagement
+RST,465,"Event Implementation and Evaluation in Recreation, Sport and Tourism"
+RST,480,Orientation to Internship
+RST,485,Internship
+RST,502,Critical Issues Recreation Mgt
+RST,503,Adv Leisure Research Methods
+RST,504,Applied Evaluation and Needs Assessment in RST
+RST,515,Marketing in RST
+RST,516,Finance & Budgeting in RST
+RST,519,Strategic Management in RST
+RST,551,Contemporary Issues in Leisure
+RST,570,Cultural Aspects of Tourism
+RST,585,Inclusive by Design in RST
+RST,590,Doctoral Research Seminar and Colloquium
+RST,599,Thesis Research
+RUSS,102,First-Year Russian II
+RUSS,122,Russia and Black America
+RUSS,199,Undergraduate Open Seminar
+RUSS,202,Second-Year Russian II
+RUSS,225,Russian Lit and Revolution
+RUSS,290,Readings in Russian
+RUSS,302,Third Year Russian II
+RUSS,402,Fourth Year Russian II
+RUSS,460,Russian Culture Studies
+RUSS,493,Honors Senior Thesis
+RUSS,511,Russian Literature 1800-1855
+SAME,150,Lang&Culture of Arab World
+SAME,199,Undergraduate Open Seminar
+SAME,208,Cultures & Literatures of South Asia
+SAME,214,Introduction to Islam
+SAME,223,The Qur'an (Koran)
+SAME,272,Language and Culture in Turkey
+SAME,403,Women in Muslim Societies
+SAME,590,Independent Study
+SBC,504,Managing Projects & Teams
+SBC,505,Consumer Insights II
+SBC,506,Measurement and Evaluation
+SCAN,102,Beginning Scandinavian II
+SCAN,104,Intermediate Scandinavian II
+SCAN,199,Undergraduate Open Seminar
+SCAN,225,Vikings to Volvos: Scandinavia
+SCAN,252,Viking Sagas in Translation
+SCAN,493,Honors Senior Thesis
+SCAN,496,Special Topics in Scan Studies
+SCAN,593,Research in Special Topics
+SE,101,Engineering Graphics & Design
+SE,199,Undergraduate Open Seminar
+SE,261,Business Side of Engineering
+SE,290,ISE Undergraduate Seminar
+SE,297,Independent Study
+SE,310,Design of Structures and Mechanisms
+SE,311,Engineering Design Analysis
+SE,312,Instrumentation and Test Lab
+SE,397,Independent Study
+SE,400,Engineering Law
+SE,411,Reliability Engineering
+SE,413,Engineering Design Optimization
+SE,422,Robot Dynamics and Control
+SE,423,Mechatronics
+SE,424,State Space Design for Control
+SE,494,Senior Engineering Project I
+SE,495,Senior Engineering Project II
+SE,497,Independent Study
+SE,520,Analysis of Nonlinear Systems
+SE,590,Seminar
+SE,594,Project Design
+SE,597,Independent Study
+SE,599,Thesis Research
+SHS,120,"Child, Comm, & Lang Ability"
+SHS,121,American Sign Language I
+SHS,170,Intro Hum Comm Sys & Disorders
+SHS,191,Freshmen Seminar
+SHS,199,Undergraduate Open Seminar
+SHS,200,General Phonetics
+SHS,221,American Sign Language II
+SHS,222,Language & Culture of Deaf Communities
+SHS,240,Intro Sound & Hearing Science
+SHS,271,Communication and Aging
+SHS,291,Research Lab Experience in SHS
+SHS,301,General Speech Science
+SHS,321,American Sign Language III
+SHS,352,Hearing Health and Society
+SHS,375,Comm Partners & Health
+SHS,380,Comm Competence and Disorders
+SHS,385,Interpreting Clinical Research in Speech & Hearing Science
+SHS,390,Individual Study
+SHS,395,Honors Individual Study
+SHS,427,Language and the Brain
+SHS,430,Devel & Disorders Phonol Artic
+SHS,473,Augmentative & Alt Comm
+SHS,475,Prepracticum in SHS
+SHS,477,Beginning Practicum in Speech-Language Pathology
+SHS,511,Assessment and Management of Voice Disorders
+SHS,532,Language Disorders & Literacy in School-Age Children & Youth
+SHS,533,Approaches to Language Diagnostics and Clinical Reasoning
+SHS,534,Aphasia and Related Disorders
+SHS,551,Electrophys Indices Audition
+SHS,552,Diag Hear Impair Infants Child
+SHS,553,Hearing Aids and Amplification
+SHS,554,Advanced Audiological Assess
+SHS,556,Sens Prosth Devices Hear Loss
+SHS,557,Advanced Clinical Practicum in Audiological Assessment and Rehabilitation
+SHS,561,Medical Audiology
+SHS,562,Educational Audiology
+SHS,563,Amplification Lab
+SHS,571,Culturally Responsive Practices in Communication Sciences & Disorders
+SHS,574,Communication in Individuals with Autism Spectrum Disorders
+SHS,576,School Intrnshp Spch-Lang Path
+SHS,577,Advanced Practicum in Speech-Language Pathology
+SHS,578,Medical Methods in Speech-Language Pathology
+SHS,590,History of CSD
+SHS,591,Clinical Case Project in Communication Sciences and Disorders
+SHS,592,Prosem Spch & Hear Sci
+SHS,593,Special Problems
+SHS,594,PhD Early Research Project
+SHS,595,Audiology Clinical Practicum Full-Time Externship
+SHS,599,Thesis Research
+SLAV,199,Undergraduate Open Seminar
+SLAV,399,Advanced Undergraduate Open Seminar
+SLAV,417,11th-17thC Russ Lit & Lang
+SLAV,418,Language & Minorities in Europe
+SLAV,452,Slavic Cultural Studies
+SLAV,502,Applied LiteraryTranslation II
+SLAV,591,Individual Topics
+SLAV,599,Thesis Research
+SOC,100,Introduction to Sociology
+SOC,130,Intro Gender & Women's Studies
+SOC,180,Stress and Health in African American Communities
+SOC,196,Issues in Sociology
+SOC,199,Undergraduate Open Seminar
+SOC,200,Introduction to Sociological Theory
+SOC,201,"Race, Gender & Power"
+SOC,202,Sexualities
+SOC,221,Latina/o Migration
+SOC,223,Black Women Contemp US Society
+SOC,225,Race and Ethnicity
+SOC,275,Criminology
+SOC,278,Mapping Latina/o Inequalities
+SOC,280,Intro to Social Statistics
+SOC,325,Black Men and Masculinities
+SOC,350,Technology and Society
+SOC,355,Race and Mixed Race
+SOC,364,Impacts of Globalization
+SOC,366,Postsocialism Eastern Europe
+SOC,375,Criminal Justice System
+SOC,380,Social Research Methods
+SOC,387,"Race, Gender and the Body"
+SOC,390,Individual Study
+SOC,392,Chicanas&Latinas: Self&Society
+SOC,396,Topics in Sociology
+SOC,400,Internships
+SOC,450,Senior Capstone Seminar
+SOC,470,Social Movements
+SOC,479,Law and Society
+SOC,490,Advanced Independent Study
+SOC,495,Senior Honors Seminar
+SOC,501,Contemp Sociological Theory
+SOC,510,Professionalization Seminar
+SOC,575,Founds of Organizational Behav
+SOC,590,Individual Topics in Sociology
+SOC,596,Recent Developments in Soc
+SOC,597,Readings in Sociology
+SOC,598,Thesis Proposal
+SOC,599,Thesis Research
+SOCW,199,Undergraduate Open Seminar
+SOCW,200,Introduction to Social Work
+SOCW,240,Death & Dying
+SOCW,245,Doing Good through the Nonprofit Sector
+SOCW,297,Asian Families in America
+SOCW,299,Study Abroad
+SOCW,300,Diversity: Identities & Issues
+SOCW,310,UG Research Assistance
+SOCW,321,Social Entre & Social Change
+SOCW,330,International Perspectives
+SOCW,360,Social Work and the Military
+SOCW,370,Social Work and Disability Studies
+SOCW,380,Current Topics in Social Work
+SOCW,401,Practice I
+SOCW,402,Practice II
+SOCW,403,Practice III
+SOCW,404,Social Work Case Management Practice
+SOCW,410,Social Welfare Pol and Svcs
+SOCW,417,Dementia Care for Older Adults
+SOCW,418,Independent Study
+SOCW,427,Social Work Research Methods
+SOCW,451,HBSE I: Human Development
+SOCW,455,Social Work with Women
+SOCW,457,Health Planning
+SOCW,461,Professional Practice Seminar I
+SOCW,470,Field Practicum & Professional Seminar II
+SOCW,480,UG Research Project
+SOCW,500,SW Practice with Indiv and Fam
+SOCW,503,Trauma Informed Social Work with Children and Adolescents
+SOCW,507,School Social Work Practice
+SOCW,508,Family Therapy Seminar
+SOCW,509,Adv Clin Assess & Interviewing
+SOCW,510,"Theories of Diversity, Inequality, and Social Change"
+SOCW,514,Mental Health Pol and Svcs
+SOCW,515,Integrated Health Care Policy and Services
+SOCW,516,"Child, Youth and Family Svcs"
+SOCW,519,Public School Policy/Services
+SOCW,520,Social Welfare Planning
+SOCW,522,SW Practice with Communities
+SOCW,526,Managing Human Service Orgs
+SOCW,532,Field Practicum and Integrative Seminar II
+SOCW,533,Field Practicum III
+SOCW,541,Clinical Research Seminar
+SOCW,542,Program Evaluation
+SOCW,552,HBSE II: Mental Disorders
+SOCW,553,Integrated Behavorial Health & Health Care
+SOCW,561,Special Studies in Soc Work I
+SOCW,575,Social Work Teaching Seminar
+SOCW,576,Teaching Practicum
+SOCW,579,Social Work Practice Theories
+SOCW,580,Advanced Child Welfare
+SOCW,581,Gender Relations & Intl Dev
+SOCW,584,Policy Practice and Advocacy
+SOCW,589,Social Work and the Law
+SOCW,594,Individual Research
+SOCW,595,Quantitative Research Designs
+SOCW,599,Dissertation Research
+SPAN,101,Elementary Spanish I
+SPAN,102,Elementary Spanish II
+SPAN,122,Intensive Elementary Spanish
+SPAN,130,Intermediate Spanish
+SPAN,141,Introduction to Spanish Grammar
+SPAN,142,Spanish in the Professions
+SPAN,199,Undergraduate Open Seminar
+SPAN,200,Readings in Hispanic Texts
+SPAN,204,Advanced Spanish Grammar in Context
+SPAN,208,Oral Spanish
+SPAN,228,Spanish Composition
+SPAN,232,Spanish in the Community
+SPAN,240,Latina/o Popular Culture
+SPAN,248,"Latin American Diaspora through Film: Beyond Braceros, Narcos, and Latin Lovers"
+SPAN,250,Approaches to Literature
+SPAN,252,Introduction to Hispanic Linguistics
+SPAN,254,Approaches to Culture
+SPAN,303,The Sounds of Spanish
+SPAN,305,The Structure of Spanish
+SPAN,307,Bilingualism
+SPAN,308,Spanish in the United States
+SPAN,312,Modern Spanish Literatures & Cultures
+SPAN,320,Spanish Cultural Studies II
+SPAN,326,Latin America Cultural Studies II
+SPAN,395,Advanced Topics in Literature & Cultural Studies
+SPAN,399,Advanced Study Abroad
+SPAN,418,Language & Minorities in Europe
+SPAN,460,Principles of Language Testing
+SPAN,464,Spanish Studies 1898-1960
+SPAN,489,Theoretical Foundations of SLA
+SPAN,490,Advanced Readings in Spanish
+SPAN,491,Topics for Honors Students
+SPAN,528,Sem 20thC Spanish Lit
+SPAN,535,Sem Spanish-American Lit
+SPAN,557,Sem Romance Ling
+SPAN,588,Sem Second Lang Learn
+SPAN,590,Topics in Hispanic Studies
+SPAN,595,Special Topics in Spanish
+SPAN,599,Thesis Research
+SPED,117,The Culture of Disability
+SPED,199,Undergraduate Open Seminar
+SPED,317,Characteristics & Eligibility
+SPED,322,Introduction to Intellectual Disability
+SPED,391,Thesis
+SPED,395,Independent Study
+SPED,424,Foundations of Assessment
+SPED,426,Collaboration and Teaming
+SPED,438,Collaborating with Families
+SPED,441,Instructional Strategies II
+SPED,447,Curriculum Development II
+SPED,448,Curriculum Development III
+SPED,460,Communication and Physical Disabilities
+SPED,471,Learning Environments II
+SPED,514,Equity Issues in Special Education
+SPED,524,Supervised Practice in Special Education
+SPED,526,Collaborative Leaders in Special Education
+SPED,550,Methods of Educational Inquiry
+SPED,566,Leadership in Early Childhood Special Education
+SPED,575,Mixed Method Inquiry
+SPED,585,Individual Differences: B to 6
+SPED,590,Seminar for Advanced Students
+SPED,591,Field Study and Thesis Seminar
+SPED,593,Concepts and Issues in Special Education II
+SPED,595,Independent Study
+SPED,599,Thesis Research
+STAT,100,Statistics
+STAT,107,Data Science Discovery
+STAT,200,Statistical Analysis
+STAT,207,Data Science Exploration
+STAT,212,Biostatistics
+STAT,361,Probability & Statistics for Computer Science
+STAT,385,Statistics Programming Methods
+STAT,390,Individual Study
+STAT,391,Honors Individual Study
+STAT,400,Statistics and Probability I
+STAT,408,Actuarial Statistics I
+STAT,410,Statistics and Probability II
+STAT,420,Methods of Applied Statistics
+STAT,424,Analysis of Variance
+STAT,425,Statistical Modeling I
+STAT,426,Statistical Modeling II
+STAT,427,Statistical Consulting
+STAT,428,Statistical Computing
+STAT,429,Time Series Analysis
+STAT,430,Topics in Applied Statistics
+STAT,431,Applied Bayesian Analysis
+STAT,432,Basics of Statistical Learning
+STAT,433,Stochastic Processes
+STAT,440,Statistical Data Management
+STAT,443,Professional Statistics
+STAT,447,Data Science Programming Methods
+STAT,448,Advanced Data Analysis
+STAT,510,Mathematical Statistics
+STAT,525,Computational Statistics
+STAT,528,Advanced Regression Analysis II
+STAT,530,Bioinformatics
+STAT,541,Advanced Predictive Analytics
+STAT,542,Statistical Learning
+STAT,551,Theory of Probability I
+STAT,554,Probability and Measure II
+STAT,556,Advanced Time Series Analysis
+STAT,558,Risk Modeling and Analysis
+STAT,575,Large Sample Theory
+STAT,578,Topics in Statistics
+STAT,587,Hierarchical Linear Models
+STAT,590,Individual Study and Research
+STAT,593,STAT Internship
+STAT,595,Preparing Future Faculty
+STAT,599,Thesis Research
+SWAH,202,Elementary Swahili II
+SWAH,404,Intermediate Swahili II
+SWAH,406,Advanced Swahili II
+SWAH,408,Topics Swahili Lang & Lit II
+SWAH,410,Adv Topics Swahili Lang&Lit II
+TAM,199,Undergraduate Open Seminar
+TAM,210,Introduction to Statics
+TAM,211,Statics
+TAM,212,Introductory Dynamics
+TAM,251,Introductory Solid Mechanics
+TAM,252,Solid Mechanics Design
+TAM,270,Design for Manufacturability
+TAM,297,Introductory Independent Study
+TAM,324,Behavior of Materials
+TAM,335,Introductory Fluid Mechanics
+TAM,412,Intermediate Dynamics
+TAM,428,Mechanics of Composites
+TAM,445,Continuum Mechanics
+TAM,456,Experimental Stress Analysis
+TAM,497,Independent Study
+TAM,500,Seminar
+TAM,514,Elastodynamics and Vibrations
+TAM,524,Micromechanics of Materials
+TAM,532,Viscous Flow
+TAM,534,Non-Newtonian Fluid Mechanics & Rheology
+TAM,539,Fluid Mechanics Seminar
+TAM,542,Mathematical Methods II
+TAM,552,Solid Mechanics II
+TAM,574,Adv Finite Element Methods
+TAM,597,Advanced Independent Study
+TAM,599,Thesis Research
+TE,100,"Introduction to Innovation, Leadership and Engineering Entrepreneurship"
+TE,110,Communicating and Presenting in Engineering
+TE,250,From Idea to Enterprise
+TE,333,"Creativity, Innovation, Vision"
+TE,360,Lectures in Engineering Entrepreneurship
+TE,390,Innovation and Engineering Design
+TE,398,Special Topics II
+TE,401,Developing Breakthrough Projects
+TE,450,"Startups: Incorporation, Funding, Contracts, & Intellectual Property"
+TE,460,Lectures in Engineering Entrepreneurship
+TE,461,Technology Entrepreneurship
+TE,462,Leading Sustainable Change
+TE,466,High-Tech Venture Marketing
+TE,498,Special Topics III
+TE,510,Advanced Creativity
+TE,565,Technol Innovation & Strategy
+TE,566,Finance for Engineering Mgmt
+TE,567,Venture Funded Startups
+THEA,100,Practicum I
+THEA,101,Introduction to Theatre Arts
+THEA,110,Broadway Musicals
+THEA,119,BFA Production Seminar
+THEA,122,Theatre Foundations: Theory and Practice
+THEA,126,Stagecraft
+THEA,151,Introduction to Digital Audio Workstations
+THEA,170,Fundamentals of Acting I
+THEA,175,Fundamentals of Acting II
+THEA,199,Undergraduate Open Seminar
+THEA,200,Practicum II
+THEA,204,Introduction to Contemporary Performance Practice
+THEA,208,21st Century Dramaturgy
+THEA,210,Introduction to Greek and Roman Theater
+THEA,212,Introduction to Directing
+THEA,218,Intro to Social Issues Theatre
+THEA,222,Introduction to Scenic Design
+THEA,223,Introduction to Stage Rigging
+THEA,231,Intro to Lighting Design
+THEA,262,Literature of Modern Theatre
+THEA,270,Relationships in Acting I
+THEA,275,Relationships in Acting II
+THEA,276,Voice and Movement II
+THEA,300,Practicum III
+THEA,359,Professional Stage Management
+THEA,361,History of Theatre II
+THEA,364,Topics in Theatre History
+THEA,375,Acting Studio II: Dynamics
+THEA,376,Acting Studio II: Voice
+THEA,377,Acting Studio II: Movement
+THEA,378,Acting Studio II: Acting
+THEA,391,Individual Topics
+THEA,392,Individual Topics
+THEA,399,Undergraduate Group Seminar
+THEA,400,Practicum IV
+THEA,406,Opera/Dance Stage Management
+THEA,407,Production Management
+THEA,411,Playwrights' Workshop
+THEA,417,Leading Post-Perform Dialog
+THEA,418,Devising Social Issues Theatre
+THEA,419,Theatrical CAD Drafting
+THEA,421,Welding for the Stage
+THEA,422,Structures for the Stage
+THEA,425,Advanced Scenographic Drafting
+THEA,426,History of Decor
+THEA,431,The Lighting Laboratory
+THEA,433,Business of Entertainment Design
+THEA,434,Advanced Lighting Seminar
+THEA,438,Traditional Rendering Techniques
+THEA,441,Advanced Costume Construction
+THEA,443,Flat Pattern Drafting
+THEA,446,Costume History II
+THEA,447,Costume Rendering
+THEA,450,Management Seminar
+THEA,454,Sound Design I
+THEA,455,Sound Design II
+THEA,456,Properties Design
+THEA,457,Model Making for the Stage
+THEA,462,Advanced Media Design
+THEA,475,Acting Studio IV: Dynamics
+THEA,476,Acting Studio IV: Voice
+THEA,477,Acting Studio IV: Movement
+THEA,478,Acting Studio IV: Acting
+THEA,479,Preparation for Auditions
+THEA,482,Content Creation 2: Motion Graphics & VFX for Media Design
+THEA,489,Leatherworking Techniques
+THEA,490,Professional Internship
+THEA,491,Advanced CAD Drafting for Lighting Designers
+THEA,493,Lighting Opera & Musicals
+THEA,495,Capstone Project
+THEA,496,Professional Exploration
+THEA,498,Audio Engineering II
+THEA,522,Structures for the Stage II
+THEA,550,Colloquium Design & Theat Tech
+THEA,559,Topics in Stage Management
+THEA,560,Seminar in Theatre History
+THEA,562,Seminar in Theatre Theory
+THEA,571,Colloquium in Acting: Dynamics
+THEA,572,Colloquium in Acting: Voice
+THEA,573,Colloquium in Acting: Movement
+THEA,574,Colloquium in Acting: Acting
+THEA,591,Special Problems
+THEA,595,Creative Project
+THEA,599,Thesis Research
+TMGT,366,Product Design and Development
+TMGT,461,"Tech, Eng, & Mgt Final Project"
+TRST,410,Translation and Interpreting Theory & Practice
+TRST,432,Audio Visual Translation Studies
+TRST,500,Translation and Interpreting: Reflective Practice
+TRST,502,Applied LiteraryTranslation II
+TRST,503,Computer-Assisted Translation
+TRST,542,Conference Interpreting
+TRST,580,Special Topics in Translation
+TURK,199,Undergraduate Open Seminar
+TURK,202,Elementary Turkish II
+TURK,270,Language and Culture in Turkey
+TURK,404,Intermediate Turkish II
+TURK,406,Advanced Turkish II
+TURK,490,Special Topics in Turkish
+UKR,102,Basic Ukrainian II
+UKR,199,Undergraduate Open Seminar
+UKR,202,Second-Year Ukrainian II
+UP,116,Urban Informatics I
+UP,136,Urban Sustainability
+UP,160,"Race, Social Justice, and Cities"
+UP,199,Undergraduate Open Seminar
+UP,201,Planning in Action
+UP,210,Environmental Economics
+UP,211,"Local Planning, Gov't and Law"
+UP,230,Transportation Planning: Fundamentals and Innovations
+UP,260,Social Inequality and Planning
+UP,301,Capstone Preparation
+UP,316,Urban Informatics II
+UP,345,Economic Development Planning
+UP,347,Junior Planning Workshop
+UP,390,Planning Internship
+UP,397,Undergraduate Project
+UP,401,Undergraduate Capstone Seminar
+UP,431,Urban Transportation Modeling
+UP,437,Public Transportation Planning
+UP,443,"Scenarios, Plans & Future Cities"
+UP,446,Sustainable Planning Seminar
+UP,466,Energy & the Built Environment
+UP,473,Housing & Urban Policy
+UP,475,Real Estate Development Fundamentals
+UP,480,Sustainable Design Principles
+UP,486,Planning with Climate Change
+UP,494,Special Topics in Planning
+UP,504,Urban History and Theory
+UP,511,Law and Planning
+UP,519,Advanced Applications of GIS
+UP,545,Economic Development Policy
+UP,570,Neighborhood Analysis
+UP,576,Sustainable Urban Systems
+UP,590,Professional Internship
+UP,591,Capstone Seminar
+UP,592,Doctoral Urban Planning Seminar
+UP,596,Independent Study
+UP,597,Urban Planning Research
+UP,598,Master's Project
+UP,599,Thesis Research
+VCM,501,Zoological Medicine Seminar
+VCM,503,Current Lit in Equine Med Surg
+VCM,505,Introduction to Veterinary Science
+VCM,506,Topics in Pathophysiology
+VCM,508,Trans Mol Path Veterinary Dz
+VCM,513,Science of Health Homeostasis
+VCM,514,Science of Health Evaluation
+VCM,522,Adv Comp Theriogenology
+VCM,524,Effective Biomedical Teacher
+VCM,535,Small Animal Internal Medicine Book Club
+VCM,536,ECC Journal Topics
+VCM,540,Conservation and Ecosystem Health
+VCM,542,Ocular Pathology
+VCM,560,Infectious Disease in Livestock Systems
+VCM,561,Biosecurity in Livestock Systems
+VCM,562,Understanding the Host Response to Infection
+VCM,568,A Systems-Based Approach to the Operation of Livestock-Based Food Production Systems I
+VCM,569,A Systems-Based Approach to the Operation of Livestock-Based Food Production Systems II
+VCM,577,Advanced Large Animal Medicine
+VCM,584,Current Concepts Comp Surgery
+VCM,585,Current Lit Sm Anim Medicine
+VCM,590,Seminar
+VCM,592,Special Problems
+VCM,593,Adv Topics Vet Clin Med
+VCM,595,MVS Integrative Learning Experience
+VCM,598,Manuscript Research
+VCM,599,Thesis Research
+VCM,608,Equine Veterinary Husbandry
+VCM,625,Zoological Companion Mammal Medicine
+VCM,627,Equine Infectious Disease
+VCM,628,The Healer's Art
+VCM,641,Equine Neonatology
+VCM,645,Equine Surgery Laboratory
+VCM,661,Advanced Equine Lameness
+VCM,663,Small Animal Dermatology
+VCM,673,Companion Animal Rehab
+VCM,674,Equine Exercise Physiology
+VCM,682,Wildlife Medicine
+VCM,688,Food Supply Disease Management
+VCM,690,Intro to Food Supply Medicine
+VCM,692,Special Problems
+VM,603,Structure and Function II
+VM,604,Structure and Function III
+VM,606,Clinical Practice II
+VM,608,Pathobiology III
+VM,612,Clinical Practice III
+VM,616,Clinical Practice VII
+VM,617,Professional Development
+VM,623,Research Project II
+VM,642,Contemporary Issues in Vet Med
+VM,645,Communications in Practice
+VM,655,Small Animal Medicine and Surgery III
+VM,656,Large Animal Medicine and Surgery III
+WGGP,581,Gender Relations & Intl Dev
+WLOF,202,Elementary Wolof II
+WLOF,404,Intermediate Wolof II
+WLOF,406,Advanced Wolof II
+WRIT,303,Writing Across Media
+ZULU,202,Elementary Zulu II
