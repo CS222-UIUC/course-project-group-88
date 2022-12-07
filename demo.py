@@ -69,4 +69,4 @@ if __name__ == '__main__' :
     #    print(firstPage.extract_text())
     # pdf.close()
     # os.remove('oi.pdf')
-    # print(get_course_info(''))
+    # print(get_course_info(''))                     
