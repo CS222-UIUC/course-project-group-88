@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <!-- <link rel="stylesheet" type="text/css" href="./style.css"> -->
+       <style type=text/css>
+       .leftdiv 
+       {
+        float: left;
+       }
+       .rightdiv 
+       {
+        float: right;
+       }
+       div{
+        padding : 1%;
+        color: white;
+        background-color:rgb(241, 156, 36);
+        width: 47.5%;
+        border: solid black;
+       }
+        </style>
+    </head>
+    <h1> Class Finder</h1>
+    <body>
+        <div class="rightdiv"> 
+            <form> 
+                <input type="text" id="searchbar" onkeyup="look_up()" 
+            name="q" placeholder="Search subject..">
+                <button>Search</button>
+            </form>
+          
+            <ol id='list'>
+                <li class="courses">CS</li>
+                <li class="courses">MATH</li>
+                <li class="courses">CS222</li>
+                <li class="courses">CS225</li>
+                <li class="courses">MATH241</li>
+            </ol> 
+        </div>
+        
+    <div class="leftdiv"> 
+        <table  BORDER=1 HEIGHT="40%" WIDTH="100%">
+            <colgroup>
+                <col span="6" style="background-color:rgb(241, 156, 36)">
+              </colgroup>
+            <thead>Please input when you are not available during each weekday in a comma seperated listed of the following format. 
+                XX:XX{AM/PM} - XX:XX{AM/PM}. Press the submit button when you are done.               
+                <br>Example: 09:00AM - 10:30AM,01:00PM - 01:50PM,etc
+            </thead> 
+            <tr>
+                <th>Day of the week  </th>
+                <th>Times Not Available</th>
+            </tr> 
+            <form> 
+                <tr><th><label for="m">Monday</label></th>
+                <th><input type="text" id="m" name="m" /> </th></tr>
+                <tr><th><label for="t">Tuesday</label></th>
+                <th><input type="text" id="t" name="t" /></th></tr>
+                <tr><th><label for="w">Wednesday</label></th>
+                <th><input type="text" id="w" name="w" /></th></tr>
+                <tr><th><label for="r">Thursday</label></th>
+                <th><input type="text" id="r" name="r" /></th></tr>
+                <tr><th><label for="f">Friday</label></th>
+                <th><input type="text" id="f" name="f" /></th></tr>
+                <!--<button id="btn">Submit</button>-->
+            </form> 
+            </tr> 
+        </table> 
+        <button id="btn">Submit</button>
+        <script> 
+        var monday = document.getElementById('m').value;
+        var tuesday = document.getElementById('t').value;
+        var wednesday = document.getElementById('w').value;
+        var thursday = document.getElementById('r').value;
+        var friday = document.getElementById('f').value;
+
+        let btn = document.getElementById("btn");
+        btn.addEventListener('click', event => {
+            StaticJsonDocument<256> doc;
+                doc["M"] = monday.value;
+                doc["T"] = tuesday.value;
+                doc["W"] = wednesday.value;
+                doc["R"] = thursday.value;
+                doc["F"] = friday.value;
+            File file = SPIFFS.open("/INSERTNAME.jsonl", "a");
+            serializeJson(doc, file);
+            file.println();
+            file.close();
+            /*var user_input = {
+                "M":monday.value, 
+                "T":tuesday.value,
+                "W":wednesday.value,
+                "R":thursday.value, 
+                "F":friday.value
+                };
+                var user_info = JSON.stringify(user_input);*/
+                
+                alert("maybe some progress??");
+        });
+        </script>
+    </div>
+      
+    <!--<script src="./courses.js"></script>
+    <script src="./style.css"></script>-->
+</body>
+</html>
