@@ -207,6 +207,7 @@ def arrObjToStr(arr: []) -> []:
         newarr.append(str(x))
     return newarr
 
+
 # Converts 3d array to nested dictionary to send to JSON file
 def makeDictForJSON(subj_options):
     output = dict()
@@ -222,7 +223,19 @@ def makeDictForJSON(subj_options):
             output.update({str(a[0][0]) : newdict})
     return output
 
-'''def readUserInput(filename, subjAbrev):
+def toCSV(options):
+    f = open("urmom.csv", 'w')
+    writer = csv.writer(f)
+    #writer.writerow(options)
+    for a in options:
+        #writer.writerow(a[0])
+        for b in a:
+            #if(b != 0):
+            writer.writerow(b)
+                
+            
+
+'''def readUserInput(filename):
     userSched = Schedule()
     with open(filename, mode = 'r') as file:
         urmom = csv.reader(file)'''
