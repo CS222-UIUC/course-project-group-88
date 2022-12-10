@@ -1,0 +1,9 @@
+31511	CS 199 STR	CS Stars Seminar	Urbana-Champaign	1.000	1U	Aug 22, 2022	Dec 07, 2022	W	5:00 pm - 6:00 pm	TBA	Amato
+74484	CS 222 SL1	Software Design Lab	Urbana-Champaign	1.000	1U	Aug 22, 2022	Dec 07, 2022	F	2:00 pm - 2:50 pm	Campus Instructional Facility 0027/1025	Woodley
+35926	CS 225 ABC	Data Structures	Urbana-Champaign	0.000	1U	Aug 22, 2022	Dec 07, 2022	R	11:00 am - 12:50 pm	Sidney Lu Mech Engr Bldg 3101	Farley
+35917	CS 225 AL1	Data Structures	Urbana-Champaign	4.000	1U	Aug 22, 2022	Dec 07, 2022	MWF	11:00 am - 11:50 am	Foellinger Auditorium AUD	Evans
+36798	ECE 110 AB6	Introduction to Electronics	Urbana-Champaign	0.000	1U	Aug 22, 2022	Dec 07, 2022	W	12:00 pm - 2:50 pm	Electrical & Computer Eng Bldg 1001	Choi
+62844	ECE 110 AL4	Introduction to Electronics	Urbana-Champaign	3.000	1U	Aug 22, 2022	Dec 07, 2022	MW	9:00 am - 9:50 am	Electrical & Computer Eng Bldg 1013	Schuh
+63868	SPAN 142 C	Spanish in the Professions	Urbana-Champaign	4.000	1U	Aug 22, 2022	Dec 07, 2022	TR	10:00 am - 10:50 am	Foreign Languages Building G24	Morales Perez
+ 	 	 	 	 	 	Aug 22, 2022	Dec 07, 2022	 	TBA	TBA	Morales Perez
+ 	 	 	Total Credits:	13.000

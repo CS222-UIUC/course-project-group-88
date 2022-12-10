@@ -1,6 +1,7 @@
 from typing import List, Tuple
 import csv
 import json
+import sys
 
 days_arr = ['M', 'T', 'W', 'R', 'F']
 
@@ -232,13 +233,49 @@ def toCSV(options):
         for b in a:
             #if(b != 0):
             writer.writerow(b)
+            
+            
+def toString(options) -> str:
+    string = ""
+    for a in options:
+        for b in a:
+            c = arrObjToStr(b)
+            for d in c:
+                string += d + ","
+            string += "+"
+        string += "@"
+    return string
                 
             
 
-'''def readUserInput(filename):
+def readUserInput(inputStr):
+    inputArr = inputStr.split('+')
     userSched = Schedule()
-    with open(filename, mode = 'r') as file:
-        urmom = csv.reader(file)'''
+    subj_code = inputArr[0]
+    for i in range(1, 6):
+        unav_times = inputArr[i].split(',')
+        for j in unav_times:
+            t = nearestTimes(strToTime(j))
+            for k in range(int(t[0]*2), int(t[1]*2)):
+                k = k/2.0
+                userSched.setUnavailable(idxToDay(i - 1), k)
+    return (subj_code, userSched)
+
+def doEverything(input):
+    tup = readUserInput(input)
+    courses = readFile(".github/bigboi.csv", tup[0])
+    options = subjectOptions(courses, tup[1])
+    print(toString(options))
+    return toString(options)
+    
+            
+if __name__ == "__main__":
+
+    input = sys.argv[1] #receives js string
+    urmom = doEverything(input)
+    print(urmom)
+    #print(input.split('m')) #whatever you want to export back to the js file
+    sys.stdout.flush()      
     
             
     
@@ -247,6 +284,6 @@ def toCSV(options):
 
 
 # run test file
-exec(open(".github/better_schedule_TESTS.py").read())
+# exec(open(".github/better_schedule_TESTS.py").read())
         
         
