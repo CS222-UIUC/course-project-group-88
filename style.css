@@ -1,0 +1,59 @@
+/*formating split page*/
+.leftdiv {
+  float: left;
+}
+.rightdiv {
+  float: right;
+}
+div{
+  padding : 1%;
+  color: rgb(246, 246, 246);
+  background-color:rgb(241, 156, 36);
+  width: 47.5%;
+  border: solid rgb(10, 34, 242);
+}
+
+h2 {
+  text-align: center;
+  color: rgb(10, 34, 242);
+  font-size: xx-large;
+}
+
+h3 {
+  text-align: center;
+}
+
+table, th {
+  border: 2px solid  rgb(10, 34, 242);
+  border-collapse: collapse;
+}
+
+#dvCSV {
+  width: fit-content;
+  border-collapse: collapse;
+}
+
+#searchbar{
+    padding:5px;
+    border-radius: 10px;
+    border-color: rgb(10, 34, 242);
+}
+
+input[type=text] {
+  width: 30%;
+  -webkit-transition: width 0.15s ease-in-out;
+  transition: width 0.15s ease-in-out;
+  border: 1px rgb(10, 34, 242);
+}
+
+input[type=text]:focus {
+  width: 90%;
+}
+
+#list{
+  font-size:  1em;
+}
+ 
+.courses{
+  display: list-item;    
+} 

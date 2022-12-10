@@ -1,4 +1,6 @@
+
 from operator import truediv
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -31,6 +33,7 @@ class Course(Subject):
     def __str__(self):
         return self.subject_code + self.number + ": " + self.name
 
+
 # time = touple of doubles
 class Section(Course):
     def __init__(self, section_code, days, time, linked, location, professor, course_name, number, subject, subject_code):
@@ -51,8 +54,6 @@ class Section(Course):
         y = soup.find(class_="RatingValue__Numerator-qw8sqy-2 liyUjw")
         return y.text.strip()
 
-
-        
 # classes: array of sections
 # unavailable_times: array of tuples of doubles representing times
 class Schedule:
@@ -123,5 +124,7 @@ def getTime(time):
 def getDays(days):
     
 
+
 exec(open(".github/course_classes_tests.py").read())
 exec(open(".github/schedule_reader.py").read())
+
