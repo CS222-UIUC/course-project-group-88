@@ -80,11 +80,13 @@ for a in y:
             
 print(y)
 
-print(makeDictForJSON(y))
+toCSV(y)
+
+#print(makeDictForJSON(y))
 
 #with open("sample.json", "w") as outfile:
 urmom2 = json.dumps(makeDictForJSON(y), indent = 4)
-print(urmom2)
+#print(urmom2)
 
 with open("sample.json", "w") as outfile:
     json.dump(makeDictForJSON(y), outfile)
@@ -104,3 +106,6 @@ for i in range(22, 24):
     atlasSched.setUnavailable("TR", i)
     
 print(json.dumps(makeDictForJSON(subjectOptions(readFile(".github/bigboi.csv", "CS"), atlasSched)), indent = 4))
+
+input = "CS+09:10AM - 10:30AM,02:00PM - 03:30PM+08:00AM - 12:00PM,04:30PM - 06:15PM+08:15AM - 11:00AM,02:15PM - 04:00PM+09:00AM - 04:00PM+08:00AM - 09:00AM"
+doEverything(input)
