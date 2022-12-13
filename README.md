@@ -36,5 +36,5 @@ and use the first link to travel to the local server.
 
 ## Usage
 
-Travel to the local server. As specified on the site, insert times of unavailability into respective table slots. Search the department abbreviations for which courses you would like to see fit into your schedule. Hit the "Show Class Options" button to receive courses that fit within your schedule.
+Travel to the local server. As specified on the site, insert times of unavailability into respective table slots. Search the department abbreviations for which courses you would like to see fit into your schedule. Hit the "Show Class Options" button to receive courses that fit within your schedule. To stop running the website, shutdown the terminal.
 
