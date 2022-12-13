@@ -46,6 +46,8 @@ if __name__ == '__main__' :
     #response = requests.get('https://courses.illinois.edu/pdf/schedule/2022/fall/ARTS/243', stream=True)
     # pdf = open('oi.pdf', 'wb')
     # pdf.write(response.content)
+
+    """
     default_url = 'https://courses.illinois.edu/schedule/DEFAULT/DEFAULT'
     departments = get_departments(default_url)
     all_courses = []
@@ -62,6 +64,17 @@ if __name__ == '__main__' :
                 info.append(course[1])
                 data.append(info)
         writer.writerows(data)
+    """
+    url = 'https://courses.illinois.edu/schedule/2023/spring'
+    departments = get_departments(url)
+    with open("subjects.txt", 'w', encoding='UTF8', newline='') as file:
+        write_me = ""
+        for elem in departments:
+            write_me += '<li class="courses">' + elem[0] + '<\li>' + '\n'
+        file.write(write_me)
+
+
+
 
     #pdfReader = PyPDF2.PdfFileReader(pdf)
     #with PDfplumber.open('oi.pdf') as info:
