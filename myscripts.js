@@ -35,16 +35,23 @@ btn.addEventListener('click', event => {
     var dept = document.getElementById('searchbar').value;
     const user_input = dept + "+" + monday + "+" + tuesday + "+" + wednesday + "+" + thursday + "+" + friday;
     console.log(JSON.stringify(user_input));
-    //sending information to the backend
-    const information = JSON.stringify(user_input);
-    const spawner = require('child_process').spawn;
-    const python_process = spawner('python', ['./better_schedule.py', information]); 
-    //gettting information from the backend 
-    const classInfo = "";
-    python_process.stdout.on('data', (data) => { //reads the python output
-       classInfo = data.toString();
-    }); 
-    var classTable = toArr(classInfo); 
+});
+
+let show = document.getElementById('show');
+show.addEventListener('click', event => {
+    var classTable = [
+        [['Intro Computing: Engrg & Sci 101'], ['Laboratory-Discussion', '04:00PM - 05:50PM ; M', '06:00PM - 07:50PM ; M', '01:00PM - 02:50PM ; T', '06:00PM - 07:50PM ; W', '05:00PM - 06:50PM ; R', '03:00PM - 04:50PM ; F']], 
+        [['Little Bits to Big Ideas 102'], ['Laboratory', '04:00PM - 05:15PM ; R', '05:30PM - 06:45PM ; W']], 
+        [['Intro Computing: Non-Tech 105'], ['Laboratory-Discussion', '11:00AM - 12:20PM ; M', '05:00PM - 06:20PM ; M', '01:00PM - 02:20PM ; T', '03:00PM - 04:20PM ; T']], 
+        [['Data Science Discovery 107'], ['Laboratory-Discussion', '05:00PM - 06:20PM ; W', '05:00PM - 06:20PM ; W']], 
+        [['Introduction to Computer Science I 124'], ['Discussion/ Recitation', '01:00PM - 01:50PM ; T', '01:00PM - 01:50PM ; T', '02:00PM - 02:50PM ; T', '02:00PM - 02:50PM ; T', '03:00PM - 03:50PM ; T', '03:00PM - 03:50PM ; T']], 
+        [['Introduction to Computer Science II 128'], ['Laboratory-Discussion', '03:30PM - 04:50PM ; F', '05:00PM - 06:20PM ; F', '06:30PM - 07:50PM ; F', '03:30PM - 04:50PM ; F', '05:00PM - 06:20PM ; F', '06:30PM - 07:50PM ; F', '03:30PM - 04:50PM ; F', '05:00PM - 06:20PM ; F', '06:30PM - 07:50PM ; F', '03:30PM - 04:50PM ; F', '05:00PM - 06:20PM ; F', '06:30PM - 07:50PM ; F']], 
+        [['Undergraduate Open Seminar in Computer Science 199'], ['Laboratory-Discussion', '12:30PM - 01:45PM ; W'], ['Online', '05:00PM - 05:50PM ; M', '05:00PM - 06:50PM ; R'], ['Lecture', '07:00PM - 07:50PM ; W', '05:00PM - 06:00PM ; W']], 
+        [['Software Design Lab 222'], ['Laboratory-Discussion', '01:00PM - 01:50PM ; W']], [['System Programming 341'], ['Laboratory-Discussion', '05:00PM - 06:20PM ; R', '12:30PM - 01:50PM ; W', '05:00PM - 06:20PM ; W']], 
+        [['Probability & Statistics for Computer Science 361'], ['Discussion/ Recitation', '11:00AM - 11:50AM ; M', '12:00PM - 12:50PM ; M', '01:00PM - 01:50PM ; M', '04:00PM - 04:50PM ; M']], 
+        [['Embedded Systems 431'], ['Laboratory', '05:00PM - 06:50PM ; W']], 
+        [['Computer Security I 461'], ['Discussion/ Recitation', '12:00PM - 12:50PM ; W', '01:00PM - 01:50PM ; W']], 
+        [['Seminar 491'], ['Lecture', '05:15PM - 06:15PM ; M']]];
     const out = document.getElementById("output");
     let table = document.createElement('table');
     for (let one of classTable) {
